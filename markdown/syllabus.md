@@ -24,20 +24,16 @@ Personal issues impacting coursework                          Your dean, and/or 
 
 ## Luther Tychonievich
 
-Office: Rice 208
+Office: Rice 209
 
-Office hours: Monday 10--10:30, Wednesday 3:15--4:15 (but not on days of exams), Thursday 11:30--2.
+Office hours: TBA
 If my door is open, you are welcome to come in even when it is not my scheduled office hours.
 
-Due to uncontrolable circumstances, I will not hold office hours Monday 12 February nor Thursday 22 February.
-
-Email: tychonievich@virginia.edu
-
-Comments: I read email once each work day if it contains 1110 in the subject line.  I get so much email that email without 1110 in the subject line often goes unread.
+Email: njb2b@virginia.edu
 
 ## Craig Dill
 
-Office hours: Monday and Wednesday, 1--2pm in Rice 514
+Office hours: TBA
 
 Email: cd9au@virginia.edu 
 
@@ -45,7 +41,7 @@ Email: cd9au@virginia.edu
 
 Office: Rice 206
 
-Office hours: Tuesday 12:00pm-1:30pm, Wednesday 11:30am-12:30pm, Thursday 12:00pm-1:30pm
+Office hours: TBA
 
 Email: up3f@virginia.edu 
 
@@ -64,7 +60,7 @@ Please show them respect and only contact them via piazza, or in person during t
 Pestering our TAs when they are off the clock (including via email) can be penalized under the "professionalism" clause of our grading policy.
 
 ## Piazza Message board
-Piazza @ [https://piazza.com/class/j6m7hyps7tx66x](https://piazza.com/class/jc22j4dppl6247)
+Piazza @ [piazza.com/virginia/fall2018/cs1110cs1111f18](piazza.com/virginia/fall2018/cs1110cs1111f18)
 
 Log in to Piazza and use the threads for quick questions, assignments, and for discussion with other students and staff.
 
@@ -107,10 +103,10 @@ In common with many courses in CS, we use a point-based grading system.
 
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Programming assignments     31.5%   (1.5% each) Solo programming assignments will be due almost every week, and will be weighted equally
-Project                     7.5%    (worth 5 PAs) A larger partner project will be worth more points than the average assignment
-Exams                       50%     Per College policy, "Unexcused absence from a final examination results in an automatic grade of F in the course."
-Participation               11%     For 1110, most participation points are awarded in lab; for 1111, most will be for in-class exercises.
+Programming assignments     42%   (2% each) Solo programming assignments will be due almost every week, and will be weighted equally
+Project                     8%    (worth 5 PAs) A larger partner project will be worth more points than the average assignment
+Exams                       39%    (13% each) Per College policy, "Unexcused absence from a final examination results in an automatic grade of F in the course."
+Participation               9%     For 1110, most participation points are awarded in lab; for 1111, most will be for in-class exercises.
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, pestering TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
 The exact weights of assignments is subject to change as we further refine the assignments we will give.
