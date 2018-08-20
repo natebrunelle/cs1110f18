@@ -10,27 +10,26 @@ Welcome! In this course, we have two main goals - to teach you the skill of prog
 
 Section |Time             |Place                 |Instructor             
 --------|-----------------|----------------------|-----------------------
-1110-001|MoWeFr 2–2:50PM  |Chemistry Building 402|Luther Tychonievich    
-1110-002|MoWeFr 12–12:50PM|Olsson Hall 120       |Craig Dill
-1110-003|MoWeFr 11–11:50AM|Gilmer Hall 130       |Luther Tychonievich
-1111    |MoWe 2–3:15PM    |Thorton Hall E303     |Upsorn Praphamontripong
+1110-001|MoWeFr 2–2:50PM  |Wilson Hall 402       |Nathan Brunelle    
+1110-002|MoWeFr 12–12:50PM|Rice Hall 130         |Craig Dill
+1110-003|MoWeFr 11–11:50AM|Rice Hall 130         |Nathan Brunelle
+1111    |MoWe 2–3:15PM    |Clark Hall 108         |Upsorn Praphamontripong
 
 ## Lab Sections
 
 |Section |Time            |Place       |
 |----------|-----------------|-------------|
-|1110-100|Th 9:30–10:45AM |Olsson 001  |
-|1110-101|Th 11:00–12:15PM|Olsson 001  |
-|1110-107|Th 11:00–12:15PM|MEC 213     |
-|1110-102|Th 12:30–1:45PM |Olsson 001  |
-|1110-103|Th 2:00–3:15PM  |Olsson 001  |
-|1110-104|Th 3:30–4:45PM  |Olsson 001  |
-|1110-108|Th 3:30–4:45PM  |MEC 213     |
-|1110-105|Th 5:00–6:15PM  |Olsson 001  |
-|1110-109|Th 5:00–6:15PM  |MEC 213     |
-|1110-111|Th 5:00–6:15PM  |Rice 130    |
-|1110-106|Th 6:30–7:45PM  |Olsson 001  |
-|1110-110|Th 6:30–7:45PM  |MEC 213     |
+|1110-113|Th 8:00–9:15AM  |Olsson 001  |
+|1110-102|Th 9:30–10:45AM |Olsson 009  |
+|1110-103|Th 11:00–12:15PM|Olsson 001  |
+|1110-101|Th 12:30–1:45PM |Olsson 001  |
+|1110-109|Th 12:30–1:45PM |MEC 213     |
+|1110-104|Th 2:00–3:15PM  |Olsson 009  |
+|1110-105|Th 3:30–4:45PM  |Olsson 009  |
+|1110-113|Th 3:30–4:45PM  |MEC 213     |
+|1110-106|Th 5:00–6:15PM  |Olsson 009  |
+|1110-111|Th 6:30–7:45PM  |MEC 213     |
+|1110-108|Th 8:00–9:15PM  |Olsson 001  |
 |1111    |(none)          |(none)      |
 
 ## Swapping Labs and Waiting Lists
@@ -55,5 +54,3 @@ Placement Test
     If you pass the placement test, we advise taking CS 2110 to expand your programming ability further.
 
 Three other courses (CS 1120 and two different flavors of CS 1113) present a more mathematical-, scientific-, or engineering-focussed introduction to computing, but are not being offered this semester.
-
-**CS 1511-001** is a different introduction to computer science, having a broader scope of the field as a whole compared to CS 111x's deeper dive into programming skills.
