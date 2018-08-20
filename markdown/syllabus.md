@@ -22,7 +22,7 @@ Conversations about mentoring, research, student life, etc.   Office hours or sc
 Personal issues impacting coursework                          Your dean, and/or private email to your section's instructor
 
 
-## Luther Tychonievich
+## Nate Brunelle
 
 Office: Rice 209
 
@@ -36,6 +36,14 @@ Email: njb2b@virginia.edu
 Office hours: TBA
 
 Email: cd9au@virginia.edu 
+
+## Panagiotis Apostollelis
+
+Office: Rice 412
+
+Office hours: TBA
+
+Email: pa7xu@virginia.edu
 
 ## Upsorn Praphamontripong
 
