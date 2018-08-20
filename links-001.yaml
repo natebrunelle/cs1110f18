@@ -1,0 +1,189 @@
+2018-01-17:
+  audio: /screencasts/2018-01-17-001.mp3
+  files: [/files/001/2018-01-17/notes.txt]
+  video: /screencasts/2018-01-17-001.webm
+2018-01-19:
+  audio: /screencasts/2018-01-19-001.mp3
+  files: [/files/001/2018-01-19/washing.txt, /files/001/2018-01-19/activity.txt, /files/001/2018-01-19/bugs.txt]
+  no video (sorry): ''
+2018-01-22:
+  audio: /screencasts/2018-01-22-001.mp3
+  files: [/files/001/2018-01-22/slides.pdf]
+  video: /screencasts/2018-01-22-001.webm
+2018-01-24:
+  audio: /screencasts/2018-01-24-001.mp3
+  files: [/files/001/2018-01-24/slides.pdf, /files/001/2018-01-24/first_demo_file.py,
+    /files/001/2018-01-24/second_demo_file.py]
+  video: /screencasts/2018-01-24-001.webm
+2018-01-26:
+  audio: /screencasts/2018-01-26-001.mp3
+  files: [/files/001/2018-01-26/first_turtle.py, /files/001/2018-01-26/slides.pdf,
+    /files/001/2018-01-26/first_demo_file.py]
+  video: /screencasts/2018-01-26-001.webm
+2018-01-29:
+  audio: /screencasts/2018-01-29-001.mp3
+  files: [/files/001/2018-01-29/big_turtle_race.py, /files/001/2018-01-29/second_turtle.py,
+    /files/001/2018-01-29/first_turtle.py, /files/001/2018-01-29/slides.pdf, /files/001/2018-01-29/turtle_race.py]
+  video: /screencasts/2018-01-29-001.webm
+2018-01-31:
+  audio: /screencasts/2018-01-31-001.mp3
+  files: [/files/001/2018-01-31/sunflower_seeds.py, /files/001/2018-01-31/stacked_circles.py,
+    /files/001/2018-01-31/make_a_tree.py, /files/001/2018-01-31/big_turtle_race.py,
+    /files/001/2018-01-31/some_spirals.py, /files/001/2018-01-31/slides.pdf]
+  video: /screencasts/2018-01-31-001.webm
+2018-02-02:
+  audio: /screencasts/2018-02-02-001.mp3
+  files: [/files/001/2018-02-02/slides.pdf, /files/001/2018-02-02/first_program.py,
+    /files/001/2018-02-02/strange_things.py]
+  video: /screencasts/2018-02-02-001.webm
+2018-02-05:
+  audio: /screencasts/2018-02-05-001.mp3
+  files: [/files/001/2018-02-05/odd_casts.py, /files/001/2018-02-05/string_formats.py,
+    /files/001/2018-02-05/palce_boaster.py, /files/001/2018-02-05/more_on_numbers.py,
+    /files/001/2018-02-05/age_predicter.py, /files/001/2018-02-05/slides.pdf]
+  video: /screencasts/2018-02-05-001.webm
+2018-02-07:
+  audio: /screencasts/2018-02-07-001.mp3
+  files: [/files/001/2018-02-07/several_functions.py, /files/001/2018-02-07/age_again.py,
+    /files/001/2018-02-07/slides.pdf, /files/001/2018-02-07/basic_function.py]
+  video: /screencasts/2018-02-07-001.webm
+2018-02-09:
+  audio: /screencasts/2018-02-09-001.mp3
+  files: [/files/001/2018-02-09/scope_intro.py, /files/001/2018-02-09/about_bool.py,
+    /files/001/2018-02-09/increase_variables.py]
+  video: /screencasts/2018-02-09-001.webm
+2018-02-12:
+  audio: /screencasts/2018-02-12-001.mp3
+  files: [/files/001/2018-02-12/insulation.py, /files/001/2018-02-12/reading_recommender.py,
+    /files/001/2018-02-12/slides.pdf, /files/001/2018-02-12/sphere_volume.py, /files/001/2018-02-12/pay_the_bill.py,
+    /files/001/2018-02-12/several_functions.py, /files/001/2018-02-12/wrong_way_to_import.py]
+  video: /screencasts/2018-02-12-001.webm
+2018-02-14:
+  audio: /screencasts/2018-02-14-001.mp3
+  files: [/files/001/2018-02-14/and_or_wrong.py, /files/001/2018-02-14/slides.pdf,
+    /files/001/2018-02-14/age_commenter.py, /files/001/2018-02-14/several_functions.py]
+  video: /screencasts/2018-02-14-001.webm
+2018-02-16:
+  audio: /screencasts/2018-02-16-001.mp3
+  files: [/files/001/2018-02-16/better_numbers.py, /files/001/2018-02-16/slides.pdf,
+    /files/001/2018-02-16/several_functions.py, /files/001/2018-02-16/and_or_wrong.py,
+    /files/001/2018-02-16/guessing_game.py]
+  video: /screencasts/2018-02-16-001.webm
+2018-02-19:
+  audio: /screencasts/2018-02-19-001.mp3
+  files: [/files/001/2018-02-19/slides.pdf, /files/001/2018-02-19/e1review.py]
+  video: /screencasts/2018-02-19-001.webm
+2018-02-23: {examples: 'http://www.cs.virginia.edu/~up3f/cs1111/examples/loop/', loops: 'http://www.cs.virginia.edu/~up3f/cs1111/slides/111x12-loop.pdf'}
+2018-02-26:
+  audio: /screencasts/2018-02-26-001.mp3
+  files: [/files/001/2018-02-26/slides.pdf, /files/001/2018-02-26/for_into.py, /files/001/2018-02-26/power_finder.py]
+  video: /screencasts/2018-02-26-001.webm
+2018-02-28:
+  audio: /screencasts/2018-02-28-001.mp3
+  files: [/files/001/2018-02-28/style_example.py, /files/001/2018-02-28/slides.pdf]
+  video: /screencasts/2018-02-28-001.webm
+2018-03-02:
+  audio: /screencasts/2018-03-02-001.mp3
+  files: [/files/001/2018-03-02/index_fun.py, /files/001/2018-03-02/pay_raise.py,
+    /files/001/2018-03-02/slides.pdf]
+  video: /screencasts/2018-03-02-001.webm
+2018-03-12:
+  audio: /screencasts/2018-03-12-001.mp3
+  files: [/files/001/2018-03-12/accumulators.py, /files/001/2018-03-12/slides.pdf]
+  video: /screencasts/2018-03-12-001.webm
+2018-03-14:
+  audio: /screencasts/2018-03-14-001.mp3
+  files: [/files/001/2018-03-14/slides.pdf, /files/001/2018-03-14/input_validation.py,
+    /files/001/2018-03-14/times_table.py, /files/001/2018-03-14/accumulators.py]
+  video: /screencasts/2018-03-14-001.webm
+2018-03-16:
+  audio: /screencasts/2018-03-16-001.mp3
+  files: [/files/001/2018-03-16/slides.pdf, /files/001/2018-03-16/reversers.py, /files/001/2018-03-16/team_score.py]
+  video: /screencasts/2018-03-16-001.webm
+2018-03-19:
+  audio: /screencasts/2018-03-19-001.mp3
+  files: [/files/001/2018-03-19/slides.pdf, /files/001/2018-03-19/hangman_bug.py,
+    /files/001/2018-03-19/set_intro.py]
+  video: /screencasts/2018-03-19-001.webm
+2018-03-23:
+  audio: /screencasts/2018-03-23-001.mp3
+  files: [/files/001/2018-03-23/silly_translator.py, /files/001/2018-03-23/dict_test.py,
+    /files/001/2018-03-23/dict_intro.py, /files/001/2018-03-23/slides.pdf]
+  video: /screencasts/2018-03-23-001.webm
+2018-03-26:
+  audio: /screencasts/2018-03-26-001.mp3
+  files: [/files/001/2018-03-26/expenses.py, /files/001/2018-03-26/expenses_string.py,
+    /files/001/2018-03-26/slides.pdf]
+  video: /screencasts/2018-03-26-001.webm
+2018-03-28:
+  audio: /screencasts/2018-03-28-001.mp3
+  files: [/files/001/2018-03-28/expenses_string.py, /files/001/2018-03-28/slides.pdf,
+    /files/001/2018-03-28/basic_files.py, /files/001/2018-03-28/expenses_file2.py,
+    /files/001/2018-03-28/basic_web.py, /files/001/2018-03-28/expenses_file1.py, /files/001/2018-03-28/vastats_reader.py]
+  video: /screencasts/2018-03-28-001.webm
+2018-03-30:
+  audio: /screencasts/2018-03-30-001.mp3
+  files: [/files/001/2018-03-30/most_kids.py, /files/001/2018-03-30/gender_balance.py,
+    /files/001/2018-03-30/vastats_reader.py, /files/001/2018-03-30/slides.pdf]
+  video: /screencasts/2018-03-30-001.webm
+2018-04-02:
+  audio: /screencasts/2018-04-02-001.mp3
+  files: [/files/001/2018-04-02/e2review.py, /files/001/2018-04-02/slides.pdf]
+  video: /screencasts/2018-04-02-001.webm
+2018-04-06:
+  audio: /screencasts/2018-04-06-001.mp3
+  files: [/files/001/2018-04-06/basic_game.py, /files/001/2018-04-06/basic_momentum.py,
+    /files/001/2018-04-06/basic_gravity.py, /files/001/2018-04-06/basic_input.py,
+    /files/001/2018-04-06/gamebox.py, /files/001/2018-04-06/slides.pdf, /files/001/2018-04-06/basic_obstacles.py,
+    /files/001/2018-04-06/basic_jumping.py]
+  video: /screencasts/2018-04-06-001.webm
+2018-04-09:
+  audio: /screencasts/2018-04-09-001.mp3
+  files: [/files/001/2018-04-09/collection_things.py, /files/001/2018-04-09/basic_shooting.py,
+    /files/001/2018-04-09/basic_jumping_camera_moves.py, /files/001/2018-04-09/slides.pdf,
+    /files/001/2018-04-09/type_something.py, /files/001/2018-04-09/infinite_jumping_end.py,
+    /files/001/2018-04-09/double_jump.py, /files/001/2018-04-09/infinite_jumping.py]
+  video: /screencasts/2018-04-09-001.webm
+2018-04-11:
+  audio: /screencasts/2018-04-11-001.mp3
+  files: [/files/001/2018-04-11/basic_carry.py, /files/001/2018-04-11/pause_unpause.py,
+    /files/001/2018-04-11/slides.pdf, /files/001/2018-04-11/pair_collection_things.py,
+    /files/001/2018-04-11/sprite_sheets.py]
+  video: /screencasts/2018-04-11-001.webm
+2018-04-13:
+  audio: /screencasts/2018-04-13-001.mp3
+  files: [/files/001/2018-04-13/slides.pdf]
+  video: /screencasts/2018-04-13-001.webm
+2018-04-16:
+  audio: /screencasts/2018-04-16-001.mp3
+  files: [/files/001/2018-04-16/slides.pdf, /files/001/2018-04-16/basic_re.py]
+  video: /screencasts/2018-04-16-001.webm
+2018-04-18:
+  audio: /screencasts/2018-04-18-001.mp3
+  files: [/files/001/2018-04-18/re_practice.py, /files/001/2018-04-18/slides.pdf]
+  video: /screencasts/2018-04-18-001.webm
+2018-04-20:
+  audio: /screencasts/2018-04-20-001.mp3
+  files: [/files/001/2018-04-20/slides.pdf, /files/001/2018-04-20/real_ll.py, /files/001/2018-04-20/weather_report.py]
+  video: /screencasts/2018-04-20-001.webm
+2018-04-23:
+  audio: /screencasts/2018-04-23-001.mp3
+  files: [/files/001/2018-04-23/using_finally.py, /files/001/2018-04-23/except_in_functions.py,
+    /files/001/2018-04-23/basic_exceptions.py, /files/001/2018-04-23/using_raise.py,
+    /files/001/2018-04-23/mandatory_exception.py, /files/001/2018-04-23/selective_exception.py,
+    /files/001/2018-04-23/slides.pdf]
+  video: /screencasts/2018-04-23-001.webm
+2018-04-25:
+  audio: /screencasts/2018-04-25-001.mp3
+  files: [files/001/2018-04-25/slides.pdf, /files/001/2018-04-25/high_scores.py, /files/001/2018-04-25/write1.py,
+    /files/001/2018-04-25/write3.py, /files/001/2018-04-25/write2.py, /files/001/2018-04-25/remember_me.py]
+  video: /screencasts/2018-04-25-001.webm
+2018-04-27:
+  audio: /screencasts/2018-04-27-001.mp3
+  files: [/files/001/2018-04-27/write4.py, /files/001/2018-04-27/slides.pdf, /files/001/2018-04-27/f.txt,
+    /files/001/2018-04-27/write5.py]
+  video: /screencasts/2018-04-27-001.webm
+2018-04-30:
+  audio: /screencasts/2018-04-30-001.mp3
+  files: [/files/001/2018-04-30/e3review.py, /files/001/2018-04-30/slides.pdf]
+  video: /screencasts/2018-04-30-001.webm
