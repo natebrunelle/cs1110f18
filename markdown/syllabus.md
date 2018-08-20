@@ -68,7 +68,7 @@ Please show them respect and only contact them via piazza, or in person during t
 Pestering our TAs when they are off the clock (including via email) can be penalized under the "professionalism" clause of our grading policy.
 
 ## Piazza Message board
-Piazza @ [piazza.com/virginia/fall2018/cs1110cs1111f18](piazza.com/virginia/fall2018/cs1110cs1111f18)
+Piazza @ [piazza.com/virginia/fall2018/cs1110cs1111f18/home](piazza.com/virginia/fall2018/cs1110cs1111f18/home)
 
 Log in to Piazza and use the threads for quick questions, assignments, and for discussion with other students and staff.
 
