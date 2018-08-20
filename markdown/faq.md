@@ -46,11 +46,12 @@ CS 1113
     Spring 2018 section 1113-001 is designed for arts and science majors, presenting a less engineery approach to the topic.
 
 -->
-
+<!--
 You might also consider taking CS 1511.
 CS 1511 is based off the successful CS Principles project and presents broader overview of CS topics.
 CS 111*x* will teach you programming skills and related topics;
 CS 1511 will teach you computational thinking and digital citizenship.
+-->
 
 <!--
 # The course is listed as restricted
@@ -319,3 +320,7 @@ That is the exact kind of thing the one free missed session is intended to cover
 
 If you have valid excuses for *more than one* missed sessions, let us know (typically by telling your TA in the next such session) and we can enter an extra excused absence for you.
 Note that to get extra excused absences, you need to demonstrate that all of them were beyond your control, even the previously-automatic one.
+
+# Where can I find previous semesters' CS1110 pages?
+
+All previous versions are archived and available starting with Spring 2015. If you would like to visit the Spring 2018 course webpage, for example, go to [cs1110.cs.virginia.edu/s18](cs1110.cs.virginia.edu/s18). For Fall 2017, go to [cs1110.cs.virginia.edu/f18](cs1110.cs.virginia.edu/f18). Etc.
