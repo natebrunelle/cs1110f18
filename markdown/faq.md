@@ -323,4 +323,4 @@ Note that to get extra excused absences, you need to demonstrate that all of the
 
 # Where can I find previous semesters' CS1110 pages?
 
-All previous versions are archived and available starting with Spring 2015. If you would like to visit the Spring 2018 course webpage, for example, go to [cs1110.cs.virginia.edu/s18](https://cs1110.cs.virginia.edu/s18). For Fall 2017, go to [cs1110.cs.virginia.edu/f18](https://cs1110.cs.virginia.edu/f18). Etc.
+All previous versions are archived and available starting with Spring 2015. If you would like to visit the Spring 2018 course webpage, for example, go to [cs1110.cs.virginia.edu/s18](https://cs1110.cs.virginia.edu/s18). For Fall 2017, go to [cs1110.cs.virginia.edu/f17](https://cs1110.cs.virginia.edu/f17). Etc.
