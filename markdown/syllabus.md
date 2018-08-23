@@ -33,6 +33,8 @@ Email: njb2b@virginia.edu
 
 ## Craig Dill
 
+Office: Rice 420
+
 Office hours: TBA
 
 Email: cd9au@virginia.edu 
