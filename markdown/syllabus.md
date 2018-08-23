@@ -33,9 +33,9 @@ Email: njb2b@virginia.edu
 
 ## Craig Dill
 
-Office: Rice 420
+Office: Rice 514
 
-Office hours: TBA
+Office hours: Monday 1PM-2PM, Wednesday 1PM-2PM
 
 Email: cd9au@virginia.edu 
 
