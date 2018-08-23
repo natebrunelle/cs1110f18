@@ -12,7 +12,8 @@ Section |Time             |Place                 |Instructor
 --------|-----------------|----------------------|-----------------------
 1110-001|MoWeFr 2–2:50PM  |Wilson Hall 402       |Nathan Brunelle    
 1110-002|MoWeFr 12–12:50PM|Rice Hall 130         |Craig Dill
-1110-003|MoWeFr 11–11:50AM|Rice Hall 130         |Craig Dill
+1110-003|MoWeFr 10–10:50AM|Rice Hall 130         |Craig Dill
+1110-004|MoWeFr 11–11:50AM|Rice Hall 130	 |Panagiotis Apostollelis
 1111    |MoWe 2–3:15PM    |Clark Hall 108        |Upsorn Praphamontripong
 
 ## Lab Sections
@@ -26,9 +27,9 @@ Section |Time             |Place                 |Instructor
 |1110-109|Th 12:30–1:45PM |MEC 213     |
 |1110-104|Th 2:00–3:15PM  |Olsson 009  |
 |1110-105|Th 3:30–4:45PM  |Olsson 009  |
-|1110-113|Th 3:30–4:45PM  |MEC 213     |
+|1110-110|Th 3:30–4:45PM  |MEC 213     |
 |1110-106|Th 5:00–6:15PM  |Olsson 009  |
-|1110-111|Th 6:30–7:45PM  |MEC 213     |
+|1110-107|Th 6:30–7:45PM  |MEC 213     |
 |1110-108|Th 8:00–9:15PM  |Olsson 001  |
 |1111    |(none)          |(none)      |
 

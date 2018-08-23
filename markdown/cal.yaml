@@ -1,19 +1,15 @@
 Special Dates:
-  Courses begin: 2018-01-17
-  Courses end: 2018-05-01
-  Add deadline: 2018-01-31
-  Drop deadline: 2018-02-28
-  Withdraw deadline: 2018-03-14
-  Spring recess:
-    start: 2018-03-03
-    end: 2018-03-11
-  Snow recess:
-    start: 2018-03-21
-    end: 2018-03-21
-  Exam 1: 2018-02-21
-  Exam 2: 2018-04-04
-  Exam 3: 2018-05-03
-
+  Courses begin: 2018-08-28
+  Courses end: 2018-12-07
+  Add deadline: 2018-09-11
+  Drop deadline: 2018-09-12
+  Withdraw deadline: 2018-10-23
+  Fall Reading Days:
+    start: 2018-10-06
+    end: 2018-10-9
+  Exam 1: 2018-10-3
+  Exam 2: 2018-11-07
+  Exam 3: 2018-12-11
 
 classes:
     -   Welcome

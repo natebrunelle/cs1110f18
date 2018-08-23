@@ -152,8 +152,11 @@ There is no way to change which lab you are waiting for without moving to the ba
 If the new lab (and lecture) have not waiting list, this will cause you to end up enrolled, not wait-listed.
 
 # What can I do while on the waiting list?
+<!--
+Change each semester
+-->
 
-You are welcome to come to 1110 lectures in Wilson hall (the 10am and 2pm sections), but not to physically come to labs (the first week's lab being an exception: you may come to that), though attempting the lab activities on your own is encouraged.
+You are welcome to come to 1110 lectures in Wilson Hall, but not to physically come to labs (the first week's lab being an exception: you may come to that), though attempting the lab activities on your own is encouraged.
 1111 lectures and the 1110 lecture in Rice hall typically fill the room, so you might be asked to leave the room to make space for those enrolled if you attend those lectures while on a waiting list.
 
 We hope to also give you the ability to submit assignments while on the waiting list so that when/if you get off you are in no way behind on your work.
@@ -296,8 +299,9 @@ Raising your hand in class to make an announcement (rather than to ask or answer
 
 
 # I need more help...
+<!-- Change each semester -->
 
-Have you tried office hours? We have a lot of students, but we also have a lot of TAs (and several faculty members) and they are generally the best-qualified and best-prepared help you will find. If you find otherwise, please let your instructor (or Prof Tychonievich as the lead instructor) know and we'll try to improve things.
+Have you tried office hours? We have a lot of students, but we also have a lot of TAs (and several faculty members) and they are generally the best-qualified and best-prepared help you will find. If you find otherwise, please let your instructor (or Prof Brunelle as the lead instructor) know and we'll try to improve things.
 
 If that is not working for you, SEAS also offers free tutoring for all of its classes to all students (in SEAS or not); see <https://engineering.virginia.edu/current-students/current-undergraduate-students/current-undergrads-tutoring> for more.
 
