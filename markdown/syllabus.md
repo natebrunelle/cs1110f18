@@ -114,7 +114,7 @@ In common with many courses in CS, we use a point-based grading system.
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
 Programming assignments     42%     (2% each) Solo programming assignments will be due almost every week, and will be weighted equally
-Project                     8%      (worth 5 PAs) A larger partner project will be worth more points than the average assignment
+Project                     8%      (worth 4 PAs) A larger partner project will be worth more points than the average assignment
 Exams                       39%     (13% each) Per College policy, "Unexcused absence from a final examination results in an automatic grade of F in the course."
 Participation               9%      For 1110, most participation points are awarded in lab; for 1111, most will be for in-class exercises.
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, pestering TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.

@@ -12,8 +12,8 @@ Section |Time             |Place                 |Instructor
 --------|-----------------|----------------------|-----------------------
 1110-001|MoWeFr 2–2:50PM  |Wilson Hall 402       |Nathan Brunelle    
 1110-002|MoWeFr 12–12:50PM|Rice Hall 130         |Craig Dill
-1110-003|MoWeFr 11–11:50AM|Rice Hall 130         |Nathan Brunelle
-1111    |MoWe 2–3:15PM    |Clark Hall 108         |Upsorn Praphamontripong
+1110-003|MoWeFr 11–11:50AM|Rice Hall 130         |Craig Dill
+1111    |MoWe 2–3:15PM    |Clark Hall 108        |Upsorn Praphamontripong
 
 ## Lab Sections
 
