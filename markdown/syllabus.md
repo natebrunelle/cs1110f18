@@ -69,13 +69,22 @@ Please show them respect and only contact them via piazza, or in person during t
     
 Pestering our TAs when they are off the clock (including via email) can be penalized under the "professionalism" clause of our grading policy.
 
-## Piazza Message board
+# Piazza Message board
 Piazza @ [piazza.com/virginia/fall2018/cs1110cs1111f18/home](piazza.com/virginia/fall2018/cs1110cs1111f18/home)
 
 Log in to Piazza and use the threads for quick questions, assignments, and for discussion with other students and staff.
 
 You can also post private messages here that will only be seen by staff members.
 Make sure all private messages are visible to *all* instructors, not just one or two.
+
+## Piazza Etiquette
+- Reserve the "student answer" section for answers, not expanding on the question or saying "I have this problem too"
+- Use the Followups section for additional comments, clarifications, or the like
+- Mark a followup thread "resolved" if the current state of that followup thread is anything other than an unanswered question
+- Never make a post visible to only one instructor/TA; if other students should not see it, make it visible to all instructors.
+- Short bit of code (1-3 lines) can provide useful context to a question or answer, but longer block are inappropriate and will not be answered.  Posts containing significant portions of the solution to assignments are unprofessional and will be penalized as such.
+- If you have to include enough context in your question to give away part of the solution to the problem, make it a private (visible to instructors and you only) post.
+
 
 # Text
 
