@@ -185,6 +185,7 @@ or as a docstring at the beginning of the file, as e.g.
 You must write your own code.
 Not just type it (though you need to do that too): **compose it yourself**, as your own original work.
 Beware of looking at other students code or code you find online: it is hard to unsee and can spoil your ability to compose your own solutions!
+Do not make any code public on the Piazza Message Board.
 
 ### Understand what you submit
 
@@ -200,6 +201,7 @@ It would probably go without saying if we didn't say it, but no assistance may b
 ## Programming Assignments
 
 - Homework assignments will not be handed out in class. Everything will be available online.
+- Be sure to include your name and computing id in all assignments.
 - You should [cite](#acknowledge-your-sources) any ideas you discuss with other students or outside resources, as well as any code assistance you receive from any source.
 - See [the submission system](https://archimedes.cs.virginia.edu/cs1110/) for more information.
 - Late policy: Programming assignments can be submitted up to 2 days (48 hours) late, with a 10% penalty for each day late. Assignments are not accepted after 2 days past the deadline.
@@ -224,9 +226,11 @@ If the lack of cooperation is serious, the offending group member’s semester g
 
 ## Attendance
 
+- CS1110: Attendance in Lab in required for your participation grade
 - Attendance in lecture is vital to learning the material and making a good grade in this class.
 - We may or may not give graded assessments with or without notice in class; these cannot be made up if missed.
 - Even in sections that never check attendance, **attendance is strongly correlated with grade**. Skip at your own risk.
+-CS 1111: In class excercises require your presence, so therefore attendance is de facto required.
 
 ## Exams
 
