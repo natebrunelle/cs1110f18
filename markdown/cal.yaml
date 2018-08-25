@@ -111,8 +111,8 @@ assignments:
 
     Lab01:
         title: installing
-        due: 2018-08-28
-        open: 2018-08-30
+        due: 2018-08-30
+        open: 2018-08-28
         weight: 0
     Lab02:
         title: counting

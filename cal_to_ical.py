@@ -76,9 +76,7 @@ def calendar(data):
                 sec001 = datetime.datetime(d.year, d.month, d.day, 14, 0, 0, tzinfo=eastern)
                 sec002 = datetime.datetime(d.year, d.month, d.day, 12, 0, 0, tzinfo=eastern)
                 sec003 = datetime.datetime(d.year, d.month, d.day, 11, 0, 0, tzinfo=eastern)
-                print(d)
                 topic = exams.get(d, data['classes'][classnum])
-                print(topic)
                 if topic in data['reading']: topic = deMd(topic) + '\r\nSee '+deMd(' and '.join(data['reading'][topic])) +' for more'
                 else: topic = deMd(topic)
                 if d not in exams: classnum += 1
