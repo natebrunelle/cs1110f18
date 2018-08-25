@@ -40,6 +40,8 @@ See the [FAQ](faq.html) for suggestions on ways around this.
 
 # Other *Introduction to Programming* Offerings
 
+<!-- reorganize -->
+
 CS 1110 and CS 1111 are both "general" introductions to programming, providing an overview of topics suitable for all majors.
 There are also other Introduction to Programming offerings at UVa:
 

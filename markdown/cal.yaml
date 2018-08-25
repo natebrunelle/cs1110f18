@@ -2,7 +2,7 @@ Special Dates:
   Courses begin: 2018-08-28
   Courses end: 2018-12-07
   Add deadline: 2018-09-11
-  Drop deadline: 2018-09-12
+  Drop deadline: 2018-10-16
   Withdraw deadline: 2018-10-23
   Fall Reading Days:
     start: 2018-10-06
@@ -84,228 +84,110 @@ assignments:
     ".groups":
         PA:
             .tester-prefix: test_
-            portion: "1.5*21"
-            .rationale: "21 PAs at 1.5% of grade each"
+            portion: "2*21"
+            .rationale: "21 PAs at 2% of grade each"
             late-policy: [0.9, 0.8]
             support: ["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
             total: 10
         Project:
-            portion: "1.5*5"
+            portion: "2*5"
             .rationale: "project is worth 5 PAs"
             files: ["game.py", "*.*"]
             support: ["gamebox.py"]
         Lab:
-            portion: 11
-            .rationale: "12 graded labs (drop 1) at 1% of grade each"
+            portion: 9
+            .rationale: "12 graded labs at 0.75% of grade each"
             drop: 1
             not_exclude: ["18Sp CS 1111-001 (ENGR)"]
             rubric: {"kind":"percentage"}
         Exam:
-            portion: "15+15+20"
-            .rationale: "midterms 15% of grade each; final 20%"
+            portion: "13+13+13"
+            .rationale: "exams 13% of grade each"
             rubric: {"kind":"percentage"}
 
     Lab01:
         title: installing
-        due: 2018-01-18
-        open: 2018-01-01
+        due: 2018-01-30
+        open: 2018-08-28
         weight: 0
     Lab02:
         title: counting
-        due: 2018-01-25
+        due: 2018-09-6
         weight: 0
     Lab03:
         title: turtle
-        due: 2018-02-01
-        open: 2018-01-31
+        due: 2018-09-13
+        open: 2018-09-15
         files: ['*.py', '*.ps', '*.png', '*.PNG']
         late-policy: [1, 1]
     Lab04:
         title: madlib
         files: 'madlib.py'
-        due: 2018-02-08
+        due: 2018-09-20
     Lab05:
         title: paper
-        due: 2018-02-15
+        due: 2018-09-27
     Lab06:
         title: strings
-        due: 2018-02-22
+        due: 2018-10-4
     Lab07:
         title: hangman
         files: ['hangman_if.py', 'hangman_while.py']
-        due: 2018-03-01
+        due: 2018-10-11
     Lab08:
         title: crypto
         files: 'crypto.py'
-        due: 2018-03-15
+        due: 2018-10-18
     Lab09:
         title: debug
         files: 'debug_task.py'
-        due: 2018-03-22
+        due: 2018-10-25
     Lab10:
         title: poi
         files: 'poi.py'
-        due: 2018-03-29
+        due: 2018-11-01
     Lab11:
         title: rooms
         files: 'rooms.py'
-        due: 2018-04-05
+        due: 2018-11-08
     Lab12:
         title: pong
         files: 'pong.py'
-        due: 2018-04-12
+        due: 2018-11-15
     Lab13:
         title: email
         files: 'emailhunt.py'
-        due: 2018-04-19
+        due: 2018-11-29
     Lab14:
         title: review
-        due: 2018-04-26
+        due: 2018-12-06
 
 
     PA01:
         files: greeting.py
-        due: 2018-02-07 10:00:00
+        due: 2018-09-19 10:00:00
     PA02:
         files: nonsense.py
-        due: 2018-02-07 10:00:00
+        due: 2018-09-19 10:00:00
     PA03:
         files: dating.py
-        due: 2018-02-09 10:00:00
+        due: 2018-09-21 10:00:00
     PA04:
         files: c2f.py
-        due: 2018-02-09 10:00:00
+        due: 2018-09-21 10:00:00
     PA05:
         files: maydate.py
-        due: 2018-02-12 10:00:00
+        due: 2018-09-24 10:00:00
     PA06:
         files: conversion.py
-        due: 2018-02-12 10:00:00
+        due: 2018-09-24 10:00:00
     PA07:
         files: gpa.py
-        due: 2018-02-14 10:00:00
+        due: 2018-09-26 10:00:00
     PA08:
         files: bmr.py
-        due: 2018-02-16 10:00:00
+        due: 2018-09-28 10:00:00
     PA09:
         files: averages.py
-        due: 2018-02-19 10:00:00
-    PA10:
-        files: calculator.py
-        open: 2018-02-22
-        due: 2018-03-02 10:00:00
-        late-policy: [0.9,0.8,0.8,0.8]
-    PA11:
-        files: higher_lower.py
-        open: 2018-02-22
-        due: 2018-03-14 10:00:00
-    PA12:
-        files: higher_lower_player.py
-        open: 2018-02-22
-        due: 2018-03-16 10:00:00
-    PA13:
-        files: str_redux.py
-        open: 2018-02-22
-        due: 2018-03-19 10:00:00
-    PA14:
-        files: map_reduce.py
-        open: 2018-02-22
-        due: 2018-03-23 10:00:00
-    PA15:
-        files: credit_card.py
-        open: 2018-02-22
-        due: 2018-03-26 10:00:00
-    PA16:
-        files: gradebook.py
-        open: 2018-02-22
-        due: 2018-03-28 10:00:00
-    PA17:
-        files: lous_list.py
-        open: 2018-02-22
-        due: 2018-04-09 10:00:00
-    PA18:
-        files: spellcheck.py
-        open: 2018-04-05
-        due: 2018-04-11 10:00:00
-    PA19:
-        files: ["flappybird.py", "*.jpg", "*.png"]
-        writeup: pa19-flappy.html
-        open: 2018-04-05
-        due: 2018-04-16 10:00:00
-    PA20:
-        files: regex.py
-        open: 2018-04-05
-        due: 2018-04-23 10:00:00
-    PA21:
-        files: salary.py
-        open: 2018-04-05
-        due: 2018-04-27 10:00:00
-
-
-    Checkpoint 1:
-        due: 2018-04-18 05:00:00
-        group: Project
-        weight: 1
-        total: 1
-        writeup: project.html
-        rubric: {"kind":"percentage"}
-        .seed:
-            -   {"":{"ratio":1,"comment":"Looks promising"}}
-            -   {"":{"ratio":0.5,"comment":"Checkpoint fails to meet requirements"}}
-            -   {"":{"ratio":0.0,"comment":"No submission"}}
-    Checkpoint 2:
-        due: 2018-04-25 05:00:00
-        group: Project
-        weight: 1
-        total: 1
-        writeup: project.html
-        extends: ["Checkpoint 1"]
-        rubric: {"kind":"percentage"}
-        .seed:
-            -   {"":{"ratio":1,"comment":"On track to succeed"}}
-            -   {"":{"ratio":0.5,"comment":"Significantly behind where you ought to be"}}
-            -   {"":{"ratio":0.0,"comment":"No submission"}}
-    Project:
-        due: 2018-05-01 23:59:59
-        group: Project
-        weight: 48
-        total: 48
-        writeup: project.html
-        extends: ["Checkpoint 2", "Checkpoint 1"]
-        rubric:
-            kind: breakdown
-            parts:
-                -   name: splash
-                    ratio: 8
-                    rubric:
-                        kind: breakdown
-                        parts:
-                            -   name: creator information
-                                ratio: 4
-                                rubric: {"kind":"buckets"}
-                            -   name: instructions
-                                ratio: 4
-                                rubric: {"kind":"buckets"}
-                -   name: required features
-                    ratio: 16
-                    rubric:
-                        kind: breakdown
-                        parts:
-                            -   name: user interaction
-                                ratio: 4
-                                rubric: {"kind":"buckets"}
-                            -   name: endgame
-                                ratio: 4
-                                rubric: {"kind":"buckets"}
-                            -   name: images
-                                ratio: 4
-                                rubric: {"kind":"buckets"}
-                            -   name: not just a demo
-                                ratio: 4
-                                rubric: {"kind":"buckets"}
-                -   name: elective features
-                    ratio: 16
-                    rubric: {"kind":"buckets"}
-                -   name: a cohesive game
-                    ratio: 8
-                    rubric: {"kind":"buckets"}
+        due: 2018-10-01 10:00:00
+   
