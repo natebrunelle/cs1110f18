@@ -135,6 +135,7 @@ def assignments_json(data):
     # labs are open for just 1 day
     for k,v in ans.items():
         if v.get('group','') == 'Lab' and 'due' in v and 'open' not in v:
+            print(v)
             print(v['due'])
             v['open'] = date(*v['due'].timetuple()[:3])
     # fix date and datetime (to be a str) for JSON export
