@@ -114,7 +114,7 @@ assignments:
         weight: 0
     Lab02:
         title: counting
-        due: 2018-09-6
+        due: 2018-09-06
         weight: 0
     Lab03:
         title: turtle
@@ -131,7 +131,7 @@ assignments:
         due: 2018-09-27
     Lab06:
         title: strings
-        due: 2018-10-4
+        due: 2018-10-04
     Lab07:
         title: hangman
         files: ['hangman_if.py', 'hangman_while.py']
