@@ -109,7 +109,7 @@ assignments:
 
     Lab01:
         title: installing
-        due: 2018-01-30
+        due: 2018-01-30 10:00:00
         open: 2018-08-28
         weight: 0
     Lab02:
@@ -118,51 +118,51 @@ assignments:
         weight: 0
     Lab03:
         title: turtle
-        due: 2018-09-13
+        due: 2018-09-13 10:00:00
         open: 2018-09-15
         files: ['*.py', '*.ps', '*.png', '*.PNG']
         late-policy: [1, 1]
     Lab04:
         title: madlib
         files: 'madlib.py'
-        due: 2018-09-20
+        due: 2018-09-20 10:00:00
     Lab05:
         title: paper
-        due: 2018-09-27
+        due: 2018-09-27 10:00:00
     Lab06:
         title: strings
-        due: 2018-10-4
+        due: 2018-10-4 10:00:00
     Lab07:
         title: hangman
         files: ['hangman_if.py', 'hangman_while.py']
-        due: 2018-10-11
+        due: 2018-10-11 10:00:00
     Lab08:
         title: crypto
         files: 'crypto.py'
-        due: 2018-10-18
+        due: 2018-10-18 10:00:00
     Lab09:
         title: debug
         files: 'debug_task.py'
-        due: 2018-10-25
+        due: 2018-10-25 10:00:00
     Lab10:
         title: poi
         files: 'poi.py'
-        due: 2018-11-01
+        due: 2018-11-01 10:00:00
     Lab11:
         title: rooms
         files: 'rooms.py'
-        due: 2018-11-08
+        due: 2018-11-08 10:00:00
     Lab12:
         title: pong
         files: 'pong.py'
-        due: 2018-11-15
+        due: 2018-11-15 10:00:00
     Lab13:
         title: email
         files: 'emailhunt.py'
-        due: 2018-11-29
+        due: 2018-11-29 10:00:00
     Lab14:
         title: review
-        due: 2018-12-06
+        due: 2018-12-06 10:00:00
 
 
     PA01:
