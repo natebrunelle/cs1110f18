@@ -75,30 +75,31 @@ def calendar(data):
             if d.weekday() in (0,2,4):
                 sec001 = datetime.datetime(d.year, d.month, d.day, 14, 0, 0, tzinfo=eastern)
                 sec002 = datetime.datetime(d.year, d.month, d.day, 12, 0, 0, tzinfo=eastern)
-                sec003 = datetime.datetime(d.year, d.month, d.day, 11, 0, 0, tzinfo=eastern)
+                sec003 = datetime.datetime(d.year, d.month, d.day, 10, 0, 0, tzinfo=eastern)
+                sec004 = datetime.datetime(d.year, d.month, d.day, 11, 0, 0, tzinfo=eastern)
                 topic = exams.get(d, data['classes'][classnum])
                 if topic in data['reading']: topic = deMd(topic) + '\r\nSee '+deMd(' and '.join(data['reading'][topic])) +' for more'
                 else: topic = deMd(topic)
                 if d not in exams: classnum += 1
 
-                ans.event('1110-001', sec001, m50, location='CHM 402', details=topic)
-                ans.event('1110-002', sec002, m50, location='OLS 120', details=topic)
-                ans.event('1110-003', sec003, m50, location='GIL 130', details=topic)
+                ans.event('1110-001', sec001, m50, location='WIL 402', details=topic)
+                ans.event('1110-002', sec002, m50, location='RICE 130', details=topic)
+                ans.event('1110-003', sec003, m50, location='RICE 130', details=topic)
+                ans.event('1110-004', sec003, m50, location='RICE 130', details=topic)
                 if d.weekday() != 4:
-                    ans.event('1111', sec001, m75, location='THN E303')
+                    ans.event('1111', sec001, m75, location='CLRK 108')
             if d.weekday() == 3:
-                ans.event('Lab 100', datetime.datetime(d.year, d.month, d.day, 9, 30, 0, tzinfo=eastern), m75, location='OLS 001')
-                ans.event('Lab 101', datetime.datetime(d.year, d.month, d.day, 11, 0, 0, tzinfo=eastern), m75, location='OLS 001')
-                ans.event('Lab 102', datetime.datetime(d.year, d.month, d.day, 12, 30, 0, tzinfo=eastern), m75, location='OLS 001')
-                ans.event('Lab 103', datetime.datetime(d.year, d.month, d.day, 14, 0, 0, tzinfo=eastern), m75, location='OLS 001')
-                ans.event('Lab 104', datetime.datetime(d.year, d.month, d.day, 15, 30, 0, tzinfo=eastern), m75, location='OLS 001')
-                ans.event('Lab 105', datetime.datetime(d.year, d.month, d.day, 17, 0, 0, tzinfo=eastern), m75, location='OLS 001')
-                ans.event('Lab 106', datetime.datetime(d.year, d.month, d.day, 18, 30, 0, tzinfo=eastern), m75, location='OLS 001')
-                ans.event('Lab 107', datetime.datetime(d.year, d.month, d.day, 11, 0, 0, tzinfo=eastern), m75, location='MEC 213')
-                ans.event('Lab 108', datetime.datetime(d.year, d.month, d.day, 15, 30, 0, tzinfo=eastern), m75, location='MEC 213')
-                ans.event('Lab 109', datetime.datetime(d.year, d.month, d.day, 17, 0, 0, tzinfo=eastern), m75, location='MEC 213')
-                ans.event('Lab 110', datetime.datetime(d.year, d.month, d.day, 18, 30, 0, tzinfo=eastern), m75, location='MEC 213')
-                ans.event('Lab 111', datetime.datetime(d.year, d.month, d.day, 17, 0, 0, tzinfo=eastern), m75, location='Rice 130')
+                ans.event('Lab 101', datetime.datetime(d.year, d.month, d.day, 12, 30, 0, tzinfo=eastern), m75, location='OLS 001')
+                ans.event('Lab 102', datetime.datetime(d.year, d.month, d.day, 9, 30, 0, tzinfo=eastern), m75, location='OLS 009')
+                ans.event('Lab 103', datetime.datetime(d.year, d.month, d.day, 11, 0, 0, tzinfo=eastern), m75, location='OLS 001')
+                ans.event('Lab 104', datetime.datetime(d.year, d.month, d.day, 14, 0, 0, tzinfo=eastern), m75, location='OLS 009')
+                ans.event('Lab 105', datetime.datetime(d.year, d.month, d.day, 15, 30, 0, tzinfo=eastern), m75, location='OLS 009')
+                ans.event('Lab 106', datetime.datetime(d.year, d.month, d.day, 17, 0, 0, tzinfo=eastern), m75, location='OLS 009')
+                ans.event('Lab 107', datetime.datetime(d.year, d.month, d.day, 18, 30, 0, tzinfo=eastern), m75, location='OLS 009')
+                ans.event('Lab 108', datetime.datetime(d.year, d.month, d.day, 20, 0, 0, tzinfo=eastern), m75, location='OLS 001')
+                ans.event('Lab 109', datetime.datetime(d.year, d.month, d.day, 12, 30, 0, tzinfo=eastern), m75, location='MEC 213')
+                ans.event('Lab 110', datetime.datetime(d.year, d.month, d.day, 15, 30, 0, tzinfo=eastern), m75, location='MEC 213')
+                ans.event('Lab 113', datetime.datetime(d.year, d.month, d.day, 8, 0, 0, tzinfo=eastern), m75, location='OLS 001')
         d += oneday
     
     e3 = data['Special Dates']['Exam 3']
