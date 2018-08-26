@@ -1,5 +1,5 @@
 ---
-title: Spring 2018 Schedule
+title: Fall 2018 Schedule
 ...
 
 #include schedule.html
