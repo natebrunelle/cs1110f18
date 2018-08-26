@@ -1,5 +1,5 @@
 ---
-title: Spring 2018 Syllabus
+title: Fall 2018 Syllabus
 ...
 
 # Basic Info
