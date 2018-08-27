@@ -117,6 +117,7 @@ assignments:
     Lab02:
         title: counting
         due: 2018-09-06
+        open: 2018-09-01
         weight: 0
     Lab03:
         title: turtle
@@ -128,70 +129,90 @@ assignments:
         title: madlib
         files: 'madlib.py'
         due: 2018-09-20
+        open: 2018-09-15
     Lab05:
         title: paper
         due: 2018-09-27
+        open: 2018-09-15
     Lab06:
         title: strings
         due: 2018-10-04
+        open: 2018-09-15
     Lab07:
         title: hangman
         files: ['hangman_if.py', 'hangman_while.py']
         due: 2018-10-11
+        open: 2018-09-15
     Lab08:
         title: crypto
         files: 'crypto.py'
         due: 2018-10-18
+        open: 2018-09-15
     Lab09:
         title: debug
         files: 'debug_task.py'
         due: 2018-10-25
+        open: 2018-09-15
     Lab10:
         title: poi
         files: 'poi.py'
         due: 2018-11-01
+        open: 2018-09-15
     Lab11:
         title: rooms
         files: 'rooms.py'
         due: 2018-11-08
+        open: 2018-09-15
     Lab12:
         title: pong
         files: 'pong.py'
         due: 2018-11-15
+        open: 2018-09-15
     Lab13:
         title: email
         files: 'emailhunt.py'
         due: 2018-11-29
+        open: 2018-09-15
     Lab14:
         title: review
         due: 2018-12-06
+        open: 2018-09-15
 
 
     PA01:
         files: greeting.py
         due: 2018-09-19 10:00:00
+        open: 2018-09-05
     PA02:
         files: nonsense.py
         due: 2018-09-19 10:00:00
+        open: 2018-09-05
     PA03:
         files: dating.py
         due: 2018-09-21 10:00:00
+        open: 2018-09-15
     PA04:
         files: c2f.py
         due: 2018-09-21 10:00:00
+        open: 2018-09-15
     PA05:
         files: maydate.py
         due: 2018-09-24 10:00:00
+        open: 2018-09-15
     PA06:
         files: conversion.py
         due: 2018-09-24 10:00:00
+        open: 2018-09-15
     PA07:
         files: gpa.py
         due: 2018-09-26 10:00:00
+        open: 2018-09-15
     PA08:
         files: bmr.py
         due: 2018-09-28 10:00:00
+        open: 2018-09-15
     PA09:
         files: averages.py
         due: 2018-10-01 10:00:00
+        open: 2018-09-15
    
