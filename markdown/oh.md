@@ -2,7 +2,7 @@
 title: Office Hours
 ...
 
-Instructor office hours are held in their respective offices; see [the syllabus](#syllabus) for times and places.
+Instructor office hours are held in their respective offices; see [the syllabus](syllabus.html) for times and places.
 
 TA office hours are held in "Stacks", the large room on the second floor of Thorton A-wing,
 Sunday through Thursday from 11am to 5pm.
