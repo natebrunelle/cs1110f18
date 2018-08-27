@@ -1,0 +1,236 @@
+{"Lab01":
+  {"title":"installing"
+  ,"due":"2018-08-30 23:59"
+  ,"open":"2018-08-28 00:00"
+  ,"weight":0
+  ,"group":"Lab"
+  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Lab02":
+  {"title":"counting"
+  ,"due":"2018-09-06 23:59"
+  ,"weight":0
+  ,"group":"Lab"
+  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  ,"rubric":{"kind":"percentage"}
+  ,"open":"2018-09-06 00:00"
+  }
+,"Lab03":
+  {"title":"turtle"
+  ,"due":"2018-09-13 23:59"
+  ,"open":"2018-09-15 00:00"
+  ,"files":["*.py","*.ps","*.png","*.PNG"]
+  ,"late-policy":[1,1]
+  ,"group":"Lab"
+  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  ,"rubric":{"kind":"percentage"}
+  }
+,"PA01":
+  {"files":"greeting.py"
+  ,"due":"2018-09-19 10:00"
+  ,"group":"PA"
+  ,"tester":"test_greeting.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"greeting"
+  }
+,"PA02":
+  {"files":"nonsense.py"
+  ,"due":"2018-09-19 10:00"
+  ,"group":"PA"
+  ,"tester":"test_nonsense.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"nonsense"
+  }
+,"Lab04":
+  {"title":"madlib"
+  ,"files":"madlib.py"
+  ,"due":"2018-09-20 23:59"
+  ,"group":"Lab"
+  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  ,"rubric":{"kind":"percentage"}
+  ,"open":"2018-09-20 00:00"
+  }
+,"PA03":
+  {"files":"dating.py"
+  ,"due":"2018-09-21 10:00"
+  ,"group":"PA"
+  ,"tester":"test_dating.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"dating"
+  }
+,"PA04":
+  {"files":"c2f.py"
+  ,"due":"2018-09-21 10:00"
+  ,"group":"PA"
+  ,"tester":"test_c2f.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"c2f"
+  }
+,"PA05":
+  {"files":"maydate.py"
+  ,"due":"2018-09-24 10:00"
+  ,"group":"PA"
+  ,"tester":"test_maydate.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"maydate"
+  }
+,"PA06":
+  {"files":"conversion.py"
+  ,"due":"2018-09-24 10:00"
+  ,"group":"PA"
+  ,"tester":"test_conversion.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"conversion"
+  }
+,"PA07":
+  {"files":"gpa.py"
+  ,"due":"2018-09-26 10:00"
+  ,"group":"PA"
+  ,"tester":"test_gpa.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"gpa"
+  }
+,"Lab05":
+  {"title":"paper"
+  ,"due":"2018-09-27 23:59"
+  ,"group":"Lab"
+  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  ,"rubric":{"kind":"percentage"}
+  ,"open":"2018-09-27 00:00"
+  }
+,"PA08":
+  {"files":"bmr.py"
+  ,"due":"2018-09-28 10:00"
+  ,"group":"PA"
+  ,"tester":"test_bmr.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"bmr"
+  }
+,"PA09":
+  {"files":"averages.py"
+  ,"due":"2018-10-01 10:00"
+  ,"group":"PA"
+  ,"tester":"test_averages.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"averages"
+  }
+,"Exam 1":
+  {"group":"Exam"
+  ,"due":"2018-10-03 23:59"
+  ,"weight":1
+  ,"total":100
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Lab06":
+  {"title":"strings"
+  ,"due":"2018-10-04 23:59"
+  ,"group":"Lab"
+  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  ,"rubric":{"kind":"percentage"}
+  ,"open":"2018-10-04 00:00"
+  }
+,"Lab07":
+  {"title":"hangman"
+  ,"files":["hangman_if.py","hangman_while.py"]
+  ,"due":"2018-10-11 23:59"
+  ,"group":"Lab"
+  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  ,"rubric":{"kind":"percentage"}
+  ,"open":"2018-10-11 00:00"
+  }
+,"Lab08":
+  {"title":"crypto"
+  ,"files":"crypto.py"
+  ,"due":"2018-10-18 23:59"
+  ,"group":"Lab"
+  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  ,"rubric":{"kind":"percentage"}
+  ,"open":"2018-10-18 00:00"
+  }
+,"Lab09":
+  {"title":"debug"
+  ,"files":"debug_task.py"
+  ,"due":"2018-10-25 23:59"
+  ,"group":"Lab"
+  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  ,"rubric":{"kind":"percentage"}
+  ,"open":"2018-10-25 00:00"
+  }
+,"Lab10":
+  {"title":"poi"
+  ,"files":"poi.py"
+  ,"due":"2018-11-01 23:59"
+  ,"group":"Lab"
+  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  ,"rubric":{"kind":"percentage"}
+  ,"open":"2018-11-01 00:00"
+  }
+,"Exam 2":
+  {"group":"Exam"
+  ,"due":"2018-11-07 23:59"
+  ,"weight":1
+  ,"total":100
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Lab11":
+  {"title":"rooms"
+  ,"files":"rooms.py"
+  ,"due":"2018-11-08 23:59"
+  ,"group":"Lab"
+  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  ,"rubric":{"kind":"percentage"}
+  ,"open":"2018-11-08 00:00"
+  }
+,"Lab12":
+  {"title":"pong"
+  ,"files":"pong.py"
+  ,"due":"2018-11-15 23:59"
+  ,"group":"Lab"
+  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  ,"rubric":{"kind":"percentage"}
+  ,"open":"2018-11-15 00:00"
+  }
+,"Lab13":
+  {"title":"email"
+  ,"files":"emailhunt.py"
+  ,"due":"2018-11-29 23:59"
+  ,"group":"Lab"
+  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  ,"rubric":{"kind":"percentage"}
+  ,"open":"2018-11-29 00:00"
+  }
+,"Lab14":
+  {"title":"review"
+  ,"due":"2018-12-06 23:59"
+  ,"group":"Lab"
+  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  ,"rubric":{"kind":"percentage"}
+  ,"open":"2018-12-06 00:00"
+  }
+,"Exam 3":
+  {"group":"Exam"
+  ,"due":"2018-12-11 23:59"
+  ,"weight":1.33
+  ,"total":133
+  ,"rubric":{"kind":"percentage"}
+  }
+}
