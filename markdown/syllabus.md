@@ -26,10 +26,12 @@ Personal issues impacting coursework                          Your dean, and/or 
 
 Office: Rice 209
 
-Office hours: TBA
+Office hours: Friday 3pm-5pm
 If my door is open, you are welcome to come in even when it is not my scheduled office hours.
 
 Email: njb2b@virginia.edu
+
+Comments: I get a lot of email, pleases include CS1110 or CS1111 in the subject line.
 
 ## Craig Dill
 
