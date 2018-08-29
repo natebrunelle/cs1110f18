@@ -57,7 +57,7 @@ Office hours: TBA (until they're settled, whenever my door is open!)
 
 Email: up3f@virginia.edu 
 
-Comments: I read email during work hours only, if it contains 1111 in the subject line. I get so much email that email without 1111 in the subject line often goes unread.
+Comments: I read email during work hours only. I get a lot of email, pleases include CS1111 in the subject line.
 
 
 ## Teaching Assistants
