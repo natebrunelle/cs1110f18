@@ -289,7 +289,7 @@ In this course, there will be a focus on working well together and learning abou
 
 Students can and will be penalized for unprofessional behavior.
 
-If a student submits code that was not authored by that student (i.e. copied from another student or from the Internet), or if another student submits code that matches a student's code, then the student's overall course grade will be dropped significantly.
+If a student submits code that was not authored by that student (i.e. copied from another student or from the Internet), or if another student submits code that matches a student's code, then the student's overall course grade will be dropped significantly. Egregious violations may be taken to the Honor Committee.
 
 # Research
 
