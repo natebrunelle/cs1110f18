@@ -29,7 +29,7 @@ Section |Time             |Place                 |Instructor
 |1110-105|Th 3:30–4:45PM  |Olsson 009  |
 |1110-110|Th 3:30–4:45PM  |MEC 213     |
 |1110-106|Th 5:00–6:15PM  |Olsson 009  |
-|1110-107|Th 6:30–7:45PM  |MEC 213     |
+|1110-107|Th 6:30–7:45PM  |Olsson 009  |
 |1110-108|Th 8:00–9:15PM  |Olsson 001  |
 |1111    |(none)          |(none)      |
 
