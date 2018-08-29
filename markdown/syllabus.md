@@ -8,7 +8,7 @@ Course website: [http://cs1110.cs.virginia.edu](http://cs1110.cs.virginia.edu)
 
 Lectures and Labs: see [main page](http://cs1110.cs.virginia.edu)
 
-Syllabus Quiz: All students must complete the [Syllabus Quiz on Collab](https://collab.its.virginia.edu/portal/site/9f05335c-bd35-4b5e-bed2-8bd00ae0b03a/tool/277ae78a-c1a5-4acc-a7b6-780cb83ca909/jsf/index/mainIndex)
+Syllabus Quiz: All students must complete the [Syllabus Quiz on Collab](https://collab.its.virginia.edu/portal/site/9f05335c-bd35-4b5e-bed2-8bd00ae0b03a/tool/277ae78a-c1a5-4acc-a7b6-780cb83ca909/jsf/index/mainIndex) by September 14.
 
 # Contact
 
