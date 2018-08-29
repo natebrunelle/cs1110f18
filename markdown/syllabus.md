@@ -31,7 +31,7 @@ If my door is open, you are welcome to come in even when it is not my scheduled 
 
 Email: njb2b@virginia.edu
 
-Comments: I get a lot of email, pleases include CS1110 or CS1111 in the subject line.
+Comments: I get a lot of email, please include CS1110 or CS1111 in the subject line.
 
 ## Craig Dill
 
@@ -45,7 +45,7 @@ Email: cd9au@virginia.edu
 
 Office: Rice 412
 
-Office hours: TBA
+Office hours: Wednesday 2PM-3:30PM, Thursday 3:30PM-5PM
 
 Email: pa7xu@virginia.edu
 
@@ -53,7 +53,7 @@ Email: pa7xu@virginia.edu
 
 Office: Rice 206
 
-Office hours: TBA
+Office hours: TBA (until they're settled, whenever my door is open!)
 
 Email: up3f@virginia.edu 
 
@@ -196,7 +196,7 @@ or as a docstring at the beginning of the file, as e.g.
 You must write your own code.
 Not just type it (though you need to do that too): **compose it yourself**, as your own original work.
 Beware of looking at other students code or code you find online: it is hard to unsee and can spoil your ability to compose your own solutions!
-Do not make any code public on the Piazza Message Board.
+Do not make long snippets code public on the Piazza Message Board.
 
 ### Understand what you submit
 
