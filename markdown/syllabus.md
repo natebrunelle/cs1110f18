@@ -21,7 +21,7 @@ Q about course topics                                         In-class questions
 Q about code not working                                      Office hours
 Q about [grading](#grading-concerns-and-appeals)              Regrade request on [the submission site](https://archimedes.cs.virginia.edu/cs1110/)
 Conversations about mentoring, research, student life, etc.   Office hours or schedule one-on-one visit
-Personal issues impacting coursework                          Your dean, and/or private email to your section's instructor
+Personal issues impacting coursework (labs, exams, etc...)    Your dean, and/or private email to your section's instructor
 
 
 ## Nate Brunelle
