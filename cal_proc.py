@@ -251,7 +251,7 @@ def calendar(data,l001={},l002={},l003={},l1111={}):
                     r = data['reading'].get(d1, [])[:]
                     classidx += 1
                     today['1110'] = d1 + ('<span class="reading">' + ', '.join(r)+'</span>' if r else '')
-                    for dic,nam in (l001,'l001'), (l002,'l002,l003'), (l003,'l003'):
+                    for dic,nam in (l001,'l001'), (l002,'l002'), (l003,'l003'):
                         if d in dic:
                             links = []
                             for k,v in dic[d].items():
