@@ -166,7 +166,7 @@ No promises, though.
 
 Collab does not scale well enough for the number of students we have in CS1110, for this reason we use a secondary system for course management. One drawback to this is that the procedure for adding newly-enrolled students is manual. I update the roster once a day.
 
-The only things unique to the assignments tab are the submission procedures and grades (and you have no submitted until after the add deadline). All deadlines and assignment descriptions are reachable from the [schedule](/schedule.html).
+The only things unique to the assignments tab are the submission procedures and grades (and you have no submitted assignments until after the add deadline). All deadlines and assignment descriptions are reachable from the [schedule](/schedule.html).
 
 
 # My computer died. What do I do?
