@@ -7,7 +7,7 @@ title: "PA 05: maydate.py"
 Write a file with one function: `creepy`.
 `creepy` should have two arguments, the ages of two people.
 It should return `False`{.python} if the two may date each other without being creepy, `True`{.python}.
-See [dating.py](w01-dating.html) for a definition of creepy.
+See [dating.py](pa03-dating.html) for a definition of creepy.
 
 Return the Boolean values^[Not every section discussed Boolean values. Comparisons (like `x < 3`) evalaute to Boolean values, called `bool` by Python. See the [Troubleshooting] section, [a summary of types](types.html), or section 6.1 of the textbook for more] `True`{.python} and `False`{.python}, not the strings `"True"`{.python} and `"False"`{.python}.
 
