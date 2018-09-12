@@ -29,3 +29,9 @@
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L6_turtles.pdf
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L6_turtles.pptx
     files: [/files/f18/my_turtle.py]
+
+2018-09-12:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ae9024c-8324-4212-b07d-a9590128b00c
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L7_turtles2.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L7_turtles2.pptx
+    files: [/files/f18/turtle_spirals.py, /files/f18/turtle_flower.py, /files/f18/turtle_tree.py]

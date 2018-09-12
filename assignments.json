@@ -19,7 +19,7 @@
 ,"Lab03":
   {"title":"turtle"
   ,"due":"2018-09-13 23:59"
-  ,"open":"2018-09-15 00:00"
+  ,"open":"2018-09-11 00:00"
   ,"files":["*.py","*.ps","*.png","*.PNG"]
   ,"late-policy":[1,1]
   ,"group":"Lab"
