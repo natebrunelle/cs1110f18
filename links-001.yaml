@@ -22,11 +22,10 @@
     no Video: ''
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L5_pycharm.pdf
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L5_pycharm.pptx
-    my_first_demo.py: http://www.cs.virginia.edu/~njb2b/cs1110/my_first_demo.py
-    my_second_demo.py: http://www.cs.virginia.edu/~njb2b/cs1110/my_second_demo.py
+    files: [/files/f18/my_first_demo.py, /files/f18/my_second_demo.py]
 
 2018-09-10:
     no Video: ''
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L6_turtles.pdf
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L6_turtles.pptx
-    my_turtle.py: http://www.cs.virginia.edu/~njb2b/cs1110/my_turtle.py
+    files: [/files/f18/my_turtle.py]
