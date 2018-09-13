@@ -8,6 +8,11 @@ In an effort to bring at least a tiny piece of small-class feel to the giant cou
 When there are paired projects, such as most labs and your final project, you'll generally be expected to pair within the set of students that share your grader.
 Thus, please sit near anyone you want to be paired with, and expect the TAs to open the lab with the boring but important process of recording grading groups.
 
+# Pre-Lab Survey
+As part of our ongoing effort to try to improve CS 1110, we have a group of researchers looking into how labs work and how they might work better. They have a survey they’d like you to fill out:
+
+<div style="display:table;margin: 1em auto;font-size:150%; padding:1ex; border:thin solid #e3e3e3; border-radius:4px; background:#f5f5f5;-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);">[Take the Survey](https://www.surveymonkey.com/r/LighthouseECFall2018PreSurvey)</div>
+
 
 # Pairing
 
