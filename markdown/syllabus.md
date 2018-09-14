@@ -55,7 +55,7 @@ Email: pa7xu@virginia.edu
 
 Office: Rice 206
 
-Office hours: TBA (until they're settled, whenever my door is open!)
+Office hours: Wednesday 10AM-12PM, Thursday 2PM-3PM
 
 Email: up3f@virginia.edu 
 
