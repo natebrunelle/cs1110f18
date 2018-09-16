@@ -39,7 +39,7 @@ Madlibs work as follows:
     > Then I met you. Now I know that all *profession1*s do is *task1* and no one cares.  Thank you for showing me the true way.
     
     You can pick any phrase you want.
-    Often stranger phrases with more key words missing are more interested.
+    Often stranger phrases with more key words missing are more interesting.
     
 1.  Without showing the user the phrase, ask the user for the words you left out.
     For example, you might ask
@@ -83,7 +83,9 @@ Specifically, how you solved the problem.
         ````
 -   Other designs are fine, so long as they make reasonable use of functions.
 
-Remember to good variable names and comments to help make your code easy to read!
+Make your code more readable with good variable names and insightful comments. 
+
+
 
 ## Submission
 
