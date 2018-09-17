@@ -41,3 +41,9 @@
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L8_values.pdf
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L8_values.pptx
     files: [/files/f18/our_first_program.py, /files/f18/strange_things.py]
+
+2018-09-17:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b427b89-c24d-451d-a4cb-a95e0128661d
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L9_strings_casting.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L9_strings_casting.pptx
+    files: [/files/f18/float_weirdness.py, /files/f18/age_multiplier.py, /files/f18/strange_casts.py]
