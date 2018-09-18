@@ -13,14 +13,7 @@ We've posted <a href="turtleart/" target="_blank">the turtle art submissions</a>
 
 # Pairing
 
-For this and all subsequent labs, you will work in pairs.
-
-# Survey
-
-As part of our ongoing effort to try to improve CS 1110, we have a group of researchers looking into how labs work and how they might work better.
-They have a survey they'd like you to fill out:
-
-<div style="display:table;margin: 1em auto;font-size:150%; padding:1ex; border:thin solid #e3e3e3; border-radius:4px; background:#f5f5f5;-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);">[Take the Survey](survey.html)</div>
+For this and all subsequent labs, you will work in pairs.:
 
 # Recitation
 
