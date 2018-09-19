@@ -18,12 +18,12 @@
 2018-09-12:
     Data type: http://www.cs.virginia.edu/~up3f/cs1111/supplement/Data-type.html    
     Variables: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-05B-variable.pdf    
+    Input-output: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-05C-input-output.pdf
+    Activity (input_output): https://storage.googleapis.com/cs1111/inclass/input_output.py    
     Activity (data_type): https://storage.googleapis.com/cs1111/inclass/data_type.py
     In-class lab (111x-Lab03-Turtle): http://cs1110.cs.virginia.edu/lab03-turtle.html
     
 2018-09-17:
-    Input-output: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-05C-input-output.pdf
-    Activity (input_output): https://storage.googleapis.com/cs1111/inclass/input_output.py
     Functions: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-06-functions.pdf
     examples (functions): http://www.cs.virginia.edu/~up3f/cs1111/examples/functions/
     
@@ -34,4 +34,9 @@
 2018-09-26:
     In-class lab (111x-Lab05-paper): http://cs1110.cs.virginia.edu/lab05-paper.html
 
-
+2018-11-14: 
+    In-class lab (111x-Lab12-pong): http://cs1110.cs.virginia.edu/lab12-pong.html
+    
+2018-12-05:
+    In-class lab (111x-Lab14-review): http://cs1110.cs.virginia.edu/lab14-review.html
+    
