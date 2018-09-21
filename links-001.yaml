@@ -51,5 +51,11 @@
 2018-09-19:
     Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=853ffc88-3e03-42b1-a222-a9600128ea9a
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L10_functions.pdf
-    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L9_functions.pptx
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L10_functions.pptx
     files: [/files/f18/several_functions.py, /files/f18/new_age_multiplier.py, /files/f18/basic_function.py]
+
+2018-09-21:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee3b8481-dfec-473f-b15b-a9620128b262
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L11_functions_scope.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L11_functions_scope.pptx
+    files: [/files/f18/run_count.py, /files/f18/scope_intro.py, /files/f18/increase_variable.py]
