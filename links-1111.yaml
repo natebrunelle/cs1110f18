@@ -21,7 +21,7 @@
     Input-output: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-05C-input-output.pdf
     Activity (input_output): https://storage.googleapis.com/cs1111/inclass/input_output.py    
     Activity (data_type): https://storage.googleapis.com/cs1111/inclass/data_type.py
-    In-class lab (111x-Lab03-Turtle): http://cs1110.cs.virginia.edu/lab03-turtle.html
+    In-class lab1 (111x-Lab03-Turtle): http://cs1110.cs.virginia.edu/lab03-turtle.html
     
 2018-09-17:
     Functions: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-06-functions.pdf
@@ -29,14 +29,24 @@
     
 2018-09-19: 
     Functions: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-07-functions-2.pdf
-    
+    random_example.py: https://storage.googleapis.com/cs1111/examples/functions/random_example.py
+    local_global_example.py: https://storage.googleapis.com/cs1111/examples/functions/local_global_example.py
     
 2018-09-26:
-    In-class lab (111x-Lab05-paper): http://cs1110.cs.virginia.edu/lab05-paper.html
+    In-class lab2 (111x-Lab05-paper): http://cs1110.cs.virginia.edu/lab05-paper.html
 
+2018-10-17: 
+    In-class lab3: Repetition (TBA)
+
+2018-10-31:
+    In-class lab4: dict and reading (TBA)
+    
 2018-11-14: 
-    In-class lab (111x-Lab12-pong): http://cs1110.cs.virginia.edu/lab12-pong.html
+    In-class lab5 (111x-Lab12-pong): http://cs1110.cs.virginia.edu/lab12-pong.html
+    
+2018-11-28:
+    In-class lab6: RegEx (TBA)
     
 2018-12-05:
-    In-class lab (111x-Lab14-review): http://cs1110.cs.virginia.edu/lab14-review.html
+    In-class lab7 (111x-Lab14-review): http://cs1110.cs.virginia.edu/lab14-review.html
     
