@@ -59,3 +59,9 @@
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L11_functions_scope.pdf
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L11_functions_scope.pptx
     files: [/files/f18/run_count.py, /files/f18/scope_intro.py, /files/f18/increase_variable.py]
+
+2018-09-24:
+    Video: 
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L12_defaults.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L12_defaults.pptx
+    files: [/files/f18/page_recommender.py, /files/f18/several_functions.py, /files/f18/pay_the_bill.py, /files/f18/int_operators.py, /files/f18/sphere_volume.py]
