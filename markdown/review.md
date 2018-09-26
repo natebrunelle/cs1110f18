@@ -10,7 +10,6 @@ All three exams are listed, using notes from previous semesters, but only the ne
 # Exam 1
 
 -   [how to fill in TPEGS footers](lab05-paper.html#TPEGS)
--   `len(collection)`{.python}
 -   `str(value)`{.python}
 -   `int(value)`{.python}
 -   `float(value)`{.python}

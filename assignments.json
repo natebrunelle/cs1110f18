@@ -5,7 +5,6 @@
   ,"weight":0
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Lab02":
   {"title":"counting"
@@ -14,7 +13,6 @@
   ,"weight":0
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Lab03":
   {"title":"turtle"
@@ -24,7 +22,6 @@
   ,"late-policy":[1,1]
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  ,"rubric":{"kind":"percentage"}
   }
 ,"PA01":
   {"files":"greeting.py"
@@ -55,7 +52,6 @@
   ,"open":"2018-09-15 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  ,"rubric":{"kind":"percentage"}
   }
 ,"PA03":
   {"files":"dating.py"
@@ -118,7 +114,6 @@
   ,"open":"2018-09-15 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  ,"rubric":{"kind":"percentage"}
   }
 ,"PA08":
   {"files":"bmr.py"
@@ -155,7 +150,6 @@
   ,"open":"2018-09-15 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Lab07":
   {"title":"hangman"
@@ -164,7 +158,6 @@
   ,"open":"2018-09-15 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Lab08":
   {"title":"crypto"
@@ -173,7 +166,6 @@
   ,"open":"2018-09-15 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Lab09":
   {"title":"debug"
@@ -182,7 +174,6 @@
   ,"open":"2018-09-15 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Lab10":
   {"title":"poi"
@@ -191,7 +182,6 @@
   ,"open":"2018-09-15 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Exam 2":
   {"group":"Exam"
@@ -207,7 +197,6 @@
   ,"open":"2018-09-15 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Lab12":
   {"title":"pong"
@@ -216,7 +205,6 @@
   ,"open":"2018-09-15 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Lab13":
   {"title":"email"
@@ -225,7 +213,6 @@
   ,"open":"2018-09-15 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Lab14":
   {"title":"review"
@@ -233,7 +220,6 @@
   ,"open":"2018-09-15 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Exam 3":
   {"group":"Exam"
