@@ -119,7 +119,6 @@ Built-in functions in Python
     -   `int`{.python} -- what it does given a string or a float and when it creates an error
     -   `str`{.python} -- what it does given an integer or a float
     -   `float`{.python} -- what it does given a string or an integer
-    -   `len`{.python} -- to find length of strings
     -   `type`{.python} -- to find the type of a value
 
 Python operators
