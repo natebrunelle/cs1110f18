@@ -71,3 +71,9 @@
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L13_conditionals.pdf
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L13_conditionals.pptx
     files: [/files/f18/age_commenter.py, /files/f18/several_functions.py, /files/f18/leap_years.py]
+
+2018-09-28:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=072385cb-afe6-4b71-8017-a9690128a53a
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L14_conditionals2.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L14_conditionals2.pptx
+    files: [/files/f18/guessing_game.py, /files/f18/several_functions.py, /files/f18/leap_years.py, /files/f18/and_or_not_wrong.py]
