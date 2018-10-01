@@ -42,8 +42,16 @@
 
 2018-09-26:
     Conditionals: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-09-decision.pdf
-    In-class lab2 (111x-Lab05-paper): http://cs1110.cs.virginia.edu/lab05-paper.html
-
+    get_larger.py: https://storage.googleapis.com/cs1111/examples/decision/get_larger.py
+    get_absolute.py: https://storage.googleapis.com/cs1111/examples/decision/get_absolute.py
+    is_consecutive.py: https://storage.googleapis.com/cs1111/examples/decision/is_consecutive.py
+    leap_year.py: https://storage.googleapis.com/cs1111/examples/decision/leap_year.py
+    tracing-1.py: https://storage.googleapis.com/cs1111/examples/decision/tracing-1.py
+    tracing-2.py: https://storage.googleapis.com/cs1111/examples/decision/tracing-2.py
+    more practice (decision): http://www.cs.virginia.edu/~up3f/cs1111/practice/practice-decision.html
+    In-class lab2 (111x-Lab05-paper): http://cs1110.cs.virginia.edu/lab05-paper.html    
+    
+    
 2018-10-17: 
     In-class lab3: Repetition (TBA)
 
