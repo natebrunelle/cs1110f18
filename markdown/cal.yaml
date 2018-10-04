@@ -215,4 +215,33 @@ assignments:
         files: averages.py
         due: 2018-10-01 10:00:00
         open: 2018-09-15
-   
+   PA10:
+        files: calculator.py
+        open: 2018-10-05
+        due: 2018-10-17 10:00:00
+        late-policy: [0.9,0.8,0.8,0.8]
+   PA11:
+        files: higher_lower.py
+        open: 2018-10-09
+        due: 2018-10-19 10:00:00
+   PA12:
+        files: higher_lower_player.py
+        open: 2018-10-09
+        due: 2018-10-22 10:00:00
+   PA13:
+        files: str_redux.py
+        open: 2018-10-09
+        due: 2018-10-24 10:00:00
+   PA14:
+        files: map_reduce.py
+        open: 2018-10-09
+        due: 2018-10-26 10:00:00
+   PA15:
+        files: credit_card.py
+        open: 2018-10-09
+        due: 2018-10-29 10:00:00
+   PA16:
+        files: gradebook.py
+        open: 2018-10-09
+        due: 2018-10-31 10:00:00
+
