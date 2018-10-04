@@ -135,6 +135,7 @@ assignments:
         open: 2018-09-15
     Lab06:
         title: strings
+	files: ['str_funcs.py', 'changing_str.py']
         due: 2018-10-04
         open: 2018-09-15
     Lab07:
