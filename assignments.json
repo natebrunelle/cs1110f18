@@ -160,6 +160,17 @@
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
+,"PA10":
+  {"files":"calculator.py"
+  ,"open":"2018-10-05 00:00"
+  ,"due":"2018-10-17 10:00"
+  ,"late-policy":[0.9,0.8,0.8,0.8]
+  ,"group":"PA"
+  ,"tester":"test_calculator.py"
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"calculator"
+  }
 ,"Lab08":
   {"title":"crypto"
   ,"files":"crypto.py"
@@ -168,6 +179,39 @@
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
+,"PA11":
+  {"files":"higher_lower.py"
+  ,"open":"2018-10-09 00:00"
+  ,"due":"2018-10-19 10:00"
+  ,"group":"PA"
+  ,"tester":"test_higher_lower.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"higher_lower"
+  }
+,"PA12":
+  {"files":"higher_lower_player.py"
+  ,"open":"2018-10-09 00:00"
+  ,"due":"2018-10-22 10:00"
+  ,"group":"PA"
+  ,"tester":"test_higher_lower_player.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"higher_lower_player"
+  }
+,"PA13":
+  {"files":"str_redux.py"
+  ,"open":"2018-10-09 00:00"
+  ,"due":"2018-10-24 10:00"
+  ,"group":"PA"
+  ,"tester":"test_str_redux.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"str_redux"
+  }
 ,"Lab09":
   {"title":"debug"
   ,"files":"debug_task.py"
@@ -175,6 +219,39 @@
   ,"open":"2018-09-15 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  }
+,"PA14":
+  {"files":"map_reduce.py"
+  ,"open":"2018-10-09 00:00"
+  ,"due":"2018-10-26 10:00"
+  ,"group":"PA"
+  ,"tester":"test_map_reduce.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"map_reduce"
+  }
+,"PA15":
+  {"files":"credit_card.py"
+  ,"open":"2018-10-09 00:00"
+  ,"due":"2018-10-29 10:00"
+  ,"group":"PA"
+  ,"tester":"test_credit_card.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"credit_card"
+  }
+,"PA16":
+  {"files":"gradebook.py"
+  ,"open":"2018-10-09 00:00"
+  ,"due":"2018-10-31 10:00"
+  ,"group":"PA"
+  ,"tester":"test_gradebook.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"gradebook"
   }
 ,"Lab10":
   {"title":"poi"
