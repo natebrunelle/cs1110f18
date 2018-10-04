@@ -5,9 +5,7 @@ title: "Lab 6: String Puzzles"
 
 # Mechanics of this Lab
 
-1.	We'll start with a group logic puzzle! Get in a group of 3(ish) and the TAs will show a puzzle on the screen. Talk together to figure it out.
-
-2.	Read -- this lab is intended to help you learn on your own.  Read what we've written before you code!
+Read -- this lab is intended to help you learn on your own.  Read what we've written before you code!
 
 
 # String Puzzles
