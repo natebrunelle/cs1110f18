@@ -137,13 +137,6 @@
   ,"total":10
   ,"title":"averages"
   }
-,"Exam 1":
-  {"group":"Exam"
-  ,"due":"2018-10-03 23:59"
-  ,"weight":1
-  ,"total":100
-  ,"rubric":{"kind":"percentage"}
-  }
 ,"Lab06":
   {"title":"strings"
   ,"files":["str_funcs.py","changing_str.py"]
@@ -261,13 +254,6 @@
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
-,"Exam 2":
-  {"group":"Exam"
-  ,"due":"2018-11-07 23:59"
-  ,"weight":1
-  ,"total":100
-  ,"rubric":{"kind":"percentage"}
-  }
 ,"Lab11":
   {"title":"rooms"
   ,"files":"rooms.py"
@@ -298,12 +284,5 @@
   ,"open":"2018-09-15 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  }
-,"Exam 3":
-  {"group":"Exam"
-  ,"due":"2018-12-11 23:59"
-  ,"weight":1.33
-  ,"total":133
-  ,"rubric":{"kind":"percentage"}
   }
 }
