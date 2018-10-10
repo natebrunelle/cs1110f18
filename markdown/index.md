@@ -8,9 +8,9 @@ Welcome! In this course, we have two main goals - to teach you the skill of prog
 
 ## Lecture Sections
 
-Section |Time             |Place                 |Instructor             
+Section |Time             |Place                 |Instructor
 --------|-----------------|----------------------|-----------------------
-1110-001|MoWeFr 2–2:50PM  |Wilson Hall 402       |Nathan Brunelle    
+1110-001|MoWeFr 2–2:50PM  |Wilson Hall 402       |Nathan Brunelle
 1110-002|MoWeFr 12–12:50PM|Rice Hall 130         |Craig Dill
 1110-003|MoWeFr 10–10:50AM|Rice Hall 130         |Craig Dill
 1110-004|MoWeFr 11–11:50AM|Rice Hall 130	 |Panagiotis Apostollelis
