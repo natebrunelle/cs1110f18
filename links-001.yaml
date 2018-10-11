@@ -88,3 +88,9 @@
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L16_repetition.pdf
     Slides pttx: http://www.cs.virginia.edu/~njb2b/cs1110/L16_repetition.pptx
     files: [files/f18/a_long_ride.py, files/f18/fizzbuzz.py, files/f18/old_macdonald.py, files/f18/rocket_launch.py]
+
+2018-10-10:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f27e72f7-7d6d-49a6-ac5a-a9750128a528
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L17_repetition2.pdf
+    Slides pttx: http://www.cs.virginia.edu/~njb2b/cs1110/L17_repetition2.pptx
+    files: [files/f18/guard_checked_at_end.py, files/f18/fizzbuzz.py, files/f18/rocket_launch.py, files/f18/multiple_finder.py]
