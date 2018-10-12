@@ -94,3 +94,9 @@
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L17_repetition2.pdf
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L17_repetition2.pptx
     files: [files/f18/guard_checked_at_end.py, files/f18/fizzbuzz.py, files/f18/rocket_launch.py, files/f18/multiple_finder.py]
+
+2018-10-12:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9b8175b0-e11e-45ef-b6a9-a9770128a02d
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L18_slice_debug_style.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L18_slice_debug_style.pptx
+    files: [files/f18/new_abs.py]
