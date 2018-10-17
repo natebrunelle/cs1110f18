@@ -100,3 +100,9 @@
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L18_slice_debug_style.pdf
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L18_slice_debug_style.pptx
     files: [files/f18/new_abs.py]
+
+2018-10-15:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8bd97a4-9836-4b92-9e45-a97a0128b1e8
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L19_style_collections.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L19_style_collections.pptx
+    files: [files/f18/give_a_raise.py, files/f18/index_fun.py, files/f18/strings_mutable.py]
