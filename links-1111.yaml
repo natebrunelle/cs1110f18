@@ -65,9 +65,18 @@
     macDonald_song.py: https://storage.googleapis.com/cs1111/examples/loops/macDonald_song.py
     happy_song.py: https://storage.googleapis.com/cs1111/examples/loops/happy_song.py
     secret-code.py: https://storage.googleapis.com/cs1111/examples/loops/secret-code.py
-     
+
+2018-10-15:
+    Repetition (more loop): http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-13A-loop.pdf
+    String processing: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-13B-string.pdf
+    practice (loop): https://storage.googleapis.com/cs1111/practice/practice-loop.html
+    style-readability-issue.py: https://storage.googleapis.com/cs1111/examples/style/style-readability-issue.py
+    triangle.py: https://storage.googleapis.com/cs1111/examples/style/triangle.py
+    note: https://storage.googleapis.com/cs1111/note/note-15oct2018.py
+    
 2018-10-17: 
-    In-class lab3: Repetition (TBA)
+    List: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-14-list.pdf
+    In-class lab3 (Repetition): http://www.cs.virginia.edu/~up3f/cs1111/inclass/inclass-loop-list-string.html
 
 2018-10-31:
     In-class lab4: dict and reading (TBA)
