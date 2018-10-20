@@ -98,7 +98,7 @@ Every prompt of every `input`{.python} should end with a space character, for th
 You want integers, not floats.  Round down if rounding is required.  The `//` operator might help with this.
 
 If the initial range is \[1, 100\] and the user says `higher` to 50, what is the new range?
-Not that it should *not* include 50.
+Note that it should *not* include 50.
 
 The loop should stop if any of the following become true:
 
