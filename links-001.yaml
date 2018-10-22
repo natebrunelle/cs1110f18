@@ -112,3 +112,9 @@
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L20_accumulators.pdf
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L20_accumulators.pptx
     files: [files/f18/give_a_raise.py, files/f18/accumulator_examples.py]
+
+2018-10-19:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33d8de67-cf73-4fbb-86eb-a97e0128861d
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L21_nested_repetition.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L21_nested_repetition.pptx
+    files: [files/f18/input_parser.py, files/f18/accumulator_examples.py]
