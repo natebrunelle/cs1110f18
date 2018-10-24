@@ -78,6 +78,12 @@
     List: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-14-list.pdf
     In-class lab3 (Repetition): http://www.cs.virginia.edu/~up3f/cs1111/inclass/inclass-loop-list-string.html
 
+2018-10-22:
+    Choosing test values: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-15-choose-tests.pdf
+    loop-break.py: https://storage.googleapis.com/cs1111/examples/loops/loop-break.py
+    loop-continue.py: https://storage.googleapis.com/cs1111/examples/loops/loop-continue.py
+    nested-loop.py: https://storage.googleapis.com/cs1111/examples/loops/nested-loop.py
+    
 2018-10-31:
     In-class lab4: dict and reading (TBA)
     
