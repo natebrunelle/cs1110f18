@@ -118,3 +118,9 @@
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L21_nested_repetition.pdf
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L21_nested_repetition.pptx
     files: [files/f18/input_parser.py, files/f18/accumulator_examples.py]
+
+2018-10-22:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec6ebf71-20c0-45ea-a71b-a98101289c63
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L22_lists.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L22_lists.pptx
+    files: [files/f18/input_parse.py, files/f18/reversers.py]
