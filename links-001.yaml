@@ -124,3 +124,15 @@
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L22_lists.pdf
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L22_lists.pptx
     files: [files/f18/input_parser.py, files/f18/reversers.py]
+
+2018-10-24:
+    Audio: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=996f95af-75ce-4216-83f7-a983012935ab
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L23_debugging.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L23_debugging.pptx
+    files: [files/f18/reversers.py, files/f18/hangman_bug.py]
+
+2018-10-26:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9b622d1d-8d3d-4a0f-9136-a9850128964c
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L24_dict.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L24_dict.pptx
+    files: [files/f18/hangman_bug.py, files/f18/set_intro.py, files/f18/dict_intro.py]
