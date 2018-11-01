@@ -88,6 +88,7 @@
     dict: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-16-dict.pdf
     note: https://storage.googleapis.com/cs1111/note/note-24oct2018.py
     practice-of-the-day: https://storage.googleapis.com/cs1111/practice/practice-of-the-day/pass-by-ref-and-value.py
+    practice (dict): https://storage.googleapis.com/cs1111/practice/practice-dict.html
 
 2018-10-29:
     reading: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-17-file.pdf
@@ -98,6 +99,16 @@
     friends-2.csv: https://storage.googleapis.com/cs1111/examples/file/friends-2.csv
     
 2018-10-31:
+    reading from Internet (slide 15): http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-17-file.pdf
+    practice-of-the-day: https://storage.googleapis.com/cs1111/examples/file/dict-and-read-file.py
+    todo.csv: https://storage.googleapis.com/cs1111/examples/file/todo.csv
+    open-url-ex1.py: https://storage.googleapis.com/cs1111/examples/file/open-url-ex1.py
+    open-url-ex2.py: https://storage.googleapis.com/cs1111/examples/file/open-url-ex2-solution.py
+    open-url-ex1-process-data.py: https://storage.googleapis.com/cs1111/examples/file/open-url-ex1-process-data-solution.py
+    open-url-ex3.py: https://storage.googleapis.com/cs1111/examples/file/open-url-ex3-solution.py    
+    starwars-fan-local.py: https://storage.googleapis.com/cs1111/examples/file/starwars-fan-local.py
+    starwars-fan-url.py: https://storage.googleapis.com/cs1111/examples/file/starwars-fan-url.py
+    StarWars.csv: https://storage.googleapis.com/cs1111/examples/file/StarWars.csv
     In-class lab4 (dict and reading): http://www.cs.virginia.edu/~up3f/cs1111/inclass/inclass-dict-reading.html
     
 2018-11-14: 
