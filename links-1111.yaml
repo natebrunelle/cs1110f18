@@ -103,10 +103,13 @@
     practice-of-the-day: https://storage.googleapis.com/cs1111/examples/file/dict-and-read-file.py
     todo.csv: https://storage.googleapis.com/cs1111/examples/file/todo.csv
     open-url-ex1.py: https://storage.googleapis.com/cs1111/examples/file/open-url-ex1.py
-    open-url-ex2.py: https://storage.googleapis.com/cs1111/examples/file/open-url-ex2.py
-    open-url-ex1-process-data.py: https://storage.googleapis.com/cs1111/examples/file/open-url-ex1-process-data.py
-    open-url-ex3.py: https://storage.googleapis.com/cs1111/examples/file/open-url-ex3.py
+    open-url-ex2.py: https://storage.googleapis.com/cs1111/examples/file/open-url-ex2-solution.py
+    open-url-ex1-process-data.py: https://storage.googleapis.com/cs1111/examples/file/open-url-ex1-process-data-solution.py
+    open-url-ex3.py: https://storage.googleapis.com/cs1111/examples/file/open-url-ex3-solution.py
     In-class lab4 (dict and reading): http://www.cs.virginia.edu/~up3f/cs1111/inclass/inclass-dict-reading.html
+    starwars-fan-local.py: https://storage.googleapis.com/cs1111/examples/file/starwars-fan-local.py
+    starwars-fan-url.py: https://storage.googleapis.com/cs1111/examples/file/starwars-fan-url.py
+    StarWars.csv: https://storage.googleapis.com/cs1111/examples/file/StarWars.csv
     
 2018-11-14: 
     In-class lab5 (111x-Lab12-pong): http://cs1110.cs.virginia.edu/lab12-pong.html
