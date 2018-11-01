@@ -6,9 +6,10 @@ title: "Lab 10: Point of Interest"
 # Activities
 
 The TAs will begin with some instruction. Here are the materials they're using, so you can follow along:
-- [Slides](https://docs.google.com/presentation/d/1tWXdQNqalgMM0DGnrLrhE1AFU-XM-aU4IDt2zCF54hQ/edit#slide=id.p)
-- [sometext.txt](/files/f18/sometext.txt)
-- [numberofwords.py](/files/f18/numberofwords.py)
+
+1.  [Slides](https://docs.google.com/presentation/d/1tWXdQNqalgMM0DGnrLrhE1AFU-XM-aU4IDt2zCF54hQ/edit#slide=id.p)
+2.  [sometext.txt](/files/f18/sometext.txt)
+3.  [numberofwords.py](/files/f18/numberofwords.py)
 
 
 ## Overview
