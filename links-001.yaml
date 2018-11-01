@@ -143,4 +143,9 @@
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L25_dict2.pptx
     files: [files/f18/dict_intro.py, files/f18/piglatin_translator.py, files/f18/expense_report.py]
 
+2018-10-31:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=07214367-1e19-42c5-b6a7-a98a0128cf36
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L26_files.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L26_files.pptx
+    files: [files/f18/ex.csv, files/f18/expense_report_string.py, files/f18/expense_report.py, files/f18/expense_report_file1.py, files/f18/expense_report_file2.py, files/f18/basic_file.py]
 
