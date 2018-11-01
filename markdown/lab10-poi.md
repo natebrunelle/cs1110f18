@@ -5,6 +5,12 @@ title: "Lab 10: Point of Interest"
 
 # Activities
 
+The TAs will begin with some instruction. Here are the materials they're using, so you can follow along:
+- [Slides](https://docs.google.com/presentation/d/1tWXdQNqalgMM0DGnrLrhE1AFU-XM-aU4IDt2zCF54hQ/edit#slide=id.p)
+- [sometext.txt](/files/sometext.txt)
+- [numberofwords.py](/files/numberofwords.py)
+
+
 ## Overview
 
 Your code should
