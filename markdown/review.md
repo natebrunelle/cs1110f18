@@ -36,9 +36,11 @@ Since exam 1, we have covered
 -   Boolean values (`True`{.python} and `False`{.python}) and operators (`and`{.python}, `or`{.python},  and `not`{.python})
 -   Test case selection and debugging strategies
 -   Loops (`while`{.python}, `for`{.python})
+-   Loops inside of loops (nested loops)
 -   Collection types (`str`{.python}, `list`{.python}, `tuple`{.python}, `range`{.python})
+-   Lists with lists as elements (e.g. 2d lists)
 -   The basics of the `dict`{.python} datatype
--   Reading files and web sites
+-   Reading files
 -   Reading tabular data (such as CSV)
 
 While exam 2 is not designed to be an cumulative exam (i.e., we won't ask questions we could have asked for exam 1), the new material builds off old material so cumulative understanding is expected.
@@ -49,12 +51,9 @@ We expect you to know the following built-in and library functions, in addition 
 
 -   `import random`{.python}
     -   `random.randrange(lo, hi)`{.python}
-    -   `random.shuffle(list)`{.python}
 -   `str`{.python}
     -   `substring in string`{.python}
     -   `string1 + string2`{.python}
-    -   `string.lower()`{.python}
-    -   `string.upper()`{.python}
     -   `string.strip()`{.python}
     -   `string.split()`{.python}
     -   `string.split(delimiter)`{.python}
@@ -66,8 +65,8 @@ We expect you to know the following built-in and library functions, in addition 
     -   `lst.remove(value)`{.python}
     -   `lst.pop(index)`{.python}
     -   `lst.sort()`{.python}
-    -   `lst.reverse()`{.python}
     -   `lst.index(element)`{.python}
+    -   `lst[start:end]`{.python}
 -   `list(collection)`{.python}
 -   `range(end)`{.python}
 -   `range(start, end)`{.python}
@@ -81,16 +80,11 @@ We expect you to know the following built-in and library functions, in addition 
     -   `connection.read()`{.python}
     -   `connection.readline()`{.python}
     -   some way of iterating lines (`connection.readlines()`{.python}, or `connection.read().split('\n')`{.python}, or `for line in connection`{.python})
--   `import urllib.request`
-    -   `urllib.request.urlopen(url)`{.python}
-    -   `stream.read().decode('utf-8')`{.python}
 
 See also the previous exams:
 
 Semester    | Exam                       | Key/Rubric
 ------------|----------------------------|-----------------------------------
-Spring 2016 |                                  | [s2016e2key.pdf](files/s2016e2key.pdf)
-Fall 2016   | [f2016e2.pdf](files/f2016e2.pdf) | 
 Spring 2017 | [s2017e2.pdf](files/s2017e2.pdf) | [s2017e2key.txt](files/s2017e2key.txt)
 Fall 2017   | [f2017e2.pdf](files/f2017e2.pdf) | [f2017e2key.html](files/f2017e2key.html)
 Spring 2018 | [s2018e2.pdf](files/s2018e2.pdf) | [s2018e2key.html](files/s2018e2key.html)
