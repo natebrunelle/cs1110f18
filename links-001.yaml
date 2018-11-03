@@ -149,3 +149,8 @@
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L26_files.pptx
     files: [files/f18/ex.csv, files/f18/expense_report_string.py, files/f18/expense_report.py, files/f18/expense_report_file1.py, files/f18/expense_report_file2.py, files/f18/basic_file.py]
 
+2018-11-01:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=90f51e4e-bde7-4e58-bb71-a98c0128d00d
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L27_web.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L27_web.pptx
+    files: [files/f18/basic_web.py, files/f18/vastats_reader.py]
