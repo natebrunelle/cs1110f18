@@ -2,6 +2,8 @@
 title: "Lab 11: Counting Rooms Again"
 ...
 
+#CS Courses
+The TAs will spend a few minutes discussing the follow-up programming course to cs1110. Feel free to ask them any questions you may have about their experiences in the computer science curriculum.
 
 # Pairing
 
