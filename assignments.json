@@ -306,6 +306,16 @@
   ,"total":10
   ,"title":"spellcheck"
   }
+,"Checkpoint 1":
+  {"due":"2018-11-21 05:00"
+  ,"group":"Project"
+  ,"weight":1
+  ,"total":1
+  ,"writeup":"project.html"
+  ,"rubric":{"kind":"percentage"}
+  ,"files":["game.py","*.*"]
+  ,"support":["gamebox.py"]
+  }
 ,"PA19":
   {"files":["flappybird.py","*.jpg","*.png"]
   ,"writeup":"pa19-flappy.html"
@@ -315,6 +325,17 @@
   ,"late-policy":[0.9,0.8]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
+  }
+,"Checkpoint 2":
+  {"due":"2018-11-28 05:00"
+  ,"group":"Project"
+  ,"weight":1
+  ,"total":1
+  ,"writeup":"project.html"
+  ,"extends":["Checkpoint 1"]
+  ,"rubric":{"kind":"percentage"}
+  ,"files":["game.py","*.*"]
+  ,"support":["gamebox.py"]
   }
 ,"PA20":
   {"files":"regex.py"
@@ -352,6 +373,48 @@
   ,"open":"2018-09-15 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  }
+,"Project":
+  {"due":"2018-12-07 23:59"
+  ,"group":"Project"
+  ,"weight":48
+  ,"total":48
+  ,"writeup":"project.html"
+  ,"extends":["Checkpoint 2","Checkpoint 1"]
+  ,"rubric":
+    {"kind":"breakdown"
+    ,"parts":
+      [{"name":"splash"
+       ,"ratio":8
+       ,"rubric":
+         {"kind":"breakdown"
+         ,"parts":
+           [{"name":"creator information"
+            ,"ratio":4
+            ,"rubric":{"kind":"buckets"}
+            }
+           ,{"name":"instructions","ratio":4,"rubric":{"kind":"buckets"}}
+           ]
+         }
+       }
+      ,{"name":"required features"
+       ,"ratio":16
+       ,"rubric":
+         {"kind":"breakdown"
+         ,"parts":
+           [{"name":"user interaction","ratio":4,"rubric":{"kind":"buckets"}}
+           ,{"name":"endgame","ratio":4,"rubric":{"kind":"buckets"}}
+           ,{"name":"images","ratio":4,"rubric":{"kind":"buckets"}}
+           ,{"name":"not just a demo","ratio":4,"rubric":{"kind":"buckets"}}
+           ]
+         }
+       }
+      ,{"name":"elective features","ratio":16,"rubric":{"kind":"buckets"}}
+      ,{"name":"a cohesive game","ratio":8,"rubric":{"kind":"buckets"}}
+      ]
+    }
+  ,"files":["game.py","*.*"]
+  ,"support":["gamebox.py"]
   }
 ,"Exam 3":
   {"group":"Exam"
