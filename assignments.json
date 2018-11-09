@@ -306,16 +306,6 @@
   ,"total":10
   ,"title":"spellcheck"
   }
-,"Checkpoint 1":
-  {"due":"2018-11-21 05:00"
-  ,"group":"Project"
-  ,"weight":1
-  ,"total":1
-  ,"writeup":"project.html"
-  ,"rubric":{"kind":"percentage"}
-  ,"files":["game.py","*.*"]
-  ,"support":["gamebox.py"]
-  }
 ,"PA19":
   {"files":["flappybird.py","*.jpg","*.png"]
   ,"writeup":"pa19-flappy.html"
@@ -326,13 +316,12 @@
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   }
-,"Checkpoint 2":
-  {"due":"2018-11-28 05:00"
+,"Checkpoint 1":
+  {"due":"2018-11-23 05:00"
   ,"group":"Project"
   ,"weight":1
   ,"total":1
   ,"writeup":"project.html"
-  ,"extends":["Checkpoint 1"]
   ,"rubric":{"kind":"percentage"}
   ,"files":["game.py","*.*"]
   ,"support":["gamebox.py"]
@@ -356,10 +345,21 @@
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
+,"Checkpoint 2":
+  {"due":"2018-11-30 05:00"
+  ,"group":"Project"
+  ,"weight":1
+  ,"total":1
+  ,"writeup":"project.html"
+  ,"extends":["Checkpoint 1"]
+  ,"rubric":{"kind":"percentage"}
+  ,"files":["game.py","*.*"]
+  ,"support":["gamebox.py"]
+  }
 ,"PA21":
   {"files":"salary.py"
   ,"open":"2018-11-01 00:00"
-  ,"due":"2018-12-01 10:00"
+  ,"due":"2018-11-30 10:00"
   ,"group":"PA"
   ,"tester":"test_salary.py"
   ,"late-policy":[0.9,0.8]

@@ -258,7 +258,7 @@ assignments:
         files: ["flappybird.py", "*.jpg", "*.png"]
         writeup: pa19-flappy.html
         open: 2018-11-01
-        due: 2018-11-21 10:00:00
+        due: 2018-11-20 10:00:00
     PA20:
         files: regex.py
         open: 2018-11-01
