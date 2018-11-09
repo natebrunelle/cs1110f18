@@ -279,7 +279,7 @@
 ,"PA17":
   {"files":"lous_list.py"
   ,"open":"2018-11-01 00:00"
-  ,"due":"2018-11-15 10:00"
+  ,"due":"2018-11-14 10:00"
   ,"group":"PA"
   ,"tester":"test_lous_list.py"
   ,"late-policy":[0.9,0.8]
