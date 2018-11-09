@@ -244,3 +244,26 @@ assignments:
         files: gradebook.py
         open: 2018-10-09
         due: 2018-10-31 10:00:00
+        
+    PA17:
+        files: lous_list.py
+        open: 2018-11-01
+        due: 2018-11-15 10:00:00
+
+    PA18:
+        files: spellcheck.py
+        open: 2018-11-01
+        due: 2018-11-16 10:00:00
+    PA19:
+        files: ["flappybird.py", "*.jpg", "*.png"]
+        writeup: pa19-flappy.html
+        open: 2018-11-01
+        due: 2018-11-21 10:00:00
+    PA20:
+        files: regex.py
+        open: 2018-11-01
+        due: 2018-11-28 10:00:00
+    PA21:
+        files: salary.py
+        open: 2018-11-01
+        due: 2018-12-01 10:00:00
