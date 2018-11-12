@@ -105,8 +105,8 @@ def assignments_json(data):
         if k.startswith('Exam'):
             ans[k] = {"group":"Exam", "due":v}
             if k.endswith('3'): 
-                ans[k]['weight'] = 1.33
-                ans[k]['total'] = 133
+                ans[k]['weight'] = 1
+                ans[k]['total'] = 100
             else:
                 ans[k]['weight'] = 1
                 ans[k]['total'] = 100
