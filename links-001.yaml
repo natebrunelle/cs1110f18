@@ -158,5 +158,12 @@
 2018-11-05:
     Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c98f9f1-f770-40cb-bd5b-a98f01393449
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L28_exam2_review.pdf
-    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L27_exam2_review.pptx
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L28_exam2_review.pptx
     files: [files/f18/exam2_review.py]
+        
+2018-11-09:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f48a0895-7a86-49b7-a6f6-a9930139060b
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L29_gamebox.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L29_gamebox.pptx
+    files: [files/f18/basic_input.py, files/f18/basic_game.py, files/f18/basic_momentum.py, files/f18/basic_obstacles.py, files/f18/mult_obstacles.py]
+
