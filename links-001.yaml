@@ -167,3 +167,6 @@
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L29_gamebox.pptx
     files: [files/f18/basic_input.py, files/f18/basic_game.py, files/f18/basic_momentum.py, files/f18/basic_obstacles.py, files/f18/mult_obstacles.py]
 
+2018-11-09:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b327df2-97b5-405d-9220-a9960139369f
+    files: [files/f18/dodgeball.py]
