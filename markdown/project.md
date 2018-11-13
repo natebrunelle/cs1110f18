@@ -8,7 +8,7 @@ Your task is to use PyGame and gamebox to create in interesting game with a part
 Unlike other assignments,
 
 -   You should work with one (1) partner for the entirety of this assignment
-    -   These will be handled in lab on 12 April (or in an adjacent class for 1111)
+    -   These will be handled in lab on 8 or 15 November (or in an adjacent class for 1111)
 -   This assignment is worth more points (see [the syllabus](syllabus.html) for details)
 -   You are expected to define the details of this assignment yourselves
 -   We'll check your progress (based on checkpoint archimedes submissions) several times; lack of progress will result reduced final grades.
@@ -177,26 +177,26 @@ We will also check your progress with two intermediate checkpoints, each due mid
 
 Should be a python file, named `game.py`, containing comments describing your game idea and how you will fill the optional requirements.  We also encourage starting the game code in that file as well.
 
-This checkpoint is due at 5:00 AM Wednesday morning, and late submissions are *not* accepted. If you miss the checkpoint and would still like feedback, contact your grader in lab (or class for 1111).
+This checkpoint is due at 5:00 AM Monday morning, and late submissions are *not* accepted. If you miss the checkpoint and would still like feedback, contact your grader in lab (or class for 1111).
 
 ## Checkpoint 2
 
 Should be a the basics of a working game, in `game.py`, possibly with a few "it crashes if you do *X*"-type bugs or missing features.
 
-This checkpoint is due at 5:00 AM Wednesday morning, and late submissions are *not* accepted. If you miss the checkpoint and would still like feedback, contact your grader in lab (or class for 1111).
+This checkpoint is due at 5:00 AM Friday morning, and late submissions are *not* accepted. If you miss the checkpoint and would still like feedback, contact your grader in lab (or class for 1111).
 
 ## Final Submission
 
 Should be the entire game.
 
-This submission is due at 11:59 PM Tuesday night, and per university policy late submissions are *not* accepted.
+This submission is due at 11:59 PM Friday night, and per university policy late submissions are *not* accepted.
 
 ## Uploading files beyond `game.py`
 
 We accept all kinds of files in the submission, but note:
 
 -   The game must be run by using a file named `game.py`; it may use other `.py` files too if you want (upload them too)
--   If you make your own graphics, level files, etc., upload those; but if you access them in your game by URL yo don't need to upload them
+-   If you make your own graphics, level files, etc., upload those; but if you access them in your game by URL you don't need to upload them
 -   Don't upload copyrighted material unless you have rights to give it to us
 
 At least one partner will need to submit your files each time you submit.
