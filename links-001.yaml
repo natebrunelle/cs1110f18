@@ -172,4 +172,4 @@
     files: [files/f18/dodgeball.py]
     
 2018-11-14:
-    files: [http://www.cs.virginia.edu/~njb2b/cs1110/L29_gamebox.pdf]
+    game: http://www.cs.virginia.edu/~njb2b/cs1110/L29_gamebox.pdf
