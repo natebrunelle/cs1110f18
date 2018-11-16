@@ -22,7 +22,7 @@ The source is what `urllib.request` will retrieve, what your regular expressions
 
 # Task
 
-The following writeup describes elements of the task you are to do, mostly with examples taken from the ["view source" of Teresa Sullivan's page](view-source:cs1110.cs.virginia.edu/files/uva2016/teresa-sullivan).
+The following writeup describes elements of the task you are to do, mostly with examples taken from the ["view source" of Teresa Sullivan's page](view-source:https://cs1110.cs.virginia.edu/files/uva2016/teresa-sullivan).
 Your job is to generalize the pattern and put it in a regular expression.
 Some information has multiple locations; you only need to find one of the options.
 
