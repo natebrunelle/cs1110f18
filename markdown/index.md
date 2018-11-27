@@ -18,7 +18,7 @@ Section |Time             |Place                 |Instructor
 
 ## Final Exam Times
 
-The final exam will take place on Tues, Dec 11, 7-10PM. The location is determined by which section you are enrolled in. You must take the exam with your official section.
+The final exam will take place on Tues, Dec 11, 7-10PM. The location is determined by which lecture section you are enrolled in. You must take the exam with your official lecture section.
 
 Section |Instructor            |Place
 --------|----------------------|-----------------------
