@@ -142,9 +142,16 @@
     regex-ex2.py: https://storage.googleapis.com/cs1111/examples/regex/regex-ex2.py
     regex-ex3.py: https://storage.googleapis.com/cs1111/examples/regex/regex-ex3.py
     regex-ex4.py: https://storage.googleapis.com/cs1111/examples/regex/regex-ex4.py
+
+2018-11-26: 
+    practice-of-the-day: https://storage.googleapis.com/cs1111/practice/practice-of-the-day/practice-26nov2018.py
+    regex-simpsons.py: https://storage.googleapis.com/cs1111/examples/regex/regex-simpsons.py
+    regex-phone-from-url.py: https://storage.googleapis.com/cs1111/examples/regex/regex-phone-from-url.py
+    regex-split-string.py: https://storage.googleapis.com/cs1111/examples/regex/regex-split-string.py
+    regex-replacement.py: https://storage.googleapis.com/cs1111/examples/regex/regex-replacement.py
     
 2018-11-28:
-    In-class lab6: RegEx (TBA)
+    In-class lab6 (111x-Lab13-email): http://cs1110.cs.virginia.edu/lab13-email.html
     
 2018-12-05:
     In-class lab7 (111x-Lab14-review): http://cs1110.cs.virginia.edu/lab14-review.html
