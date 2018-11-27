@@ -16,6 +16,18 @@ Section |Time             |Place                 |Instructor
 1110-004|MoWeFr 11–11:50AM|Rice Hall 130	 |Panagiotis Apostollelis
 1111    |MoWe 2–3:15PM    |Clark Hall 108        |Upsorn Praphamontripong
 
+## Final Exam Times
+
+The final exam will take place on Tues, Dec 11, 7-10PM. The location is determined by which section you are enrolled in. You must take the exam with your official section.
+
+Section |Place                 |Instructor
+--------|----------------------|-----------------------
+1110-001|Maury Hall 209        |Nathan Brunelle
+1110-002|Gilmer Hall 130       |Craig Dill
+1110-003|Gilmer Hall 130       |Craig Dill
+1110-004|Clark Hall 107	       |Panagiotis Apostollelis
+1111    |Clark Hall 108        |Upsorn Praphamontripong
+
 ## Lab Sections
 
 |Section |Time            |Place       |
