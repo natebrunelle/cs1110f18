@@ -2,13 +2,6 @@
 title: "Lab 13: Email Finder"
 ...
 
-
-# Study
-
-We have a [short survey](survey.html) we'd really appreciate if you'd take.
-We'll have another (different) one next week as well.
-Every piece of data you give us helps us make our courses better!
-
 # Pairing
 
 For this and all subsequent labs, you will work in pairs.
