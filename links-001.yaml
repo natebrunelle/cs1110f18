@@ -194,3 +194,21 @@
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L34_regex.pptx
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L34_regex.pdf
     files: [files/f18/re_practice.py]
+    
+2018-11-28:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59354dfa-5ebf-47cf-90b5-a9a6013927c1
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L35_regex.pptx
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L35_regex.pdf
+    files: [files/f18/re_ll.py, files/f18/weather_report.py, lous.html]
+    
+2018-11-30:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=799a1ed4-b0fa-42a1-93ac-a9a801392b5d
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L36_regex.pptx
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L36_regex.pdf
+    files: [files/f18/selected_exception.py, files/f18/using_finally.py, files/f18/basic_exception.py, files/f18/exceptionsinfunctions.py, files/f18/mandatory_exception.py]
+    
+2018-12-03:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c77eb72-0529-458a-87f5-a9ab01392b41
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/L37_writing.pptx
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/L37_writing.pdf
+    files: [files/f18/writing1.py, files/f18/writing2.py, files/f18/writing3.py, files/f18/hello_again.py, files/f18/highest_score.py]
