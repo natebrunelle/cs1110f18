@@ -2,11 +2,6 @@
 title: Semester review
 ...
 
-# Study
-
-We have another [short survey](survey.html) we'd really appreciate if you'd take.
-Every piece of data you give us helps us make our courses better!
-
 # Course Evals
 
 There are evals for this course (and every other course you are enrolled in) in Collab.
@@ -26,10 +21,7 @@ One (1) member of each team should go to the proper link for your lab room:
 > [Olsson 001](https://stardock.cs.virginia.edu/quiz/)
 >
 > [MEC 213](https://stardock.cs.virginia.edu/mecquiz/)
->
-> Normally Rice 130 but today in
-> [Olsson 005](https://stardock.cs.virginia.edu/ricequiz/)
-> or [Olsson 009](https://stardock.cs.virginia.edu/olsquiz/)
+
 
 # Game project
 
