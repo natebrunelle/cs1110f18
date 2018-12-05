@@ -16,11 +16,11 @@ Form up teams for the CS 1110 review quiz game!
 Our quiz game tool is simple (so much so you have to use the right link for your room),
 but it will let us review with a (hopefully) fun element of competition.
 
-One (1) member of each team should go to the proper link for your lab room:
+One (1) member of each team should go to the proper link for your lab Building:
 
-> [Olsson 001](https://stardock.cs.virginia.edu/quiz/)
+> [Olsson](https://stardock.cs.virginia.edu/quiz/)
 >
-> [MEC 213](https://stardock.cs.virginia.edu/mecquiz/)
+> [MEC](https://stardock.cs.virginia.edu/mecquiz/)
 
 
 # Game project
