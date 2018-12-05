@@ -115,6 +115,7 @@ Spring 2018 | [s2018e2.pdf](files/s2018e2.pdf) | [s2018e2key.html](files/s2018e2
 -   `open(filename, 'w')`{.python}
 -   `with open(...) as f:`{.python}
 -   `print(..., file=f)`{.python}
+-   `urllib.request`{.python}, (i.e. reading from the web)
 -   debugging strategies
 
 See also the previous exams:
