@@ -2,6 +2,11 @@
 title: Semester review
 ...
 
+#Survey
+
+Hello students, please complete the following post-lab survey:
+[Survey](https://www.surveymonkey.com/r/CS1110PostSurveyFall2018)
+
 # Course Evals
 
 There are evals for this course (and every other course you are enrolled in) in Collab.
