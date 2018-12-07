@@ -18,9 +18,8 @@ Unlike other assignments,
 For logistical reasons, partners will generally be assigned within a single lab section by TAs with little input from students.
 Your partner, once entered by a TA, will show up near the bottom of the submission site under "Project".
 
-<!--
-You can submit a partner evaluation using [this google form](https://docs.google.com/forms/d/e/1FAIpQLSclqTmYTrGNerC158UMlN5A2jgbA7xquFpAlnQ4p_F1MGlOAw/viewform?usp=sf_link).
--->
+
+You can submit a partner evaluation using [this google form](https://goo.gl/forms/QlAB2D2DhCkWimIR2).
 
 
 ## Working together
