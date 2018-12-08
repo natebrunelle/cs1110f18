@@ -28,7 +28,7 @@ Section |Instructor            |Place
 1110-004|Panagiotis Apostollelis|Clark Hall 107
 1111    |Upsorn Praphamontripong|Clark Hall 108
 
-If you have a direct conflict with our Final Exam, the make-up time will be Thurs, Dec 13, 9am-12pm. The location is TBD. To get permission to take the exam at the make-up time fill out [this form](https://goo.gl/forms/J5NYLQX1DghwDu5J3) by 11:59pm Monday Dec 3.
+If you have a direct conflict with our Final Exam, the make-up time will be Thurs, Dec 13, 9am-12pm in Olsson 120. To get permission to take the exam at the make-up time fill out [this form](https://goo.gl/forms/J5NYLQX1DghwDu5J3) by 11:59pm Monday Dec 3.
 
 ## Lab Sections
 
