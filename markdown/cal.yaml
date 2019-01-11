@@ -1,18 +1,15 @@
 Special Dates:
-  Courses begin: 2018-08-28
-  Courses end: 2018-12-07
-  Add deadline: 2018-09-11
-  Drop deadline: 2018-10-16
-  Withdraw deadline: 2018-10-23
-  Reading Days:
-    start: 2018-10-06
-    end: 2018-10-09
-  Thanksgiving break:
-    start: 2018-11-21
-    end: 2018-11-25
-  Exam 1: 2018-10-03
-  Exam 2: 2018-11-07
-  Exam 3: 2018-12-13
+  Courses begin: 2019-01-14
+  Courses end: 2019-04-30
+  Add deadline: 2019-01-28
+  Drop deadline: 2019-02-25
+  Withdraw deadline: 2019-03-18
+  Spring break:
+    start: 2019-03-09
+    end: 2019-03-17
+  Exam 1: 2019-02-22
+  Exam 2: 2019-04-07
+  Exam 3: 2019-05-04
 
 classes:
     -   Welcome
@@ -58,6 +55,7 @@ classes:
     -   RegEx
     -   Exceptions
     -   Writing
+    -   Flex day
     -   Flex day
 
     -   Review
@@ -110,73 +108,73 @@ assignments:
 
     Lab01:
         title: installing
-        due: 2018-08-30
-        open: 2018-08-28
+        due: 2019-01-17
+        open: 2019-01-14
         weight: 0
     Lab02:
         title: counting
-        due: 2018-09-06
-        open: 2018-09-01
+        due: 2019-01-24
+        open: 2019-01-14
         weight: 0
     Lab03:
         title: turtle
-        due: 2018-09-13
-        open: 2018-09-11
+        due: 2019-01-31
+        open: 2019-01-14
         files: ['*.py', '*.ps', '*.png', '*.PNG']
         late-policy: [1, 1]
     Lab04:
         title: madlib
         files: 'madlib.py'
-        due: 2018-09-20
-        open: 2018-09-15
+        due: 2019-02-07
+        open: 2019-01-14
     Lab05:
         title: paper
-        due: 2018-09-27
-        open: 2018-09-15
+        due: 2019-02-14
+        open: 2019-01-14
     Lab06:
         title: strings
         files: ['str_funcs.py', 'changing_str.py']
-        due: 2018-10-04
-        open: 2018-09-15
+        due: 2019-02-21
+        open: 2019-02-22
     Lab07:
         title: hangman
         files: ['hangman_if.py', 'hangman_while.py']
-        due: 2018-10-11
-        open: 2018-09-15
+        due: 2019-02-28
+        open: 2019-02-22
     Lab08:
         title: crypto
         files: 'crypto.py'
-        due: 2018-10-18
-        open: 2018-09-15
+        due: 2019-03-07
+        open: 2019-02-22
     Lab09:
         title: debug
         files: 'debug_task.py'
-        due: 2018-10-25
-        open: 2018-09-15
+        due: 2019-03-21
+        open: 2019-02-22
     Lab10:
         title: poi
         files: 'poi.py'
-        due: 2018-11-01
-        open: 2018-09-15
+        due: 2019-03-28
+        open: 2019-02-22
     Lab11:
         title: rooms
         files: 'rooms.py'
-        due: 2018-11-08
-        open: 2018-09-15
+        due: 2019-04-04 
+        open: 2019-03-28 
     Lab12:
         title: pong
         files: 'pong.py'
-        due: 2018-11-15
-        open: 2018-09-15
+        due: 2019-04-11
+        open: 2019-04-07
     Lab13:
         title: email
         files: 'emailhunt.py'
-        due: 2018-11-29
-        open: 2018-09-15
+        due: 2019-04-18
+        open: 2019-02-22
     Lab14:
         title: review
-        due: 2018-12-06
-        open: 2018-09-15
+        due: 2019-04-25
+        open: 2019-04-07
 
 
     PA01:
