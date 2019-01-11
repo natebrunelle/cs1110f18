@@ -8,7 +8,6 @@ Course website: [http://cs1110.cs.virginia.edu](http://cs1110.cs.virginia.edu)
 
 Lectures and Labs: see [main page](http://cs1110.cs.virginia.edu)
 
-Syllabus Quiz: All students must complete the [Syllabus Quiz on Collab](https://collab.its.virginia.edu/portal/site/9f05335c-bd35-4b5e-bed2-8bd00ae0b03a/tool/277ae78a-c1a5-4acc-a7b6-780cb83ca909/jsf/index/mainIndex) by September 14. The quiz has also been converted into a fun [crossword puzzle](http://www.cs.virginia.edu/~up3f/cs1111/inclass/CS111x-F18-crossword.pdf)!
 
 # Contact
 
@@ -39,23 +38,25 @@ Comments: I get a lot of email, please include CS1110 or CS1111 in the subject l
 
 Office: Rice 514
 
-Office hours: Monday 1PM-2PM, Wednesday 1PM-2PM
+Office hours: TBA
 
 Email: cd9au@virginia.edu 
 
-## Panagiotis Apostollelis
+## Luther Tychonievich
 
-Office: Rice 412
+Office: Rice 208
 
-Office hours: Wednesday 2PM-3:30PM, Thursday 3:30PM-5PM
+Office hours: TBA
 
-Email: pa7xu@virginia.edu
+Email: lat7h@virginia.edu
+
+Comments: I read email once each work day if it contains 1110 in the subject line. I get so much email that email without 1110 in the subject line often goes unread.
 
 ## Upsorn Praphamontripong
 
 Office: Rice 206
 
-Office hours: Wednesday 10AM-12PM, Thursday 2PM-3PM
+Office hours: TBA
 
 Email: up3f@virginia.edu 
 
@@ -129,7 +130,7 @@ Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
 Programming assignments     42%     (2% each) Solo programming assignments will be due almost every week, and will be weighted equally
 Project                     10%     (worth 5 PAs) A larger partner project will be worth more points than the average assignment
-Exams                       39%     (13% each) Per College policy, "Unexcused absence from a final examination results in an automatic grade of F in the course."
+Exams                       39%     (12% each midterm, 15% final) Per College policy, "Unexcused absence from a final examination results in an automatic grade of F in the course."
 Participation               9%      For 1110, most participation points are awarded in lab; for 1111, most will be for in-class exercises.
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, pestering TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
@@ -218,7 +219,7 @@ It would probably go without saying if we didn't say it, but no assistance may b
 - Be sure to include your name and computing id in all assignments.
 - You should [cite](#acknowledge-your-sources) any ideas you discuss with other students or outside resources, as well as any code assistance you receive from any source.
 - See [the submission system](https://archimedes.cs.virginia.edu/cs1110/) for more information.
-- Late policy: Programming assignments can be submitted up to 2 days (48 hours) late, with a 10% penalty for each day late. Assignments are not accepted after 2 days past the deadline.
+- Late policy: Programming assignments can be submitted up to 2 days (48 hours) late, with a 25% penalty. Assignments are not accepted after 2 days past the deadline.
 
 ## Generality of Solutions
 

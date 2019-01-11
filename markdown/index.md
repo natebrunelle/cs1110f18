@@ -11,11 +11,11 @@ Welcome! In this course, we have two main goals - to teach you the skill of prog
 Section |Time             |Place                 |Instructor
 --------|-----------------|----------------------|-----------------------
 1110-001|MoWeFr 2–2:50PM  |Wilson Hall 402       |Nathan Brunelle
-1110-002|MoWeFr 12–12:50PM|Rice Hall 130         |Craig Dill
-1110-003|MoWeFr 10–10:50AM|Rice Hall 130         |Craig Dill
-1110-004|MoWeFr 11–11:50AM|Rice Hall 130	 |Panagiotis Apostollelis
-1111    |MoWe 2–3:15PM    |Clark Hall 108        |Upsorn Praphamontripong
-
+1110-002|MoWeFr 12–12:50PM|Minor Hall 125        |Craig Dill
+1110-003|MoWeFr 9–9:50AM  |Maury 209             |Luther Tychonievich
+1110-004|MoWeFr 1–1:50PM  |Olsson Hall 120	     |Craig Dill
+1111    |MoWe 2–3:15PM    |Thornton Hall E303    |Upsorn Praphamontripong
+<!--
 ## Final Exam Times
 
 The final exam will take place on Tues, Dec 11, 7-10PM. The location is determined by which lecture section you are enrolled in. You must take the exam with your official lecture section.
@@ -29,22 +29,23 @@ Section |Instructor            |Place
 1111    |Upsorn Praphamontripong|Clark Hall 108
 
 If you have a direct conflict with our Final Exam, the make-up time will be Thurs, Dec 13, 9am-12pm in Olsson 120. To get permission to take the exam at the make-up time fill out [this form](https://goo.gl/forms/J5NYLQX1DghwDu5J3) by 11:59pm Monday Dec 3.
-
+-->
 ## Lab Sections
 
 |Section |Time            |Place       |
-|----------|-----------------|-------------|
-|1110-113|Th 8:00–9:15AM  |Olsson 001  |
-|1110-102|Th 9:30–10:45AM |Olsson 009  |
-|1110-103|Th 11:00–12:15PM|Olsson 001  |
-|1110-101|Th 12:30–1:45PM |Olsson 001  |
-|1110-109|Th 12:30–1:45PM |MEC 213     |
-|1110-104|Th 2:00–3:15PM  |Olsson 009  |
-|1110-105|Th 3:30–4:45PM  |Olsson 009  |
-|1110-110|Th 3:30–4:45PM  |MEC 213     |
-|1110-106|Th 5:00–6:15PM  |Olsson 009  |
-|1110-107|Th 6:30–7:45PM  |Olsson 009  |
-|1110-108|Th 8:00–9:15PM  |Olsson 001  |
+|--------|----------------|------------|
+|1110-100|Th 9:30–9:45AM  |Olsson 001  |
+|1110-101|Th 11:00–12:15AM|Olsson 001  |
+|1110-102|Th 12:30–1:45PM |Olsson 001  |
+|1110-103|Th 2:00–3:15PM  |Olsson 001  |
+|1110-104|Th 3:30–4:45PM  |Olsson 001  |
+|1110-105|Th 5:00–6:15PM  |Olsson 001  |
+|1110-106|Th 6:30–7:45PM  |Olsson 001  |
+|1110-107|Th 12:30–1:45PM |MEC 213     |
+|1110-108|Th 3:30–4:45PM  |MEC 213     |
+|1110-109|Th 5:00–6:15PM  |MEC 213     |
+|1110-110|Th 6:30–7:45PM  |MEC 213     |
+|1110-111|Th 5:00–6:15PM  |Rice 130    |
 |1111    |(none)          |(none)      |
 
 ## Swapping Labs and Waiting Lists
