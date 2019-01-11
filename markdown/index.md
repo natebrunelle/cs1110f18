@@ -15,6 +15,7 @@ Section |Time             |Place                 |Instructor
 1110-003|MoWeFr 9–9:50AM  |Maury 209             |Luther Tychonievich
 1110-004|MoWeFr 1–1:50PM  |Olsson Hall 120	     |Craig Dill
 1111    |MoWe 2–3:15PM    |Thornton Hall E303    |Upsorn Praphamontripong
+
 <!--
 ## Final Exam Times
 
