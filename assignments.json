@@ -85,6 +85,13 @@
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
+,"Exam 2":
+  {"group":"Exam"
+  ,"due":"2019-04-03 23:59"
+  ,"weight":1
+  ,"total":100
+  ,"rubric":{"kind":"percentage"}
+  }
 ,"Lab11":
   {"title":"rooms"
   ,"files":"rooms.py"
@@ -92,13 +99,6 @@
   ,"open":"2019-03-28 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
-  }
-,"Exam 2":
-  {"group":"Exam"
-  ,"due":"2019-04-07 23:59"
-  ,"weight":1
-  ,"total":100
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Lab12":
   {"title":"pong"
