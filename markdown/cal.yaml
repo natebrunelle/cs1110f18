@@ -179,95 +179,95 @@ assignments:
 
     PA01:
         files: greeting.py
-        due: 2018-09-19 10:00:00
-        open: 2018-09-05
+        due: 2019-09-19 10:00:00
+        open: 2019-09-05
     PA02:
         files: nonsense.py
-        due: 2018-09-19 10:00:00
-        open: 2018-09-05
+        due: 2019-09-19 10:00:00
+        open: 2019-09-05
     PA03:
         files: dating.py
-        due: 2018-09-21 10:00:00
-        open: 2018-09-15
+        due: 2019-09-21 10:00:00
+        open: 2019-09-15
     PA04:
         files: c2f.py
-        due: 2018-09-21 10:00:00
-        open: 2018-09-15
+        due: 2019-09-21 10:00:00
+        open: 2019-09-15
     PA05:
         files: maydate.py
-        due: 2018-09-24 10:00:00
-        open: 2018-09-15
+        due: 2019-09-24 10:00:00
+        open: 2019-09-15
     PA06:
         files: conversion.py
-        due: 2018-09-24 10:00:00
-        open: 2018-09-15
+        due: 2019-09-24 10:00:00
+        open: 2019-09-15
     PA07:
         files: gpa.py
-        due: 2018-09-26 10:00:00
-        open: 2018-09-15
+        due: 2019-09-26 10:00:00
+        open: 2019-09-15
     PA08:
         files: bmr.py
-        due: 2018-09-28 10:00:00
-        open: 2018-09-15
+        due: 2019-09-28 10:00:00
+        open: 2019-09-15
     PA09:
         files: averages.py
-        due: 2018-10-01 10:00:00
-        open: 2018-09-15
+        due: 2019-10-01 10:00:00
+        open: 2019-09-15
     PA10:
         files: calculator.py
-        open: 2018-10-05
-        due: 2018-10-15 10:00:00
+        open: 2019-10-05
+        due: 2019-10-15 10:00:00
         late-policy: [0.9,0.8,0.8,0.8]
     PA11:
         files: higher_lower.py
-        open: 2018-10-09
-        due: 2018-10-19 10:00:00
+        open: 2019-10-09
+        due: 2019-10-19 10:00:00
     PA12:
         files: higher_lower_player.py
-        open: 2018-10-09
-        due: 2018-10-22 10:00:00
+        open: 2019-10-09
+        due: 2019-10-22 10:00:00
     PA13:
         files: str_redux.py
-        open: 2018-10-09
-        due: 2018-10-24 10:00:00
+        open: 2019-10-09
+        due: 2019-10-24 10:00:00
     PA14:
         files: map_reduce.py
-        open: 2018-10-09
-        due: 2018-10-26 10:00:00
+        open: 2019-10-09
+        due: 2019-10-26 10:00:00
     PA15:
         files: credit_card.py
-        open: 2018-10-09
-        due: 2018-10-29 10:00:00
+        open: 2019-10-09
+        due: 2019-10-29 10:00:00
     PA16:
         files: gradebook.py
-        open: 2018-10-09
-        due: 2018-10-31 10:00:00
+        open: 2019-10-09
+        due: 2019-10-31 10:00:00
         
     PA17:
         files: lous_list.py
-        open: 2018-11-01
-        due: 2018-11-14 10:00:00
+        open: 2019-11-01
+        due: 2019-11-14 10:00:00
 
     PA18:
         files: spellcheck.py
-        open: 2018-11-01
-        due: 2018-11-16 10:00:00
+        open: 2019-11-01
+        due: 2019-11-16 10:00:00
     PA19:
         files: ["flappybird.py", "*.jpg", "*.png"]
         writeup: pa19-flappy.html
-        open: 2018-11-01
-        due: 2018-11-20 10:00:00
+        open: 2019-11-01
+        due: 2019-11-20 10:00:00
     PA20:
         files: regex.py
-        open: 2018-11-01
-        due: 2018-11-30 10:00:00
+        open: 2019-11-01
+        due: 2019-11-30 10:00:00
     PA21:
         files: salary.py
-        open: 2018-11-01
-        due: 2018-12-03 10:00:00
+        open: 2019-11-01
+        due: 2019-12-03 10:00:00
         
     Checkpoint 1:
-        due: 2018-11-26 05:00:00
+        due: 2019-11-26 05:00:00
         group: Project
         weight: 1
         total: 1
@@ -279,7 +279,7 @@ assignments:
             -   {"":{"ratio":0.0,"comment":"No submission"}}
             
     Checkpoint 2:
-        due: 2018-11-30 05:00:00
+        due: 2019-11-30 05:00:00
         group: Project
         weight: 1
         total: 1
@@ -292,7 +292,7 @@ assignments:
             -   {"":{"ratio":0.0,"comment":"No submission"}}
 
     Project:
-        due: 2018-12-07 23:59:59
+        due: 2019-12-07 23:59:59
         group: Project
         weight: 48
         total: 48
