@@ -228,8 +228,8 @@ assignments:
         due: 2019-03-04 10:00:00
     PA12:
         files: higher_lower_player.py
-        open: 2019-10-09
-        due: 2019-10-22 10:00:00
+        open: 2019-02-20
+        due: 2019-03-08 10:00:00
     PA13:
         files: str_redux.py
         open: 2019-10-09

@@ -160,6 +160,28 @@
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
+,"PA10":
+  {"files":"calculator.py"
+  ,"open":"2019-02-20 00:00"
+  ,"due":"2019-03-01 10:00"
+  ,"group":"PA"
+  ,"tester":"test_calculator.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"calculator"
+  }
+,"PA11":
+  {"files":"higher_lower.py"
+  ,"open":"2019-02-20 00:00"
+  ,"due":"2019-03-04 10:00"
+  ,"group":"PA"
+  ,"tester":"test_higher_lower.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"higher_lower"
+  }
 ,"Lab08":
   {"title":"crypto"
   ,"files":"crypto.py"
@@ -228,28 +250,6 @@
   ,"weight":1
   ,"total":100
   ,"rubric":{"kind":"percentage"}
-  }
-,"PA10":
-  {"files":"calculator.py"
-  ,"open":"2019-10-05 00:00"
-  ,"due":"2019-10-15 10:00"
-  ,"late-policy":[0.9,0.8,0.8,0.8]
-  ,"group":"PA"
-  ,"tester":"test_calculator.py"
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"calculator"
-  }
-,"PA11":
-  {"files":"higher_lower.py"
-  ,"open":"2019-10-09 00:00"
-  ,"due":"2019-10-19 10:00"
-  ,"group":"PA"
-  ,"tester":"test_higher_lower.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"higher_lower"
   }
 ,"PA12":
   {"files":"higher_lower_player.py"
