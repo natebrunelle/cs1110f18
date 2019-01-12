@@ -31,8 +31,9 @@ classes:
     -   Conditionals
     -   Conditionals
     
-    -   Repetition
     -   Review
+    
+    -   Repetition
     -   Repetition
     -   Debugging
     -   Style
@@ -49,12 +50,9 @@ classes:
 
     -   '`gamebox`'
     -   '`gamebox`'
+    -   '`gamebox`'
     
     -   Review
-
-
-    -   '`gamebox`'
-    -   '`gamebox`'
 
     -   RegEx
     -   RegEx
