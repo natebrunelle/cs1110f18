@@ -7,7 +7,7 @@ Instructor office hours are held in their respective offices; see [the syllabus]
 TA office hours are held in "Stacks", the large room on the second floor of Thorton A-wing,
 Sunday through Thursday from 11am to 5pm.
 
-The first day of TA office hours is Sunday 2 September
+The first day of TA office hours is Sunday 3 February
 
 Unless otherwise announced, there are no office hours (TA or faculty) held on 
 

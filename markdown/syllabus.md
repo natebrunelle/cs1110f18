@@ -72,7 +72,7 @@ We are still in the process of hiring TAs. A list will appear here later.
 Our TAs are students too.
 Please show them respect and only contact them via piazza, or in person during their scheduled office hours.
     
-Pestering our TAs when they are off the clock (including via email) can be penalized under the "professionalism" clause of our grading policy.
+Contacting our TAs when they are off the clock (including via email) can be penalized under the "professionalism" clause of our grading policy.
 
 # Piazza Message board
 Piazza @ [piazza.com/class/jl2gstkx20l3bb](https://piazza.com/class/jl2gstkx20l3bb)
@@ -132,7 +132,7 @@ Programming assignments     42%     (2% each) Solo programming assignments will 
 Project                     10%     (worth 5 PAs) A larger partner project will be worth more points than the average assignment
 Exams                       39%     (12% each midterm, 15% final) Per College policy, "Unexcused absence from a final examination results in an automatic grade of F in the course."
 Participation               9%      For 1110, most participation points are awarded in lab; for 1111, most will be for in-class exercises.
-Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, pestering TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
+Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
 The exact weights of assignments is subject to change as we further refine the assignments we will give.
 

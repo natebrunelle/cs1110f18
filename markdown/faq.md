@@ -149,22 +149,23 @@ Yes, by dropping the class and re-adding the appropriate waiting list.
 Note that this will put you on the *back* of the waiting list.
 There is no way to change which lab you are waiting for without moving to the back of that lab's list.
 
-If the new lab (and lecture) have not waiting list, this will cause you to end up enrolled, not wait-listed.
+If the new lab (and lecture) have no waiting list, this will cause you to end up enrolled, not wait-listed.
 
 # What can I do while on the waiting list?
 <!--
 Change each semester
 -->
 
-You are welcome to come to 1110 lectures in Wilson Hall, but not to physically come to labs (the first week's lab being an exception: you may come to that), though attempting the lab activities on your own is encouraged.
+You are welcome to come to any 1110/1111 lectures, but not to physically come to labs (the first week's lab being an exception: you may come to that), though attempting the lab activities on your own is encouraged.
+<!--
 1111 lectures and the 1110 lecture in Rice hall typically fill the room, so you might be asked to leave the room to make space for those enrolled if you attend those lectures while on a waiting list.
-
+-->
 We hope to also give you the ability to submit assignments while on the waiting list so that when/if you get off you are in no way behind on your work.
 No promises, though.
 
 # I just enrolled, why can't I log in to the Assignments tab?
 
-Collab does not scale well enough for the number of students we have in CS1110, for this reason we use a secondary system for course management. One drawback to this is that the procedure for adding newly-enrolled students is manual. I update the roster once a day.
+Collab does not scale well enough for the number of students we have in CS1110, for this reason we use a secondary system for course management. One drawback to this is that the procedure for adding newly-enrolled students is manual. We update the roster once a day.
 
 The only things unique to the assignments tab are the submission procedures and grades (and you have no submitted assignments until after the add deadline). All deadlines and assignment descriptions are reachable from the [schedule](/schedule.html).
 
