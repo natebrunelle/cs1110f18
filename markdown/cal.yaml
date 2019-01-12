@@ -199,12 +199,12 @@ assignments:
         open: 2019-01-18
     PA05:
         files: maydate.py
-        due: 2019-09-24 10:00:00
-        open: 2019-09-15
+        due: 2019-02-11 10:00:00
+        open: 2019-01-18
     PA06:
         files: conversion.py
-        due: 2019-09-24 10:00:00
-        open: 2019-09-15
+        due: 2019-02-11 10:00:00
+        open: 2019-01-18
     PA07:
         files: gpa.py
         due: 2019-09-26 10:00:00

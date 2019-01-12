@@ -53,6 +53,28 @@
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
+,"PA03":
+  {"files":"dating.py"
+  ,"due":"2019-02-08 10:00"
+  ,"open":"2019-01-18 00:00"
+  ,"group":"PA"
+  ,"tester":"test_dating.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"dating"
+  }
+,"PA04":
+  {"files":"c2f.py"
+  ,"due":"2019-02-08 10:00"
+  ,"open":"2019-01-18 00:00"
+  ,"group":"PA"
+  ,"tester":"test_c2f.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"c2f"
+  }
 ,"Lab05":
   {"title":"paper"
   ,"due":"2019-02-14 23:59"
@@ -151,28 +173,6 @@
   ,"weight":1
   ,"total":100
   ,"rubric":{"kind":"percentage"}
-  }
-,"PA03":
-  {"files":"dating.py"
-  ,"due":"2019-09-21 10:00"
-  ,"open":"2019-09-15 00:00"
-  ,"group":"PA"
-  ,"tester":"test_dating.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"dating"
-  }
-,"PA04":
-  {"files":"c2f.py"
-  ,"due":"2019-09-21 10:00"
-  ,"open":"2019-09-15 00:00"
-  ,"group":"PA"
-  ,"tester":"test_c2f.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"c2f"
   }
 ,"PA05":
   {"files":"maydate.py"
