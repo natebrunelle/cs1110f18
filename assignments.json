@@ -201,6 +201,17 @@
   ,"total":10
   ,"title":"higher_lower_player"
   }
+,"PA13":
+  {"files":"str_redux.py"
+  ,"open":"2019-02-20 00:00"
+  ,"due":"2019-03-18 10:00"
+  ,"group":"PA"
+  ,"tester":"test_str_redux.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"str_redux"
+  }
 ,"Lab09":
   {"title":"debug"
   ,"files":"debug_task.py"
@@ -262,20 +273,9 @@
   ,"total":100
   ,"rubric":{"kind":"percentage"}
   }
-,"PA13":
-  {"files":"str_redux.py"
-  ,"open":"2019-10-09 00:00"
-  ,"due":"2019-10-24 10:00"
-  ,"group":"PA"
-  ,"tester":"test_str_redux.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"str_redux"
-  }
 ,"PA14":
   {"files":"map_reduce.py"
-  ,"open":"2019-10-09 00:00"
+  ,"open":"2019-02-20 00:00"
   ,"due":"2019-10-26 10:00"
   ,"group":"PA"
   ,"tester":"test_map_reduce.py"
@@ -286,7 +286,7 @@
   }
 ,"PA15":
   {"files":"credit_card.py"
-  ,"open":"2019-10-09 00:00"
+  ,"open":"2019-02-20 00:00"
   ,"due":"2019-10-29 10:00"
   ,"group":"PA"
   ,"tester":"test_credit_card.py"
@@ -297,7 +297,7 @@
   }
 ,"PA16":
   {"files":"gradebook.py"
-  ,"open":"2019-10-09 00:00"
+  ,"open":"2019-02-20 00:00"
   ,"due":"2019-10-31 10:00"
   ,"group":"PA"
   ,"tester":"test_gradebook.py"
@@ -308,7 +308,7 @@
   }
 ,"PA17":
   {"files":"lous_list.py"
-  ,"open":"2019-11-01 00:00"
+  ,"open":"2019-02-20 00:00"
   ,"due":"2019-11-14 10:00"
   ,"group":"PA"
   ,"tester":"test_lous_list.py"
@@ -319,7 +319,7 @@
   }
 ,"PA18":
   {"files":"spellcheck.py"
-  ,"open":"2019-11-01 00:00"
+  ,"open":"2019-02-20 00:00"
   ,"due":"2019-11-16 10:00"
   ,"group":"PA"
   ,"tester":"test_spellcheck.py"
