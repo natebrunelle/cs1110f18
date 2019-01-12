@@ -126,6 +126,17 @@
   ,"total":10
   ,"title":"bmr"
   }
+,"PA09":
+  {"files":"averages.py"
+  ,"due":"2019-02-18 10:00"
+  ,"open":"2019-01-18 00:00"
+  ,"group":"PA"
+  ,"tester":"test_averages.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"averages"
+  }
 ,"Exam 1":
   {"group":"Exam"
   ,"due":"2019-02-20 23:59"
@@ -217,17 +228,6 @@
   ,"weight":1
   ,"total":100
   ,"rubric":{"kind":"percentage"}
-  }
-,"PA09":
-  {"files":"averages.py"
-  ,"due":"2019-10-01 10:00"
-  ,"open":"2019-09-15 00:00"
-  ,"group":"PA"
-  ,"tester":"test_averages.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"averages"
   }
 ,"PA10":
   {"files":"calculator.py"
