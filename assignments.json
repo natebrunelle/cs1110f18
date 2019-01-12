@@ -25,7 +25,7 @@
   }
 ,"PA01":
   {"files":"greeting.py"
-  ,"due":"2019-02-04 10:00"
+  ,"due":"2019-02-06 10:00"
   ,"open":"2019-01-18 00:00"
   ,"group":"PA"
   ,"tester":"test_greeting.py"
@@ -36,7 +36,7 @@
   }
 ,"PA02":
   {"files":"nonsense.py"
-  ,"due":"2019-02-04 10:00"
+  ,"due":"2019-02-06 10:00"
   ,"open":"2019-01-18 00:00"
   ,"group":"PA"
   ,"tester":"test_nonsense.py"
