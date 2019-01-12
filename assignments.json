@@ -352,15 +352,19 @@
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
-,"Exam 3":
-  {"group":"Exam"
-  ,"due":"2019-05-04 23:59"
-  ,"weight":1
-  ,"total":100
-  ,"rubric":{"kind":"percentage"}
+,"PA21":
+  {"files":"salary.py"
+  ,"open":"2019-04-03 00:00"
+  ,"due":"2019-04-26 10:00"
+  ,"group":"PA"
+  ,"tester":"test_salary.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"salary"
   }
 ,"Checkpoint 2":
-  {"due":"2019-11-30 05:00"
+  {"due":"2019-04-30 05:00"
   ,"group":"Project"
   ,"weight":1
   ,"total":1
@@ -370,16 +374,12 @@
   ,"files":["game.py","*.*"]
   ,"support":["gamebox.py"]
   }
-,"PA21":
-  {"files":"salary.py"
-  ,"open":"2019-04-03 00:00"
-  ,"due":"2019-12-03 10:00"
-  ,"group":"PA"
-  ,"tester":"test_salary.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"salary"
+,"Exam 3":
+  {"group":"Exam"
+  ,"due":"2019-05-04 23:59"
+  ,"weight":1
+  ,"total":100
+  ,"rubric":{"kind":"percentage"}
   }
 ,"Project":
   {"due":"2019-12-07 23:59"
