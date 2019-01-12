@@ -152,6 +152,17 @@
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
+,"PA14":
+  {"files":"map_reduce.py"
+  ,"open":"2019-02-20 00:00"
+  ,"due":"2019-02-22 10:00"
+  ,"group":"PA"
+  ,"tester":"test_map_reduce.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"map_reduce"
+  }
 ,"Lab07":
   {"title":"hangman"
   ,"files":["hangman_if.py","hangman_while.py"]
@@ -272,17 +283,6 @@
   ,"weight":1
   ,"total":100
   ,"rubric":{"kind":"percentage"}
-  }
-,"PA14":
-  {"files":"map_reduce.py"
-  ,"open":"2019-02-20 00:00"
-  ,"due":"2019-10-26 10:00"
-  ,"group":"PA"
-  ,"tester":"test_map_reduce.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"map_reduce"
   }
 ,"PA15":
   {"files":"credit_card.py"
