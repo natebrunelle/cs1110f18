@@ -190,6 +190,17 @@
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
+,"PA12":
+  {"files":"higher_lower_player.py"
+  ,"open":"2019-02-20 00:00"
+  ,"due":"2019-03-08 10:00"
+  ,"group":"PA"
+  ,"tester":"test_higher_lower_player.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"higher_lower_player"
+  }
 ,"Lab09":
   {"title":"debug"
   ,"files":"debug_task.py"
@@ -250,17 +261,6 @@
   ,"weight":1
   ,"total":100
   ,"rubric":{"kind":"percentage"}
-  }
-,"PA12":
-  {"files":"higher_lower_player.py"
-  ,"open":"2019-10-09 00:00"
-  ,"due":"2019-10-22 10:00"
-  ,"group":"PA"
-  ,"tester":"test_higher_lower_player.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"higher_lower_player"
   }
 ,"PA13":
   {"files":"str_redux.py"
