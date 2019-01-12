@@ -75,6 +75,28 @@
   ,"total":10
   ,"title":"c2f"
   }
+,"PA05":
+  {"files":"maydate.py"
+  ,"due":"2019-02-11 10:00"
+  ,"open":"2019-01-18 00:00"
+  ,"group":"PA"
+  ,"tester":"test_maydate.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"maydate"
+  }
+,"PA06":
+  {"files":"conversion.py"
+  ,"due":"2019-02-11 10:00"
+  ,"open":"2019-01-18 00:00"
+  ,"group":"PA"
+  ,"tester":"test_conversion.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"conversion"
+  }
 ,"Lab05":
   {"title":"paper"
   ,"due":"2019-02-14 23:59"
@@ -173,28 +195,6 @@
   ,"weight":1
   ,"total":100
   ,"rubric":{"kind":"percentage"}
-  }
-,"PA05":
-  {"files":"maydate.py"
-  ,"due":"2019-09-24 10:00"
-  ,"open":"2019-09-15 00:00"
-  ,"group":"PA"
-  ,"tester":"test_maydate.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"maydate"
-  }
-,"PA06":
-  {"files":"conversion.py"
-  ,"due":"2019-09-24 10:00"
-  ,"open":"2019-09-15 00:00"
-  ,"group":"PA"
-  ,"tester":"test_conversion.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"conversion"
   }
 ,"PA07":
   {"files":"gpa.py"

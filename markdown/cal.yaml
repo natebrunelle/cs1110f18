@@ -207,12 +207,12 @@ assignments:
         open: 2019-01-18
     PA07:
         files: gpa.py
-        due: 2019-09-26 10:00:00
-        open: 2019-09-15
+        due: 2019-02-13 10:00:00
+        open: 2019-01-18
     PA08:
         files: bmr.py
-        due: 2019-09-28 10:00:00
-        open: 2019-09-15
+        due: 2019-02-15 10:00:00
+        open: 2019-01-18
     PA09:
         files: averages.py
         due: 2019-10-01 10:00:00
