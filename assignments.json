@@ -23,6 +23,28 @@
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
+,"PA01":
+  {"files":"greeting.py"
+  ,"due":"2019-02-04 10:00"
+  ,"open":"2019-01-18 00:00"
+  ,"group":"PA"
+  ,"tester":"test_greeting.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"greeting"
+  }
+,"PA02":
+  {"files":"nonsense.py"
+  ,"due":"2019-02-04 10:00"
+  ,"open":"2019-01-18 00:00"
+  ,"group":"PA"
+  ,"tester":"test_nonsense.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"nonsense"
+  }
 ,"Lab04":
   {"title":"madlib"
   ,"files":"madlib.py"
@@ -129,28 +151,6 @@
   ,"weight":1
   ,"total":100
   ,"rubric":{"kind":"percentage"}
-  }
-,"PA01":
-  {"files":"greeting.py"
-  ,"due":"2019-09-19 10:00"
-  ,"open":"2019-09-05 00:00"
-  ,"group":"PA"
-  ,"tester":"test_greeting.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"greeting"
-  }
-,"PA02":
-  {"files":"nonsense.py"
-  ,"due":"2019-09-19 10:00"
-  ,"open":"2019-09-05 00:00"
-  ,"group":"PA"
-  ,"tester":"test_nonsense.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"nonsense"
   }
 ,"PA03":
   {"files":"dating.py"
