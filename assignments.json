@@ -276,6 +276,28 @@
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
+,"PA17":
+  {"files":"lous_list.py"
+  ,"open":"2019-04-03 00:00"
+  ,"due":"2019-04-08 10:00"
+  ,"group":"PA"
+  ,"tester":"test_lous_list.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"lous_list"
+  }
+,"PA18":
+  {"files":"spellcheck.py"
+  ,"open":"2019-02-20 00:00"
+  ,"due":"2019-04-10 10:00"
+  ,"group":"PA"
+  ,"tester":"test_spellcheck.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"spellcheck"
+  }
 ,"Lab12":
   {"title":"pong"
   ,"files":"pong.py"
@@ -283,6 +305,16 @@
   ,"open":"2019-04-07 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  }
+,"PA19":
+  {"files":["flappybird.py","*.jpg","*.png"]
+  ,"writeup":"pa19-flappy.html"
+  ,"open":"2019-04-03 00:00"
+  ,"due":"2019-04-15 10:00"
+  ,"group":"PA"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
   }
 ,"Lab13":
   {"title":"email"
@@ -305,38 +337,6 @@
   ,"weight":1
   ,"total":100
   ,"rubric":{"kind":"percentage"}
-  }
-,"PA17":
-  {"files":"lous_list.py"
-  ,"open":"2019-02-20 00:00"
-  ,"due":"2019-11-14 10:00"
-  ,"group":"PA"
-  ,"tester":"test_lous_list.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"lous_list"
-  }
-,"PA18":
-  {"files":"spellcheck.py"
-  ,"open":"2019-02-20 00:00"
-  ,"due":"2019-11-16 10:00"
-  ,"group":"PA"
-  ,"tester":"test_spellcheck.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"spellcheck"
-  }
-,"PA19":
-  {"files":["flappybird.py","*.jpg","*.png"]
-  ,"writeup":"pa19-flappy.html"
-  ,"open":"2019-11-01 00:00"
-  ,"due":"2019-11-20 10:00"
-  ,"group":"PA"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
   }
 ,"Checkpoint 1":
   {"due":"2019-11-26 05:00"
@@ -361,7 +361,7 @@
   }
 ,"PA20":
   {"files":"regex.py"
-  ,"open":"2019-11-01 00:00"
+  ,"open":"2019-04-03 00:00"
   ,"due":"2019-11-30 10:00"
   ,"group":"PA"
   ,"tester":"test_regex.py"
@@ -372,7 +372,7 @@
   }
 ,"PA21":
   {"files":"salary.py"
-  ,"open":"2019-11-01 00:00"
+  ,"open":"2019-04-03 00:00"
   ,"due":"2019-12-03 10:00"
   ,"group":"PA"
   ,"tester":"test_salary.py"
