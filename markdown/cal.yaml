@@ -74,7 +74,7 @@ reading:
     Functions: [§5, §8--8.3]
     Conditionals: [§6--6.2]
     
-    Style: [§3.4, §8.2.9, '[Wikipeida](https://en.wikipedia.org/wiki/Docstring#Python)', '[PEP 257](https://www.python.org/dev/peps/pep-0257/)', '[PEP 8](https://www.python.org/dev/peps/pep-0008/)']
+    Style: [§3.4, §8.2.9, '[Wikipedia](https://en.wikipedia.org/wiki/Docstring#Python)', '[PEP 257](https://www.python.org/dev/peps/pep-0257/)', '[PEP 8](https://www.python.org/dev/peps/pep-0008/)']
     Debugging: ['[hangman_bug.py](files/hangman_bug.py)']
     Repetition: [§7, §10, §12]
     '`dict`': [§13]
@@ -215,8 +215,8 @@ assignments:
         open: 2019-01-18
     PA09:
         files: averages.py
-        due: 2019-10-01 10:00:00
-        open: 2019-09-15
+        due: 2019-02-18 10:00:00
+        open: 2019-01-18
     PA10:
         files: calculator.py
         open: 2019-10-05

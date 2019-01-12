@@ -97,12 +97,34 @@
   ,"total":10
   ,"title":"conversion"
   }
+,"PA07":
+  {"files":"gpa.py"
+  ,"due":"2019-02-13 10:00"
+  ,"open":"2019-01-18 00:00"
+  ,"group":"PA"
+  ,"tester":"test_gpa.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"gpa"
+  }
 ,"Lab05":
   {"title":"paper"
   ,"due":"2019-02-14 23:59"
   ,"open":"2019-01-14 00:00"
   ,"group":"Lab"
   ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
+  }
+,"PA08":
+  {"files":"bmr.py"
+  ,"due":"2019-02-15 10:00"
+  ,"open":"2019-01-18 00:00"
+  ,"group":"PA"
+  ,"tester":"test_bmr.py"
+  ,"late-policy":[0.9,0.8]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"bmr"
   }
 ,"Exam 1":
   {"group":"Exam"
@@ -195,28 +217,6 @@
   ,"weight":1
   ,"total":100
   ,"rubric":{"kind":"percentage"}
-  }
-,"PA07":
-  {"files":"gpa.py"
-  ,"due":"2019-09-26 10:00"
-  ,"open":"2019-09-15 00:00"
-  ,"group":"PA"
-  ,"tester":"test_gpa.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"gpa"
-  }
-,"PA08":
-  {"files":"bmr.py"
-  ,"due":"2019-09-28 10:00"
-  ,"open":"2019-09-15 00:00"
-  ,"group":"PA"
-  ,"tester":"test_bmr.py"
-  ,"late-policy":[0.9,0.8]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"bmr"
   }
 ,"PA09":
   {"files":"averages.py"
