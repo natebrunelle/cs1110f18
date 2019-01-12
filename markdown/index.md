@@ -69,7 +69,7 @@ CS 1112
 
 Placement Test
 :   If you have programmed before, you can likely place out of *Introduction to Programming* entirely.
-    Placement tests are offered in the CS department offices (Rice 527); no appointment is necessary.
+    Placement tests are offered in the CS department offices (Rice 527); They may be taken between 9am and 3pm weekdays, no appointment is necessary.
     If you pass the placement test, we advise taking CS 2110 to expand your programming ability further.
 
 Three other courses (CS 1120 and two different flavors of CS 1113) present a more mathematical-, scientific-, or engineering-focussed introduction to computing, but are not being offered this semester.
