@@ -38,7 +38,7 @@ Comments: I get a lot of email, please include CS1110 or CS1111 in the subject l
 
 Office: Rice 514
 
-Office hours: TBA
+Office hours: Monday/Wednesday 2pm-3pm
 
 Email: cd9au@virginia.edu 
 
