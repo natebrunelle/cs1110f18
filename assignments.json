@@ -174,7 +174,7 @@
 ,"PA11":
   {"files":"higher_lower.py"
   ,"open":"2019-02-20 00:00"
-  ,"due":"2019-03-04 10:00"
+  ,"due":"2019-03-06 10:00"
   ,"group":"PA"
   ,"tester":"test_higher_lower.py"
   ,"late-policy":[0.9,0.8]
