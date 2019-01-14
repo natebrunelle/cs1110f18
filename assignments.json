@@ -365,7 +365,7 @@
   }
 ,"PA21":
   {"files":"salary.py"
-  ,"open":"2019-04-03 00:00"
+  ,"open":"2019-01-03 00:00"
   ,"due":"2019-04-26 10:00"
   ,"group":"PA"
   ,"tester":"test_salary.py"
