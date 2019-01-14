@@ -232,7 +232,7 @@ assignments:
         due: 2019-03-08 10:00:00
     PA13:
         files: str_redux.py
-        open: 2019-02-20
+        open: 2019-01-10
         due: 2019-03-18 10:00:00
     PA14:
         files: map_reduce.py
