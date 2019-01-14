@@ -298,7 +298,7 @@ assignments:
             -   {"":{"ratio":0.0,"comment":"No submission"}}
 
     Project:
-        due: 2019-04-30 23:59:59
+        due: 2019-04-29 23:59:59
         group: Project
         weight: 48
         total: 48
