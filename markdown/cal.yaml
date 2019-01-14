@@ -106,7 +106,7 @@ assignments:
             drop: 1
             not_exclude: ["18Sp CS 1111-001 (ENGR)"]
         Exam:
-            portion: "13+13+13"
+            portion: "11+11+17"
             .rationale: "exams 13% of grade each"
             rubric: {"kind":"percentage"}
 
