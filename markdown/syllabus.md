@@ -60,7 +60,7 @@ Office hours: TBA
 
 Email: up3f@virginia.edu 
 
-Comments: I read email during work hours only. I get a lot of email, pleases include CS1111 in the subject line.
+Comments: I read email during work hours only. I get a lot of email, please include CS1111 in the subject line.
 
 
 ## Teaching Assistants
