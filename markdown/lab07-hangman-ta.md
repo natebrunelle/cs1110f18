@@ -30,4 +30,4 @@ Because of the exam and reading days, there were no assignments due since last l
 # Example solution
 
 I don't usually do this, but this code is so strange-looking I suspect many TAs will think the correct code looks wrong:
-[my reference solution to this lab](https://archimedes.cs.virginia.edu/cs1110/download.php?file=support/hangman_if.py).
+[my reference solution to this lab](https://kytos.cs.virginia.edu/cs1110/download.php?file=support/hangman_if.py).

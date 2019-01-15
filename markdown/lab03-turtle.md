@@ -58,7 +58,7 @@ Make sure to look at the Turtle API
 
 # Submission
 
-Submit an image *and* your code, both under the `Lab03` item of the [CS 1110 submission page](https://archimedes.cs.virginia.edu/cs1110/).
+Submit an image *and* your code, both under the `Lab03` item of the [CS 1110 submission page](https://kytos.cs.virginia.edu/cs1110/).
 
 ## Image 
 
@@ -88,7 +88,7 @@ Save a picture of your image by doing *one* of the following:
     Note: Poststript was a precursor to PDF, and some machines can't display it properly.
     If you can't look at your image; don't worry.
 
-Submit either a `.png` file or a `.ps` file to the `lab03-turtle` on [CS 1110 submission page](https://archimedes.cs.virginia.edu/cs1110/).
+Submit either a `.png` file or a `.ps` file to the `lab03-turtle` on [CS 1110 submission page](https://kytos.cs.virginia.edu/cs1110/).
 To be entered into the competition, your file name must look like:
 
         time-room-id1-id2.png
@@ -108,7 +108,7 @@ The staff will pick our favorite images, with prizes awarded next lab!
 
 ## Code
 
-Go to the [CS 1110 submission page](https://archimedes.cs.virginia.edu/cs1110/) and submit your code under the `lab03-tutle` entry.
+Go to the [CS 1110 submission page](https://kytos.cs.virginia.edu/cs1110/) and submit your code under the `lab03-tutle` entry.
 Most submissions will require a particular file name, but this one is noted as `*.py` meaning you may submit any file ending in `py`.
 
 We are more interested in verify that the submission system works for you than in your actual code (this will change in later labs).

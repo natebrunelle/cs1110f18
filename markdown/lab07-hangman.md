@@ -14,7 +14,7 @@ For your best learning, implement them in that order: non-loop first, then loop.
 
 # Loopless version
 
-First, make a loopless hangman in a file called `hangman_if.py`, which you will submit to [the submission system](https://archimedes.cs.virginia.edu/cs1110/).
+First, make a loopless hangman in a file called `hangman_if.py`, which you will submit to [the submission system](https://kytos.cs.virginia.edu/cs1110/).
 
 ## Design
 

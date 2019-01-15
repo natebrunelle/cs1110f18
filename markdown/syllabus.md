@@ -18,7 +18,7 @@ To discuss                                                    You should contact
 -----------------------------------------------------------   ------------------------------------------------------------
 Q about course topics                                         In-class questions, office hours, or Piazza
 Q about code not working                                      Office hours
-Q about [grading](#grading-concerns-and-appeals)              Regrade request on [the submission site](https://archimedes.cs.virginia.edu/cs1110/)
+Q about [grading](#grading-concerns-and-appeals)              Regrade request on [the submission site](https://kytos.cs.virginia.edu/cs1110/)
 Conversations about mentoring, research, student life, etc.   Office hours or schedule one-on-one visit
 Personal issues impacting coursework (labs, exams, etc...)    Your dean, and/or private email to your section's instructor
 
@@ -218,7 +218,7 @@ It would probably go without saying if we didn't say it, but no assistance may b
 - Homework assignments will not be handed out in class. Everything will be available online.
 - Be sure to include your name and computing id in all assignments.
 - You should [cite](#acknowledge-your-sources) any ideas you discuss with other students or outside resources, as well as any code assistance you receive from any source.
-- See [the submission system](https://archimedes.cs.virginia.edu/cs1110/) for more information.
+- See [the submission system](https://kytos.cs.virginia.edu/cs1110/) for more information.
 - Late policy: Programming assignments can be submitted up to 2 days (48 hours) late, with a 25% penalty. Assignments are not accepted after 2 days past the deadline.
 
 ## Generality of Solutions
@@ -256,7 +256,7 @@ If the lack of cooperation is serious, the offending group member’s semester g
 
 ## Grading concerns and appeals
 
-The [submission system](https://archimedes.cs.virginia.edu/cs1110/) is also where you see your grade and any feedback on it, and is also how you can submit a regrade request for an assignment.
+The [submission system](https://kytos.cs.virginia.edu/cs1110/) is also where you see your grade and any feedback on it, and is also how you can submit a regrade request for an assignment.
 
 Requests are subject to the following policies:
 

@@ -186,7 +186,7 @@ We're pretty confident that it is possible to get to only 23...
 # Submission
 
 **Each partner** should submit one .py file named `str_funcs.py` to Archimedes (the submission system):
-[https://archimedes.cs.virginia.edu/cs1110/](https://archimedes.cs.virginia.edu/cs1110/).
+[https://kytos.cs.virginia.edu/cs1110/](https://kytos.cs.virginia.edu/cs1110/).
 If you got to the last task, also submit `changing_str.py`.
 Please put **both partners' ids** in comments at the top of the file.
 

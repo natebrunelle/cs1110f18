@@ -10,7 +10,7 @@ title: "Lab 3: Art Contest - TA guide"
 
 3. Each TA should take a different part of the room and construct a grading group (of about 12 students).
 
-    Go to <https://archimedes.cs.virginia.edu/cs1110/gradegroup.php> and 
+    Go to <https://kytos.cs.virginia.edu/cs1110/gradegroup.php> and 
     
     1.  Select your lab section.
     1.  Add a grading group for yourself from the drop-down.
