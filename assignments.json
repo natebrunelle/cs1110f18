@@ -29,7 +29,7 @@
   ,"open":"2019-01-18 00:00"
   ,"group":"PA"
   ,"tester":"test_greeting.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"greeting"
@@ -40,7 +40,7 @@
   ,"open":"2019-01-18 00:00"
   ,"group":"PA"
   ,"tester":"test_nonsense.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"nonsense"
@@ -59,7 +59,7 @@
   ,"open":"2019-01-18 00:00"
   ,"group":"PA"
   ,"tester":"test_dating.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"dating"
@@ -70,7 +70,7 @@
   ,"open":"2019-01-18 00:00"
   ,"group":"PA"
   ,"tester":"test_c2f.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"c2f"
@@ -81,7 +81,7 @@
   ,"open":"2019-01-18 00:00"
   ,"group":"PA"
   ,"tester":"test_maydate.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"maydate"
@@ -92,7 +92,7 @@
   ,"open":"2019-01-18 00:00"
   ,"group":"PA"
   ,"tester":"test_conversion.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"conversion"
@@ -103,7 +103,7 @@
   ,"open":"2019-01-18 00:00"
   ,"group":"PA"
   ,"tester":"test_gpa.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"gpa"
@@ -121,7 +121,7 @@
   ,"open":"2019-01-18 00:00"
   ,"group":"PA"
   ,"tester":"test_bmr.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"bmr"
@@ -132,7 +132,7 @@
   ,"open":"2019-01-18 00:00"
   ,"group":"PA"
   ,"tester":"test_averages.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"averages"
@@ -166,7 +166,7 @@
   ,"due":"2019-03-01 10:00"
   ,"group":"PA"
   ,"tester":"test_calculator.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"calculator"
@@ -177,7 +177,7 @@
   ,"due":"2019-03-06 10:00"
   ,"group":"PA"
   ,"tester":"test_higher_lower.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"higher_lower"
@@ -196,7 +196,7 @@
   ,"due":"2019-03-08 10:00"
   ,"group":"PA"
   ,"tester":"test_higher_lower_player.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"higher_lower_player"
@@ -207,7 +207,7 @@
   ,"due":"2019-03-18 10:00"
   ,"group":"PA"
   ,"tester":"test_str_redux.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"str_redux"
@@ -226,7 +226,7 @@
   ,"due":"2019-03-22 10:00"
   ,"group":"PA"
   ,"tester":"test_map_reduce.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"map_reduce"
@@ -237,7 +237,7 @@
   ,"due":"2019-03-25 10:00"
   ,"group":"PA"
   ,"tester":"test_credit_card.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"credit_card"
@@ -248,7 +248,7 @@
   ,"due":"2019-03-27 10:00"
   ,"group":"PA"
   ,"tester":"test_gradebook.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"gradebook"
@@ -282,7 +282,7 @@
   ,"due":"2019-04-08 10:00"
   ,"group":"PA"
   ,"tester":"test_lous_list.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"lous_list"
@@ -293,7 +293,7 @@
   ,"due":"2019-04-10 10:00"
   ,"group":"PA"
   ,"tester":"test_spellcheck.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"spellcheck"
@@ -312,7 +312,7 @@
   ,"open":"2019-04-03 00:00"
   ,"due":"2019-04-15 10:00"
   ,"group":"PA"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   }
@@ -340,7 +340,7 @@
   ,"due":"2019-04-22 10:00"
   ,"group":"PA"
   ,"tester":"test_regex.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"regex"
@@ -369,7 +369,7 @@
   ,"due":"2019-04-26 10:00"
   ,"group":"PA"
   ,"tester":"test_salary.py"
-  ,"late-policy":[0.9,0.8]
+  ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"salary"
