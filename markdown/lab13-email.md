@@ -95,5 +95,5 @@ Most of these will be easier with regular expressions than without, but don't fo
 ## Submission
 
 **At least one partner** should submit one .py file named `emailhunt.py` to Archimedes (the submission system):
-[https://archimedes.cs.virginia.edu/cs1110/](https://archimedes.cs.virginia.edu/cs1110/).
+[https://kytos.cs.virginia.edu/cs1110/](https://kytos.cs.virginia.edu/cs1110/).
 Please put **all partners' ids** in comments at the top of the file.

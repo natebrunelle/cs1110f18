@@ -11,7 +11,7 @@ Unlike other assignments,
     -   These will be handled in lab on 8 or 15 November (or in an adjacent class for 1111)
 -   This assignment is worth more points (see [the syllabus](syllabus.html) for details)
 -   You are expected to define the details of this assignment yourselves
--   We'll check your progress (based on checkpoint archimedes submissions) several times; lack of progress will result reduced final grades.
+-   We'll check your progress (based on checkpoint kytos submissions) several times; lack of progress will result reduced final grades.
 
 # Partnering
 

@@ -383,5 +383,5 @@ Some ideas to consider:
 ## Submission
 
 **At least one partner** should submit one .py file named `rooms.py` to Archimedes (the submission system):
-[https://archimedes.cs.virginia.edu/cs1110/](https://archimedes.cs.virginia.edu/cs1110/).
+[https://kytos.cs.virginia.edu/cs1110/](https://kytos.cs.virginia.edu/cs1110/).
 Please put **all partners' ids** in comments at the top of the file.

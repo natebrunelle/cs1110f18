@@ -83,6 +83,6 @@ Make your code more readable with good variable names and insightful comments.
 ## Submission
 
 **Each partner** should submit one .py file named `madlib.py` to Archimedes (the submission system):
-[https://archimedes.cs.virginia.edu/cs1110/](https://archimedes.cs.virginia.edu/cs1110/).
+[https://kytos.cs.virginia.edu/cs1110/](https://kytos.cs.virginia.edu/cs1110/).
 Please put **both partners' ids** in comments at the top of the file.
 
