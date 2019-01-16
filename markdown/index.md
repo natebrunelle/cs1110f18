@@ -46,7 +46,7 @@ If you have a direct conflict with our Final Exam, the make-up time will be Thur
 |1110-108|Th 3:30–4:45PM  |MEC 213     |
 |1110-109|Th 5:00–6:15PM  |MEC 213     |
 |1110-110|Th 6:30–7:45PM  |MEC 213     |
-|1110-111|Th 5:00–6:15PM  |Rice 130    |
+|1110-111|Th 5:00–6:15PM  |Olsson 009  |
 |1111    |(none)          |(none)      |
 
 ## Swapping Labs and Waiting Lists
