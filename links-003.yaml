@@ -1,4 +1,10 @@
 2019-01-14:
-  video: /screencasts/2019-01-14-003.webm
   audio: /screencasts/2019-01-14-003.mp3
   files: [/files/s19-003/20190114-notes.txt]
+  video: /screencasts/2019-01-14-003.webm
+2019-01-16:
+  audio: /screencasts/2019-01-16-003.mp3
+  files: [files/s19-003/20190116-slides.pdf, files/s19-003/20190116-cs.txt, files/s19-003/20190116-do_this.txt,
+    files/s19-003/20190116-exercise-errors.txt, files/s19-003/20190116-functions.txt,
+    files/s19-003/20190116-pseudocode.txt, files/s19-003/20190116-vocabulary.txt]
+  video: /screencasts/2019-01-16-003.webm
