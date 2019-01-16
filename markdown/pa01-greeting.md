@@ -34,7 +34,7 @@ answer 2
 answer 3
 answer 4
 ````
-Where the last 4 lines are you actual answers to the syllabus blanks.
+Where the last 4 lines are your actual answers to the syllabus blanks.
 
 …and has a comment in it like this:
 
