@@ -46,7 +46,8 @@ Email: cd9au@virginia.edu
 
 Office: Rice 208
 
-Office hours: TBA
+Office hours: Thursday 1--2pm and 5--6pm; Friday 11am--12.
+If my door is open, you are welcome to come in even when it is not my scheduled office hours.
 
 Email: lat7h@virginia.edu
 
