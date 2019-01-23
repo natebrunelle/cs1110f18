@@ -185,6 +185,12 @@ assignments:
         files: greeting.py
         due: 2019-02-06 10:00:00
         open: 2019-01-18
+        rubric: {"kind":"percentage"}
+        .seed:
+            -   {"":{"ratio":1,"comment":"Looks promising"}}
+            -   {"":{"ratio":0.1,"comment":"Checkpoint fails to meet requirements"}}
+            -   {"":{"ratio":0.1,"comment":"No submission"}}
+        
     PA02:
         files: nonsense.py
         due: 2019-02-06 10:00:00
