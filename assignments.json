@@ -27,7 +27,6 @@
   {"files":"greeting.py"
   ,"due":"2019-02-06 10:00"
   ,"open":"2019-01-18 00:00"
-  ,"rubric":{"kind":"percentage"}
   ,"group":"PA"
   ,"tester":"test_greeting.py"
   ,"late-policy":[0.75,0.75]
