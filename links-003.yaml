@@ -16,3 +16,8 @@
   audio: /screencasts/2019-04-14-003.mp3
   files: [files/s19-003/20190123-slides.pdf, files/s19-003/20190123-novid.txt]
   video: /screencasts/2019-04-14-003.webm
+2019-01-25:
+  audio: /screencasts/2019--0-1--003.mp3
+  files: [files/s19-003/20190125-slides.pdf, files/s19-003/first_demo.py, files/s19-003/second_demo.py,
+    files/s19-003/first_turtle.py, files/s19-003/pink_square.py, files/s19-003/more_squares.py]
+  video: /screencasts/2019--0-1--003.webm
