@@ -18,6 +18,11 @@
   video: /screencasts/2019-04-14-003.webm
 2019-01-25:
   audio: /screencasts/2019-01-25-003.mp3
-  files: [files/s19-003/20190125-slides.pdf,
-    files/s19-003/first_turtle.py, files/s19-003/pink_square.py, files/s19-003/more_squares.py]
+  files: [files/s19-003/20190125-slides.pdf, files/s19-003/first_turtle.py, files/s19-003/pink_square.py,
+    files/s19-003/more_squares.py]
   video: /screencasts/2019-01-25-003.webm
+2019-01-28:
+  audio: /screencasts/2019-01-28-003.mp3
+  files: [files/s19-003/20190128-first_turtle.py, files/s19-003/20190128-named_shapes.py,
+    files/s19-003/20190128-test_turtle.py, files/s19-003/20190128-turtle_tree.py]
+  video: /screencasts/2019-01-28-003.webm
