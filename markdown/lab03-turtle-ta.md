@@ -2,23 +2,19 @@
 title: "Lab 3: Art Contest - TA guide"
 ...
 
-# Grading Groups
+# Code Coaches
 
-1. Announce the students should sit near others they might want to partner with this semester, including for the final project.
+Assign each student a code coach, one of the TAs in the room. Make these groups approximately equal size (probably about 12 students / TA).
 
-2. When someone says "but my friend is in a different lab" say "the instructors are aware this happens and will address it more closer to the project date. For now, just sit with those you want to work with in lab."
+Go to <https://kytos.cs.virginia.edu/cs1110/codecoach.php> and 
 
-3. Each TA should take a different part of the room and construct a grading group (of about 12 students).
+1.  Select your lab section.
+1.  Add a code team for yourself from the drop-down.
+1.  Drag students to your code team.
 
-    Go to <https://kytos.cs.virginia.edu/cs1110/gradegroup.php> and 
-    
-    1.  Select your lab section.
-    1.  Add a grading group for yourself from the drop-down.
-    1.  Drag students to your grading group.
-    
-    This will also count as attendance/participation grade for this lab, so don't assign people who are not present.
-    
-    If you are in a lab with one too few TAs, go ahead and make the final target number of grading groups, using faculty (lat7h, up3f, cd9au) as place-holders for TAs not yet assigned.
+This will also count as attendance/participation grade for this lab, so don't assign people who are not present.
+
+If you are in a lab with one too few TAs, go ahead and make the final target number of code teams, using faculty (lat7h, up3f, cd9au) as place-holders for TAs not yet assigned.
 
 # Pairing
 

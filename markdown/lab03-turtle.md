@@ -2,11 +2,11 @@
 title: "Lab 3: Art Contest"
 ...
 
-# Grading Groups
+# Code coaches
 
-In an effort to bring at least a tiny piece of small-class feel to the giant course that is 1110/1111, each of you will be assigned a particular grader, who will be one of your lab TAs.
-When there are paired projects, such as most labs and your final project, you'll generally be expected to pair within the set of students that share your grader.
-Thus, please sit near anyone you want to be paired with, and expect the TAs to open the lab with the boring but important process of recording grading groups.
+Each student will be given a single "code coach",
+a TA from your lab who will provide feedback on your assignments.
+Please support the TAs as they organize this and get to know you.
 
 # Pre-Lab Survey
 As part of our ongoing effort to try to improve CS 1110, we have a group of researchers looking into how labs work and how they might work better. They have a survey they’d like you to fill out:
