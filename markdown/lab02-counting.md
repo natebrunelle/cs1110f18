@@ -10,7 +10,7 @@ If you don't have a laptop, pair up with someone who does for this lab.
 
 # Pairing
 
-For this and all subsequent labs, after the logic group activity you will work in pairs.
+For this and all subsequent labs you will work in pairs.
 You will need your computer, etc, for the paired part of lab.
 For now, you may pick your own pair partner.
 Later on we may assign you a partner for some labs and/or assignments.

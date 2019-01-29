@@ -5,8 +5,6 @@ title: "Lab 6: String Puzzles"
 
 # Logic Puzzle
 
-The every-class logic puzzles last semester didn't work very well; we'll try just a couple this semester.
-
 1.  Announce "Get in groups of 3 (2 or 4 are fine)"
 1.  Bring up on the screen this: [Flashlight bridge](https://docs.google.com/presentation/d/1Cu_mF6NXrFIxl4fUOmNuRax_z0EYZj-j587tUmayjNA/edit?usp=sharing)
 1.  Announce "Work with your group to solve this problem"

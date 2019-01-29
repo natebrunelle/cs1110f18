@@ -2,15 +2,6 @@
 title: "Lab 9: Debugging"
 ...
 
-# Mechanics
-
-There will be 
-
-1.  A logic-group activity
-2.  Pairing to work on the lab tasks.
-    For this lab, you'll likely want to join with a second pair; four minds are better than two for some tasks!
-3.  TAs pulling aside students to explain their code.
-
 # Setup
 
 
