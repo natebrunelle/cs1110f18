@@ -26,3 +26,9 @@
   files: [files/s19-003/20190128-first_turtle.py, files/s19-003/20190128-named_shapes.py,
     files/s19-003/20190128-test_turtle.py, files/s19-003/20190128-turtle_tree.py]
   video: /screencasts/2019-01-28-003.webm
+2019-01-30:
+  audio: /screencasts/2019-01-30-003.mp3
+  files: [files/s19-003/20190130-slides.pdf, files/s19-003/20190130-turtle_race2.py,
+    files/s19-003/20190130-turtle_race3.py, files/s19-003/20190130-turtle_race.py,
+    files/s19-003/20190130-turtle_spiral.py, files/s19-003/20190130-turtle_tree.py]
+  video: /screencasts/2019-01-30-003.webm
