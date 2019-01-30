@@ -21,8 +21,8 @@
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=32672164-5bc8-4c0c-96e3-a9e0013976df
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L5_pycharm.pdf
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L5_pycharm.pptx
-    files: [/files/f18/my_first_python_file.py, /files/s19-001/my_second_python_file.py]
+    files: [/files/s19-001/my_first_python_file.py, /files/s19-001/my_second_python_file.py]
     
 2019-01-28:
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=24d2ec98-984d-4bd2-9c57-a9e301392c0f
-    files: [/files/f18/my_pet_turtle.py]
+    files: [/files/s19-001/my_pet_turtle.py]
