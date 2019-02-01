@@ -32,3 +32,8 @@
     files/s19-003/20190130-turtle_race3.py, files/s19-003/20190130-turtle_race.py,
     files/s19-003/20190130-turtle_spiral.py, files/s19-003/20190130-turtle_tree.py]
   video: /screencasts/2019-01-30-003.webm
+2019-02-01:
+  audio: /screencasts/2019-02-01-003.mp3
+  files: [files/s19-003/20190201-slides.pdf, files/s19-003/20190201-first_program.py,
+    files/s19-003/20190201-first_variables.py, files/s19-003/20190201-seconds_per_day.py]
+  video: /screencasts/2019-02-01-003.webm
