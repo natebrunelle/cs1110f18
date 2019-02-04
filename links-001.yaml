@@ -32,7 +32,6 @@
     files: [/files/s19-001/turtle_on_left.py, /files/s19-001/turtle_spirals.py, /files/s19-001/turtle_race.py, /files/s19-001/big_turtle_race.py]
     
 2019-02-01:
-    video: 
     Slides pdf:http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L8_values.pdf
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L8_values.pdf
     files: [/files/s19-001/variables_stuff.py]
