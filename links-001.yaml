@@ -30,3 +30,9 @@
 2019-01-30:
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d454076-1f12-4f2e-8d46-a9e501392b2c
     files: [/files/s19-001/turtle_on_left.py, /files/s19-001/turtle_spirals.py, /files/s19-001/turtle_race.py, /files/s19-001/big_turtle_race.py]
+    
+2019-02-01:
+    video: 
+    Slides pdf:http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L8_values.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L8_values.pdf
+    files: [/files/s19-001/variables_stuff.py]
