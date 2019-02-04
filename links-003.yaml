@@ -37,3 +37,10 @@
   files: [files/s19-003/20190201-slides.pdf, files/s19-003/20190201-first_program.py,
     files/s19-003/20190201-first_variables.py, files/s19-003/20190201-seconds_per_day.py]
   video: /screencasts/2019-02-01-003.webm
+2019-02-04:
+  audio: /screencasts/2019-02-04-003.mp3
+  files: [files/s19-003/20190204-slides.pdf, files/s19-003/20190204-find_types.py,
+    files/s19-003/20190204-type_something.py, files/s19-003/20190204-greeting_program.py,
+    files/s19-003/20190204-greeting_program_smaller.py, files/s19-003/20190204-question_about_variables.py,
+    files/s19-003/20190204-brag.py]
+  video: /screencasts/2019-02-04-003.webm
