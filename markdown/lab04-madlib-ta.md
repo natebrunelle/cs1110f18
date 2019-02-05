@@ -3,12 +3,12 @@ title: "Lab 4: Madlibs - TA guide"
 ...
 
 
-# Attendance and Graders
+# Attendance and Coaches
 
-A few students did not get graders (because of absences) last week. Their absences have been recorded, so give them a grader now.
+A few students did not get coaches (because of absences) last week. Their absences have been recorded, so give them a coach now.
 
 Take attendance of the students you're the code coach for on [the attendance sheet](https://docs.google.com/spreadsheets/d/1UuUuZTS7-yDkRXduWxCd2Lt0KKK327_H1b6NrJwbXLQ/edit#gid=1857324251).
-Feel free to sort by grader to make this easier.
+Feel free to sort by coach to make this easier.
 
 
 # Turtles!
