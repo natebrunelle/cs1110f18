@@ -52,7 +52,7 @@ Start Screen
 :   Game has a start screen with game name, student names (and IDs), and basic game instructions.
 
 Small Enough Window
-:   Some graders don't have large screens; your game window may not be larger than `gamebox.Camera(800, 600)`{.python} (it may be smaller...)
+:   Some TAs don't have large screens; your game window may not be larger than `gamebox.Camera(800, 600)`{.python} (it may be smaller...)
 
 ## Optional Features
 
@@ -87,7 +87,7 @@ Two players simultaneously
 
 Multiple levels
 :   Make several distinct levels that the player can advance through.
-    If you do this, make it clear that there are several levels so that your grader knows to try to reach more than one.
+    If you do this, make it clear that there are several levels so that your code coach knows to try to reach more than one.
 
 Save points
 :   When the player reaches some milestone, future failures cause the player to respawn at that save point
@@ -100,7 +100,7 @@ Inter-session progress
 
 Something More
 :   Want to add another feature, not listed above, and have it count?
-    Describe it in your game checkpoints and see if your grader thinks it is worth points!
+    Describe it in your game checkpoints and see if your code coach thinks it is worth points!
     Note, it will typically need to be at least as programming-complicated as the examples above...
 
 ## Other Constraints
@@ -176,13 +176,13 @@ We will also check your progress with two intermediate checkpoints, each due mid
 
 Should be a python file, named `game.py`, containing comments describing your game idea and how you will fill the optional requirements.  We also encourage starting the game code in that file as well.
 
-This checkpoint is due at 5:00 AM Monday morning, and late submissions are *not* accepted. If you miss the checkpoint and would still like feedback, contact your grader in lab (or class for 1111).
+This checkpoint is due at 5:00 AM Monday morning, and late submissions are *not* accepted. If you miss the checkpoint and would still like feedback, contact your code coach in lab (or class for 1111).
 
 ## Checkpoint 2
 
 Should be a the basics of a working game, in `game.py`, possibly with a few "it crashes if you do *X*"-type bugs or missing features.
 
-This checkpoint is due at 5:00 AM Friday morning, and late submissions are *not* accepted. If you miss the checkpoint and would still like feedback, contact your grader in lab (or class for 1111).
+This checkpoint is due at 5:00 AM Friday morning, and late submissions are *not* accepted. If you miss the checkpoint and would still like feedback, contact your code coach in lab (or class for 1111).
 
 ## Final Submission
 
