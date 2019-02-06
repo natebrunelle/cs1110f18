@@ -64,10 +64,10 @@ Specifically, how you solved the problem.
 -   You must write at least one function as part of your solution
 -   Ideally you'd have several, such as
     1.  A "main" function like
-        ````python
+        ```python
         def madlib():
             """asks for user input and returns the modified string of the full phrase"""
-        ````
+        ```
         which would make repeated use of
     1.  a "helper" function like
         ````python
