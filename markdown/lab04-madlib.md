@@ -64,6 +64,7 @@ Specifically, how you solved the problem.
 -   You must write at least one function as part of your solution
 -   Ideally you'd have several, such as
     1.  A "main" function like
+    
         ````python
         def madlib():
             """asks for user input and returns the modified string of the full phrase"""
@@ -72,6 +73,7 @@ Specifically, how you solved the problem.
         which would make repeated use of
         
     1.  a "helper" function like
+    
         ````python
         def replace_with(prompt, text_so_far, placeholder):
             """returns new text replacing all placeholders with user response to prompt"""
