@@ -34,5 +34,11 @@
 2019-02-01:
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=644d9cc6-6e67-4747-822d-a9e701392e27
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L8_values.pdf
-    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L8_values.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L8_values.pptx
     files: [/files/s19-001/variables_stuff.py]
+    
+2019-02-04:
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=644d9cc6-6e67-4747-822d-a9e701392e27
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L9_strings_casting.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L9_strings_casting.pptx
+    files: [/files/s19-001/weird_numbers.py, /files/s19-001/writing_strings.py, /files/s19-001/double_your_money.py]
