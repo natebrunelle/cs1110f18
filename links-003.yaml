@@ -44,3 +44,8 @@
     files/s19-003/20190204-greeting_program_smaller.py, files/s19-003/20190204-question_about_variables.py,
     files/s19-003/20190204-brag.py]
   video: /screencasts/2019-02-04-003.webm
+2019-02-06:
+  audio: /screencasts/2019-02-06-003.mp3
+  files: [files/s19-003/20190206-slides.pdf, files/s19-003/20190206-first_side_effect.py,
+    files/s19-003/20190206-function_template.py, files/s19-003/20190206-update_variables.py]
+  video: /screencasts/2019-02-06-003.webm
