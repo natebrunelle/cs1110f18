@@ -49,3 +49,9 @@
   files: [files/s19-003/20190206-slides.pdf, files/s19-003/20190206-first_side_effect.py,
     files/s19-003/20190206-function_template.py, files/s19-003/20190206-update_variables.py]
   video: /screencasts/2019-02-06-003.webm
+2019-02-08:
+  audio: /screencasts/2019-02-08-003.mp3
+  files: [files/s19-003/20190208-slides.pdf, files/s19-003/20190208-count_invocations.py,
+    files/s19-003/20190208-func_def.py, files/s19-003/20190208-liar_grader.py, files/s19-003/20190208-ptutor1.py,
+    files/s19-003/20190208-test_func.py]
+  video: /screencasts/2019-02-08-003.webm
