@@ -7,7 +7,7 @@ I'm a second year BS in Computer Science major. At UVA I'm a member of the Socie
 
 # Alexander Monaco
 
-Hello! I am a second year student pursuing a double major in Computer Science and Music (as well as a minor in Astronomy, time.jpg). I initially came to UVA to study Astrophysics but switched to the BACS after realizing how much I enjoyed Computer Science. In my freetime I enjoy practicing the piano and my vocals; eventually I plan to learn guitar and the erhu!
+Hello! I am a second year student pursuing a double major in Computer Science and Music (as well as a minor in Astronomy, time permitting). I initially came to UVA to study Astrophysics but switched to the BACS after realizing how much I enjoyed Computer Science. In my freetime I enjoy practicing the piano and my vocals; eventually I plan to learn guitar and the erhu!
 
 # Ali Burk
 
@@ -27,7 +27,7 @@ Feel free to ask me about any CS or STAT courses you’re interested in taking.
 
 Hey!  I'm a second year double-majoring in CS and Philosophy. I'm from Annapolis, MD, and I have a pug at home named Biggie who I miss dearly. This is my first time TAing and I'm excited to see what the semester has in store! A fun fact about me is that I've section-hiked the Maine portion of the Appalachian Trail, and I'd really like to thru-hike the whole thing.
 
-Ask me about hiking and Greek history (or.jpg), or feel free to send me advice on how to take a headshot because I don't have one (so here's my dog instead.jpg).
+Ask me about hiking and Greek history (or CS), or feel free to send me advice on how to take a headshot because I don't have one (so here's my dog instead!).
 
 # Annie Chapman
 
@@ -55,7 +55,7 @@ Hi! I am a 4th year studying Computer Science with a minor in Systems Engineerin
 
 ![](tas/ClaraNa.jpg)
 
-I’m a second year in the College majoring in computer science and math. This is my second semester as a TA for CS 1110. Outside of school, I like playing and listening to music, playing with my dog, cooking, and writing (in order of my skill.jpg).  
+I’m a second year in the College majoring in computer science and math. This is my second semester as a TA for CS 1110. Outside of school, I like playing and listening to music, playing with my dog, cooking, and writing (in order of my skill level).  
   
 Fun fact: I’ve never had my lobes pierced, but last semester, I got curious and got a conch piercing.
 
@@ -97,11 +97,11 @@ Ask me about frisbee, engineering or IB struggles.
 
 I’m a 3rd year chemical engineering student from Erie, Pennsylvania. I have been a TA for CS 1110 for four semesters and am one of the Head TAs this semester. I am highly involved in Chi Alpha Christian Fellowship as a core group leader. Through my time in Chi Alpha I have gotten to spend every spring break in a different continent with some of my best friends. I am also a QuestBridge scholar. As a fun fact about me I have pet chickens, turkey, and ducks.
 
-# Jennifer Liao  (aka Xiang Liao aka 廖.jpg)
+# Jennifer Liao  (aka Xiang Liao aka 廖湘)
 
 ![](tas/JenLiao.jpg)
 
-Hello! I am a second year BACS major on a pre-med track. I am interested in exploring the field of data science and computing with biomedical application. I took my first CS course ever in my first semester at UVA. I found it fun and decided to major in it so I hope you enjoy the course as much as I did and still do. My fun fact is that I like to play Pichu in Super Smash Bros Brawl (although I get destroyed by my.jpg).
+Hello! I am a second year BACS major on a pre-med track. I am interested in exploring the field of data science and computing with biomedical application. I took my first CS course ever in my first semester at UVA. I found it fun and decided to major in it so I hope you enjoy the course as much as I did and still do. My fun fact is that I like to play Pichu in Super Smash Bros Brawl (although I get destroyed by my friends).
 
 # John Fishbein
 
@@ -111,7 +111,7 @@ I am a second year CS major in the school of engineering. I am the oldest of fou
 
 ![](tas/KalButerbaugh.jpg)
 
-Hi everyone!  I love cooking, playing board games, and amusement parks! Born and raised in Columbus, Ohio, I am the second of six children. I am currently a student in the School of Engineering and Applied Sciences studying Computer Science and Mathematics. Outside of my academic pursuits at UVA I am involved with the Historical Simulation Society (UVA’s board game.jpg) and Chi Alpha Christian Fellowship.
+Hi everyone!  I love cooking, playing board games, and amusement parks! Born and raised in Columbus, Ohio, I am the second of six children. I am currently a student in the School of Engineering and Applied Sciences studying Computer Science and Mathematics. Outside of my academic pursuits at UVA I am involved with the Historical Simulation Society (UVA’s board game club) and Chi Alpha Christian Fellowship.
 
 A fun fact about myself is that for the first 13 years of my life, I absolutely refused to use a fork.
 
@@ -119,7 +119,7 @@ A fun fact about myself is that for the first 13 years of my life, I absolutely 
 
 ![](tas/LauraMaimon.jpg)
 
-Hi!  I’m a fourth year Computer Science major in the engineering school. This is my sixth semester TAing for this class. Next year I’ll be working full time at Appian as a software engineer. At school, I participate in the climbing club and program for Student Game Developers. In my free time, I love playing video games, hiking, listening to audiobooks, badminton, and wallyball! I also love Charlottesville restaurants (ask me if you need recommendations.jpg). I’m excited to get to know all of you this semester!
+Hi!  I’m a fourth year Computer Science major in the engineering school. This is my sixth semester TAing for this class. Next year I’ll be working full time at Appian as a software engineer. At school, I participate in the climbing club and program for Student Game Developers. In my free time, I love playing video games, hiking, listening to audiobooks, badminton, and wallyball! I also love Charlottesville restaurants (ask me if you need recommendations!). I’m excited to get to know all of you this semester!
 
 # Layne Berry
 
@@ -137,7 +137,7 @@ Ask me about photography and OYFA at UVA!
 
 ![](tas/MarchaKiatrungrit.jpg)
 
-Hi! I am a 4th year majoring in Music and Engineering science. I love performing! I’m on the figure skating team at UVA! I’m in the drama department musical this semester, so you should come watch it in April .jpg). I sing (opera and regular stuff.jpg) and play piano, guitar, and ukulele. I enjoy writing and producing my own music too! I’m also into sound design for films. Talk to me about integrating the arts and engineering or a technical/engineering career in the entertainment industry!
+Hi! I am a 4th year majoring in Music and Engineering science. I love performing! I’m on the figure skating team at UVA! I’m in the drama department musical this semester, so you should come watch it in April :). I sing (opera and regular stuff too) and play piano, guitar, and ukulele. I enjoy writing and producing my own music too! I’m also into sound design for films. Talk to me about integrating the arts and engineering or a technical/engineering career in the entertainment industry!
 
 # Maria Parnell
 
@@ -149,7 +149,7 @@ I’m a first year studying computer engineering from Roanoke, VA. I’ve danced
 
 ![](tas/MeganDo.jpg)
 
-Hi! I'm a third-year studying biology and computer science, and I live in Vienna, Virginia. I love to write and I .jpg) play Pokemon Go. A fun fact about me is that I've spent two summers interning in Charlottesville, so if you want to know the best restaurants in town I'm the one to ask!
+Hi! I'm a third-year studying biology and computer science, and I live in Vienna, Virginia. I love to write and I (still) play Pokemon Go. A fun fact about me is that I've spent two summers interning in Charlottesville, so if you want to know the best restaurants in town I'm the one to ask!
 
 # Mohit Srivastav
 
@@ -167,7 +167,7 @@ I am a 3rd year majoring in Computer Engineering and Economics. In my free time 
 
 ![](tas/RobynGuarriello.jpg)
 
-Hi! I am a third year computer engineering major. When I'm not in class or doing work, you can catch me at football and basketball games playing ~alto saxophone~ in the band or driving my stylish PT Cruiser around grounds. A fun fact about me is that I have a Scottish Fold cat named Strider (please ask to see pictures I promise it's worth your.jpg).
+Hi! I am a third year computer engineering major. When I'm not in class or doing work, you can catch me at football and basketball games playing ~alto saxophone~ in the band or driving my stylish PT Cruiser around grounds. A fun fact about me is that I have a Scottish Fold cat named Strider (please ask to see pictures I promise it's worth your time).
 
 # Ruhi Parvatam
 
@@ -185,15 +185,15 @@ I am a 4th year studying Computer Science and Sociology through the College of A
 
 ![](tas/SarahOverton.jpg)
 
-Hi! I’m a fourth-year from Herndon, Virginia doubling in Computer Science and Global Sustainability. Outside of class, I’m involved with the University Singers and FeelGood at UVA (we sell grilled cheese to end world poverty; check us out outside Clem on Sunday nights.jpg). Fun fact: I can name all 50 states in less than 20 seconds.
+Hi! I’m a fourth-year from Herndon, Virginia doubling in Computer Science and Global Sustainability. Outside of class, I’m involved with the University Singers and FeelGood at UVA (we sell grilled cheese to end world poverty; check us out outside Clem on Sunday nights!). Fun fact: I can name all 50 states in less than 20 seconds.
 
 # Sean Gatewood
 
 ![](tas/SeanGatewood.jpg)
 
-Hi!  I’m a third-year CS major in the Engineering School, and I love this class! I actually came to UVA dead-set on Aerospace Engineering, but then CS 1110 happened. Python is super fun, and I use it all the time to make cool little apps for myself. (My current project: an app to email me when I run out of socks.jpg) My one goal for you this semester: Discover the magic in programming. I mean, it’s basically like Harry Potter; you just have to write the spells yourself! :.jpg)
+Hi!  I’m a third-year CS major in the Engineering School, and I love this class! I actually came to UVA dead-set on Aerospace Engineering, but then CS 1110 happened. Python is super fun, and I use it all the time to make cool little apps for myself. (My current project: an app to email me when I run out of socks.) My one goal for you this semester: Discover the magic in programming. I mean, it’s basically like Harry Potter; you just have to write the spells yourself! :-)
 
-I also do work in atmospheric data management for Science Systems and Applications, Inc .jpg). Talk to me if you are interested in CS in the aerospace industry! I might have some cool links for you.
+I also do work in atmospheric data management for Science Systems and Applications, Inc (SSAI). Talk to me if you are interested in CS in the aerospace industry! I might have some cool links for you.
 
 # Vasil Zhigilei
 
@@ -205,9 +205,9 @@ Hey! I am from Charlottesville and I am a first-year who has been a CS1110 TA fo
 
 ![](tas/VivianaRosas.jpg)
 
-Hey guys!  I am a second-year student pursuing a double major in computer science and Chinese. I took CS my first year to see what all the hype was about and ended up loving it. Last summer I had an internship at a start-up in Lisbon and this year I’m going to work at Microsoft in their AI team. An interesting fact about me is that I can speak 4 languages (Spanish, Portuguese, Chinese, and.jpg).
+Hey guys!  I am a second-year student pursuing a double major in computer science and Chinese. I took CS my first year to see what all the hype was about and ended up loving it. Last summer I had an internship at a start-up in Lisbon and this year I’m going to work at Microsoft in their AI team. An interesting fact about me is that I can speak 4 languages (Spanish, Portuguese, Chinese, and Italian).
 
-Feel free to ask me about CS2150, how to finesse buying textbooks/school supplies, Perú, AI, skydiving, and being first-gen .jpg)
+Feel free to ask me about CS2150, how to finesse buying textbooks/school supplies, Perú, AI, skydiving, and being first-gen :)
 
 # Webster Thompson
 
@@ -219,7 +219,7 @@ I'm a third-year student pursuing a BA in CS and Philosophy. This is my third se
 
 ![](tas/WillScheib.jpg)
 
-I am a first year from Virginia Beach. I plan to study Computer Science in the College. This is my first semester as a TA, so I'm just as new as you are! In my spare time, I do data analysis on sports (I know, I'm a.jpg). Right now I'm working on an algorithm to predict March Madness. Feel free to ask me about it! I even did a week-long mentorship with the Pittsburgh Pirates before my senior year of high school.
+I am a first year from Virginia Beach. I plan to study Computer Science in the College. This is my first semester as a TA, so I'm just as new as you are! In my spare time, I do data analysis on sports (I know, I'm a nerd). Right now I'm working on an algorithm to predict March Madness. Feel free to ask me about it! I even did a week-long mentorship with the Pittsburgh Pirates before my senior year of high school.
 
 # Yudel Martinez
 
