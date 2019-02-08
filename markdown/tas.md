@@ -11,7 +11,7 @@ Hello! I am a second year student pursuing a double major in Computer Science an
 
 # Ali Burk
 
-![](tas/AliBurke.jpg)
+![](tas/AliBurk.jpg)
 
 Hi!  I'm a fourth year studying CS and Statistics in the college. This is my fifth semester TAing 1110 and I'm excited for round five! I have held an internship with MITRE for the past two summers and I will be starting at Deloitte in the Fall! Outside of academics, I am heavily involved in UVA's Salsa Club and University Dance Club, and I love to travel. Please feel free to ask me about the BACS major, Salsa club, or the job recruitment process!
 
