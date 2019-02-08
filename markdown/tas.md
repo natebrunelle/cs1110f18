@@ -213,7 +213,7 @@ Feel free to ask me about CS2150, how to finesse buying textbooks/school supplie
 
 ![](tas/WebsterThompson.jpg)
 
-I'm a third-year student pursuing a BA in CS and Philosophy. This is my third semester TAing CS1110. I grew up in New York City and spent my high school years in Concord, New Hampshire. I'm on the Men's Rowing Team, but am a passionate former hockey player and even more passionate current New York Rangers fan (tough rebuilding year I.jpg). A fun fact about me is that I bicycled across the country in 2015 (Anacortes, Washington to Portsmouth, New.jpg).
+I'm a third-year student pursuing a BA in CS and Philosophy. This is my third semester TAing CS1110. I grew up in New York City and spent my high school years in Concord, New Hampshire. I'm on the Men's Rowing Team, but am a passionate former hockey player and even more passionate current New York Rangers fan (tough rebuilding year I know). A fun fact about me is that I bicycled across the country in 2015 (Anacortes, Washington to Portsmouth, New Hampshire).
 
 # Will Scheib
 
