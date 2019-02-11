@@ -104,6 +104,7 @@ assignments:
             portion: 9
             .rationale: "12 graded labs at 0.75% of grade each"
             drop: 1
+            rubric: {"kind":"percentage"}
             not_exclude: ["18Sp CS 1111-001 (ENGR)"]
         Exam:
             portion: "11+11+17"
