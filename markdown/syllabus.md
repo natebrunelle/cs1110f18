@@ -68,7 +68,7 @@ Comments: I read email during work hours only. I get a lot of email, please incl
 TA office hours are held in the Stacks in Thorton A wing most days; a schedule will be released soon.
 See [the office hours tab](oh.html) for more on how to get their help.
 
-We are still in the process of hiring TAs. A list will appear here later.
+We have many fantastic teaching assistants for this course. [Get to know them!](tas.html)
 
 Our TAs are students too.
 Please show them respect and only contact them via piazza, or in person during their scheduled office hours.

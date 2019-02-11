@@ -48,3 +48,9 @@
     Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L10_functions.pdf
     Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L10_functions.pptx
     files: [/files/s19-001/another_function.py, /files/s19-001/basic_function.py, /files/s19-001/double_your_money_two.py]
+    
+2019-02-06:
+    Video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27adcc47-0efd-4e92-8cfd-a9ee0139583d
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L11_functions_scope.pdf
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L11_functions_scope.pptx
+    files: [/files/s19-001/another_function.py, /files/s19-001/basic_function.py, /files/s19-001/double_your_money_two.py, /files/s19-001/incrementing_variables.py, /files/s19-001/scope_stuff.py]
