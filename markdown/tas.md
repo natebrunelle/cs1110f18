@@ -1,3 +1,6 @@
+---
+title: CS1110/1111 Undergraduate TAs
+...
 
 # Alex Zummo
 
