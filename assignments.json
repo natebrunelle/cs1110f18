@@ -5,7 +5,6 @@
   ,"weight":0
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
 ,"Lab02":
   {"title":"counting"
@@ -14,7 +13,6 @@
   ,"weight":0
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
 ,"Lab03":
   {"title":"turtle"
@@ -24,7 +22,6 @@
   ,"late-policy":[1,1]
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
 ,"PA01":
   {"files":"greeting.py"
@@ -55,7 +52,6 @@
   ,"open":"2019-01-14 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
 ,"PA03":
   {"files":"dating.py"
@@ -118,7 +114,6 @@
   ,"open":"2019-01-14 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
 ,"PA08":
   {"files":"bmr.py"
@@ -156,7 +151,6 @@
   ,"open":"2019-02-22 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
 ,"Lab07":
   {"title":"hangman"
@@ -165,7 +159,6 @@
   ,"open":"2019-02-22 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
 ,"PA10":
   {"files":"calculator.py"
@@ -196,7 +189,6 @@
   ,"open":"2019-02-22 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
 ,"PA12":
   {"files":"higher_lower_player.py"
@@ -227,7 +219,6 @@
   ,"open":"2019-02-22 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
 ,"PA14":
   {"files":"map_reduce.py"
@@ -269,7 +260,6 @@
   ,"open":"2019-02-22 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
 ,"Exam 2":
   {"group":"Exam"
@@ -285,7 +275,6 @@
   ,"open":"2019-03-28 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
 ,"PA17":
   {"files":"lous_list.py"
@@ -316,7 +305,6 @@
   ,"open":"2019-04-07 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
 ,"PA19":
   {"files":["flappybird.py","*.jpg","*.png"]
@@ -345,7 +333,6 @@
   ,"open":"2019-02-22 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
 ,"PA20":
   {"files":"regex.py"
@@ -375,7 +362,6 @@
   ,"open":"2019-04-07 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  ,"not_exclude":["18Sp CS 1111-001 (ENGR)"]
   }
 ,"PA21":
   {"files":"salary.py"
