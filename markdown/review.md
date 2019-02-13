@@ -28,7 +28,7 @@ Semester    | Exam                       | Key/Rubric
 Spring 2017 | [s2017e1.pdf](files/s2017e1.pdf) | [s2017e1key.txt](files/s2017e1key.txt)
 Fall 2017   | [f2017e1.pdf](files/f2017e1.pdf) | [f2017e1key.html](files/f2017e1key.html)
 Spring 2018   | [s2018e1.pdf](files/s2018e1.pdf) | [s2018e1key.html](files/s2018e1key.html)
-Fall 2018   | [f2018e1.pdf](files/s2018e1.pdf) | [f2018e1key.html](https://docs.google.com/document/d/1aaUiHwW00c46sk-7-69X6BuppJ_jKydAUZxp4VbBVjA/edit#heading=h.z0wg0h5of4gh)
+Fall 2018   | [f2018e1.pdf](files/f2018e1.pdf) | [f2018e1key.html](https://docs.google.com/document/d/1aaUiHwW00c46sk-7-69X6BuppJ_jKydAUZxp4VbBVjA/edit#heading=h.z0wg0h5of4gh)
 
 # Exam 2
 
@@ -130,6 +130,6 @@ Fall 2016   | [CS111X-F16-Final.pdf](files/CS111X-F16-Final.pdf) | [CS111X-F16-F
 Spring 2017 | [s2017e3.pdf](files/s2017e3.pdf) | [s2017e3key.txt](files/s2017e3key.txt)
 Fall 2017 | [f2017e3.pdf](files/f2017e3.pdf) | [f2017e3key.html](files/f2017e3key.html)
 Spring 2018 | [s2018e3.pdf](files/s2018e3.pdf) | [s2018e3key.html](files/s2018e3key.html)
-Fall 2018 | [f2018e3.pdf](files/s2018e3.pdf) | [f2018e3key.html](https://docs.google.com/document/d/1aaUiHwW00c46sk-7-69X6BuppJ_jKydAUZxp4VbBVjA/edit#heading=h.z0wg0h5of4gh)
+Fall 2018 | [f2018e3.pdf](files/f2018e3.pdf) | [f2018e3key.html](https://docs.google.com/document/d/1aaUiHwW00c46sk-7-69X6BuppJ_jKydAUZxp4VbBVjA/edit#heading=h.z0wg0h5of4gh)
 
 Final exams tend to change from one semester to another more than do other exams, so older exams are not necessarily the best indicator of future exams.
