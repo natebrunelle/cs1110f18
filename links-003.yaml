@@ -55,3 +55,14 @@
     files/s19-003/20190208-func_def.py, files/s19-003/20190208-liar_grader.py, files/s19-003/20190208-ptutor1.py,
     files/s19-003/20190208-test_func.py]
   video: /screencasts/2019-02-08-003.webm
+2019-02-11:
+  audio: /screencasts/2019-02-11-003.mp3
+  files: [/tmp/20190211-slides.pdf, files/s19-003/20190211-about_math.py, files/s19-003/20190211-func_def.py,
+    files/s19-003/20190211-need_default_args.py, files/s19-003/20190211-test_func.py,
+    files/s19-003/20190211-use_get_integer.py]
+  video: /screencasts/2019-02-11-003.webm
+2019-02-13:
+  audio: /screencasts/2019-02-13-003.mp3
+  files: [files/s19-003/20190213-slides.pdf, files/s19-003/20190213-boolean_basics.py,
+    files/s19-003/20190213-if_overview.py, files/s19-003/20190213-leap_year.py, files/s19-003/20190213-seasonal_clothing.py]
+  video: /screencasts/2019-02-13-003.webm
