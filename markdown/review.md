@@ -9,6 +9,7 @@ All three exams are listed, using notes from previous semesters, but only the ne
 
 # Exam 1
 
+-   [cover page for exam1 for Spring 19](files/s19e1cover.pdf)
 -   [how to fill in TPEGS footers](lab05-paper.html#TPEGS)
 -   `str(value)`{.python}
 -   `int(value)`{.python}
