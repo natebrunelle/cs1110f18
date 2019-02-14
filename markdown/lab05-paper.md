@@ -16,6 +16,8 @@ Be there and be kind to others.
 For various reasons, CS 1110 exams are given on paper and involve writing code by hand.
 The goal of this lab is to prepare you for that: both the on-paper coding and the idea of being tested.
 
+We also recommend you read the instructions for the exam before exam day. You can see an example of this semester's actual exam 1 cover page [here](files/s19e1cover.pdf).
+
 
 ## TPEGS
 
