@@ -66,3 +66,8 @@
   files: [files/s19-003/20190213-slides.pdf, files/s19-003/20190213-boolean_basics.py,
     files/s19-003/20190213-if_overview.py, files/s19-003/20190213-leap_year.py, files/s19-003/20190213-seasonal_clothing.py]
   video: /screencasts/2019-02-13-003.webm
+2019-02-15:
+  audio: /screencasts/2019-02-15-003.mp3
+  files: [files/s19-003/20190215-slides.pdf, files/s19-003/20190215-leap_year.py,
+    files/s19-003/20190215-questions_about_conditions.py]
+  video: /screencasts/2019-02-15-003.webm
