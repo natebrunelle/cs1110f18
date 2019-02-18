@@ -71,3 +71,7 @@
   files: [files/s19-003/20190215-slides.pdf, files/s19-003/20190215-leap_year.py,
     files/s19-003/20190215-questions_about_conditions.py]
   video: /screencasts/2019-02-15-003.webm
+2019-02-18:
+  audio: /screencasts/2019-02-18-003.mp3
+  files: [files/s19-003/20190218-slides.pdf, files/s19-003/20190218-e1review.py, files/s19-003/20190218-leap_year.py]
+  video: /screencasts/2019-02-18-003.webm
