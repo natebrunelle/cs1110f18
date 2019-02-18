@@ -29,7 +29,7 @@ Semester    | Exam                       | Key/Rubric
 Spring 2017 | [s2017e1.pdf](files/s2017e1.pdf) | [s2017e1key.txt](files/s2017e1key.txt)
 Fall 2017   | [f2017e1.pdf](files/f2017e1.pdf) | [f2017e1key.html](files/f2017e1key.html)
 Spring 2018   | [s2018e1.pdf](files/s2018e1.pdf) | [s2018e1key.html](files/s2018e1key.html)
-Fall 2018   | [f2018e1.pdf](files/f2018e1.pdf) | [f2018e1key.html](https://docs.google.com/document/d/1aaUiHwW00c46sk-7-69X6BuppJ_jKydAUZxp4VbBVjA/edit#heading=h.z0wg0h5of4gh)
+Fall 2018   | [f2018e1.pdf](files/f2018e1.pdf) | [f2018e1key.html](https://docs.google.com/presentation/d/1stl9TeDPJA0MEVhsdMp_8C9Y6bvTuGKLHOg_V_w0eTA/edit#slide=id.g43d6d2d9d2_0_0)
 
 # Exam 2
 
