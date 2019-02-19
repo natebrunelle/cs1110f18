@@ -15,6 +15,7 @@ Giving a brief overview of the lab would be wise:
 	-	But there is a "Tools to Use" section that does
 	-	We want you to practice reading and applying on your own
 	-	We will help, but we'll ask what you've already tried first...
+	-   Assure the students that there is no expectation that they complete anywhere near all of the tasks.
 1.	Read the writeup, then do the tasks
 	-   (Suggestion: start them down the path for the first problem: bring it up, talk about it, scroll down to where the operators are described, let them loose)
 	
