@@ -25,7 +25,7 @@ In addition to functional correctness, some points will be reserved for
 The optimal strategy for a game like this, assuming you don't know the person thinking of the number well enough to make an informed guess, is as follows.
 
 -   Keep track of the range of possible numbers (initially 1 to 100)
--   Always guess the middle of that range
+-   Always guess the exact middle of that range (rounding down if the middle is not an integer)
 -   Move one endpoint of the range or the other based on the user response
 
 # Example Invocations

@@ -65,4 +65,6 @@ Your `median` function will probably need several `if`{.python} statements.
 
 Did you test out your `median` when all three argument values are the same? All three different? Two the same and one different? With the answer in all three locations?
 
-For `rms`, recall that <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ceaad50b7a0ae8ad64014319f138887ec5147f6c" title="square root means one-half power"/> an
+For `rms`, recall that <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ceaad50b7a0ae8ad64014319f138887ec5147f6c" title="square root means one-half power"/>
+
+For `rms`, another way to pose its definition <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fc621ce0b9b2d52e3ce835a9211f042f272c341e" title="x_rms = sqrt((1/n)(x_1^2 + x_2^2 + ... + x_n^2))"/> is "the square root of the mean of the squares of the values"
