@@ -77,7 +77,7 @@ else:
     print('This line never prints because it is not how randrange works')
 ````
 
-Note that the math is $low \le num < high$ not $low \le num \le high$.
+Note that the math is $low ≤ num < high$ not $low ≤ num ≤ high$.
 To randomly get one of {3, 4, 5} you'd need to write `random.randrange(3, 6)`{.python}.
 
 
