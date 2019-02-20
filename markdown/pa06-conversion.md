@@ -42,6 +42,11 @@ Don't worry if you are off in the last few decimal places
 
 It does not matter in what order you write `c2f` and `f2c`, nor which appears first inside your file.
 
+Recall that $9 \times (C + 40) = 5 \times (F + 40)$.
+A bit of algebra yields $C = (5 \times (F + 40) \div 9) - 40$
+and $F = (9 \times (C + 40) \div 5) - 40$.
+Other formulations of this also exist.
+
 ## IndentationError: expected an indented block
 
 You can't have a function without a body; the following code:
