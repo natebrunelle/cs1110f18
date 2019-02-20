@@ -139,7 +139,7 @@ assignments:
         title: strings
         files: ['str_funcs.py', 'changing_str.py']
         due: 2019-02-21
-        open: 2019-02-22
+        open: 2019-02-20
     Lab07:
         title: hangman
         files: ['hangman_if.py', 'hangman_while.py']
