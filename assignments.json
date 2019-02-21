@@ -148,7 +148,7 @@
   {"title":"strings"
   ,"files":["str_funcs.py","changing_str.py"]
   ,"due":"2019-02-21 23:59"
-  ,"open":"2019-02-22 00:00"
+  ,"open":"2019-02-20 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
