@@ -10,7 +10,10 @@ Special Dates:
   MLK break:
     start: 2019-01-21
     end: 2019-01-21
-  Exam 1: 2019-02-20
+  Snow break:
+    start: 2019-02-20
+    end: 2019-02-20
+  Exam 1: 2019-02-25
   Exam 2: 2019-04-03
   Exam 3: 2019-05-04
 
@@ -233,7 +236,7 @@ assignments:
         due: 2019-03-08 10:00:00
     PA13:
         files: str_redux.py
-        open: 2019-01-10
+        open: 2019-02-20
         due: 2019-03-18 10:00:00
     PA14:
         files: map_reduce.py
@@ -257,7 +260,7 @@ assignments:
 
     PA18:
         files: spellcheck.py
-        open: 2019-02-20
+        open: 2019-04-03
         due: 2019-04-10 10:00:00
     PA19:
         files: ["flappybird.py", "*.jpg", "*.png"]
@@ -270,75 +273,76 @@ assignments:
         due: 2019-04-22 10:00:00
     PA21:
         files: salary.py
-        open: 2019-01-03
+        open: 2019-04-03
         due: 2019-04-26 10:00:00
         
     Checkpoint 1:
         due: 2019-04-17 05:00:00
+        open: 2019-04-03
         group: Project
         weight: 1
         total: 1
         writeup: project.html
-        rubric: {"kind":"percentage"}
-        .seed:
-            -   {"":{"ratio":1,"comment":"Looks promising"}}
-            -   {"":{"ratio":0.5,"comment":"Checkpoint fails to meet requirements"}}
-            -   {"":{"ratio":0.0,"comment":"No submission"}}
+        rubric:
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - Contains some comments describing idea
+                - Identifies which optional components will be attempted
             
     Checkpoint 2:
         due: 2019-04-24 05:00:00
+        open: 2019-04-17 05:00:00
         group: Project
         weight: 1
         total: 1
         writeup: project.html
         extends: ["Checkpoint 1"]
-        rubric: {"kind":"percentage"}
-        .seed:
-            -   {"":{"ratio":1,"comment":"On track to succeed"}}
-            -   {"":{"ratio":0.5,"comment":"Significantly behind where you ought to be"}}
-            -   {"":{"ratio":0.0,"comment":"No submission"}}
+        rubric:
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - Has non-trivial game code
 
     Project:
         due: 2019-04-29 23:59:59
+        open: 2019-04-24 05:00:00
         group: Project
         weight: 48
         total: 48
         writeup: project.html
         extends: ["Checkpoint 2", "Checkpoint 1"]
         rubric:
-            kind: breakdown
-            parts:
-                -   name: splash
-                    ratio: 8
-                    rubric:
-                        kind: breakdown
-                        parts:
-                            -   name: creator information
-                                ratio: 4
-                                rubric: {"kind":"buckets"}
-                            -   name: instructions
-                                ratio: 4
-                                rubric: {"kind":"buckets"}
-                -   name: required features
-                    ratio: 16
-                    rubric:
-                        kind: breakdown
-                        parts:
-                            -   name: user interaction
-                                ratio: 4
-                                rubric: {"kind":"buckets"}
-                            -   name: endgame
-                                ratio: 4
-                                rubric: {"kind":"buckets"}
-                            -   name: images
-                                ratio: 4
-                                rubric: {"kind":"buckets"}
-                            -   name: not just a demo
-                                ratio: 4
-                                rubric: {"kind":"buckets"}
-                -   name: elective features
-                    ratio: 16
-                    rubric: {"kind":"buckets"}
-                -   name: a cohesive game
-                    ratio: 8
-                    rubric: {"kind":"buckets"}
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - Code submitted
+                - There is a splash screen
+                - Displays creator information
+                - Displays game instructions
+                - Has user interaction
+                - User interaction makes game playable
+                - Game ends
+                - Has images
+                - Images contribute to game
+                - Has significantly more than a demo file from class
+                - optional feature 1 present
+                - optional feature 1 works properly
+                - optional feature 2 present
+                - optional feature 2 works properly
+                - optional feature 3 present
+                - optional feature 3 works properly
+                - optional feature 4 present
+                - optional feature 4 works properly
+                - Game makes sense
+                - Game plays well
+                - Game does not crash
+                - Code has some organization
+                - Code has some comments or documentation
+                - Game window size is within 800-by-600 limit
