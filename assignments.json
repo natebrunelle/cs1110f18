@@ -137,19 +137,19 @@
   ,"total":10
   ,"title":"averages"
   }
-,"Exam 1":
-  {"group":"Exam"
-  ,"due":"2019-02-20 23:59"
-  ,"weight":1
-  ,"total":100
-  ,"rubric":{"kind":"percentage"}
-  }
 ,"Lab06":
   {"title":"strings"
   ,"files":["str_funcs.py","changing_str.py"]
   ,"due":"2019-02-21 23:59"
   ,"open":"2019-02-20 00:00"
   ,"group":"Lab"
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Exam 1":
+  {"group":"Exam"
+  ,"due":"2019-02-25 23:59"
+  ,"weight":1
+  ,"total":100
   ,"rubric":{"kind":"percentage"}
   }
 ,"Lab07":
@@ -203,7 +203,7 @@
   }
 ,"PA13":
   {"files":"str_redux.py"
-  ,"open":"2019-01-10 00:00"
+  ,"open":"2019-02-20 00:00"
   ,"due":"2019-03-18 10:00"
   ,"group":"PA"
   ,"tester":"test_str_redux.py"
@@ -289,7 +289,7 @@
   }
 ,"PA18":
   {"files":"spellcheck.py"
-  ,"open":"2019-02-20 00:00"
+  ,"open":"2019-04-03 00:00"
   ,"due":"2019-04-10 10:00"
   ,"group":"PA"
   ,"tester":"test_spellcheck.py"
@@ -318,11 +318,21 @@
   }
 ,"Checkpoint 1":
   {"due":"2019-04-17 05:00"
+  ,"open":"2019-04-03 00:00"
   ,"group":"Project"
   ,"weight":1
   ,"total":1
   ,"writeup":"project.html"
-  ,"rubric":{"kind":"percentage"}
+  ,"rubric":
+    {"kind":"hybrid"
+    ,"auto-weight":0
+    ,"auto-late-days":0
+    ,"late-penalty":1
+    ,"human":
+      ["Contains some comments describing idea"
+      ,"Identifies which optional components will be attempted"
+      ]
+    }
   ,"files":["game.py","*.*"]
   ,"support":["gamebox.py"]
   }
@@ -347,12 +357,19 @@
   }
 ,"Checkpoint 2":
   {"due":"2019-04-24 05:00"
+  ,"open":"2019-04-17 05:00"
   ,"group":"Project"
   ,"weight":1
   ,"total":1
   ,"writeup":"project.html"
   ,"extends":["Checkpoint 1"]
-  ,"rubric":{"kind":"percentage"}
+  ,"rubric":
+    {"kind":"hybrid"
+    ,"auto-weight":0
+    ,"auto-late-days":0
+    ,"late-penalty":1
+    ,"human":["Has non-trivial game code"]
+    }
   ,"files":["game.py","*.*"]
   ,"support":["gamebox.py"]
   }
@@ -365,7 +382,7 @@
   }
 ,"PA21":
   {"files":"salary.py"
-  ,"open":"2019-01-03 00:00"
+  ,"open":"2019-04-03 00:00"
   ,"due":"2019-04-26 10:00"
   ,"group":"PA"
   ,"tester":"test_salary.py"
@@ -376,41 +393,42 @@
   }
 ,"Project":
   {"due":"2019-04-29 23:59"
+  ,"open":"2019-04-24 05:00"
   ,"group":"Project"
   ,"weight":48
   ,"total":48
   ,"writeup":"project.html"
   ,"extends":["Checkpoint 2","Checkpoint 1"]
   ,"rubric":
-    {"kind":"breakdown"
-    ,"parts":
-      [{"name":"splash"
-       ,"ratio":8
-       ,"rubric":
-         {"kind":"breakdown"
-         ,"parts":
-           [{"name":"creator information"
-            ,"ratio":4
-            ,"rubric":{"kind":"buckets"}
-            }
-           ,{"name":"instructions","ratio":4,"rubric":{"kind":"buckets"}}
-           ]
-         }
-       }
-      ,{"name":"required features"
-       ,"ratio":16
-       ,"rubric":
-         {"kind":"breakdown"
-         ,"parts":
-           [{"name":"user interaction","ratio":4,"rubric":{"kind":"buckets"}}
-           ,{"name":"endgame","ratio":4,"rubric":{"kind":"buckets"}}
-           ,{"name":"images","ratio":4,"rubric":{"kind":"buckets"}}
-           ,{"name":"not just a demo","ratio":4,"rubric":{"kind":"buckets"}}
-           ]
-         }
-       }
-      ,{"name":"elective features","ratio":16,"rubric":{"kind":"buckets"}}
-      ,{"name":"a cohesive game","ratio":8,"rubric":{"kind":"buckets"}}
+    {"kind":"hybrid"
+    ,"auto-weight":0
+    ,"auto-late-days":0
+    ,"late-penalty":1
+    ,"human":
+      ["Code submitted"
+      ,"There is a splash screen"
+      ,"Displays creator information"
+      ,"Displays game instructions"
+      ,"Has user interaction"
+      ,"User interaction makes game playable"
+      ,"Game ends"
+      ,"Has images"
+      ,"Images contribute to game"
+      ,"Has significantly more than a demo file from class"
+      ,"optional feature 1 present"
+      ,"optional feature 1 works properly"
+      ,"optional feature 2 present"
+      ,"optional feature 2 works properly"
+      ,"optional feature 3 present"
+      ,"optional feature 3 works properly"
+      ,"optional feature 4 present"
+      ,"optional feature 4 works properly"
+      ,"Game makes sense"
+      ,"Game plays well"
+      ,"Game does not crash"
+      ,"Code has some organization"
+      ,"Code has some comments or documentation"
+      ,"Game window size is within 800-by-600 limit"
       ]
     }
   ,"files":["game.py","*.*"]
