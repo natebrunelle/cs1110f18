@@ -121,19 +121,18 @@ assignments:
     Lab02:
         title: counting
         due: 2019-01-24
-        open: 2019-01-14
+        open: 2019-01-24
         weight: 0
     Lab03:
         title: turtle
         due: 2019-01-31
-        open: 2019-01-14
+        open: 2019-01-31
         files: ['*.py', '*.ps', '*.png', '*.PNG']
-        late-policy: [1, 1]
     Lab04:
         title: madlib
         files: 'madlib.py'
         due: 2019-02-07
-        open: 2019-01-14
+        open: 2019-02-07
     Lab05:
         title: paper
         due: 2019-02-14
@@ -142,46 +141,46 @@ assignments:
         title: strings
         files: ['str_funcs.py', 'changing_str.py']
         due: 2019-02-21
-        open: 2019-02-20
+        open: 2019-02-21
     Lab07:
         title: hangman
         files: ['hangman_if.py', 'hangman_while.py']
         due: 2019-02-28
-        open: 2019-02-22
+        open: 2019-02-28
     Lab08:
         title: crypto
         files: 'crypto.py'
         due: 2019-03-07
-        open: 2019-02-22
+        open: 2019-03-07
     Lab09:
         title: debug
         files: 'debug_task.py'
         due: 2019-03-21
-        open: 2019-02-22
+        open: 2019-03-21
     Lab10:
         title: poi
         files: 'poi.py'
         due: 2019-03-28
-        open: 2019-02-22
+        open: 2019-03-28
     Lab11:
         title: rooms
         files: 'rooms.py'
         due: 2019-04-04 
-        open: 2019-03-28 
+        open: 2019-04-04 
     Lab12:
         title: pong
         files: 'pong.py'
         due: 2019-04-11
-        open: 2019-04-07
+        open: 2019-04-11
     Lab13:
         title: email
         files: 'emailhunt.py'
         due: 2019-04-18
-        open: 2019-02-22
+        open: 2019-02-18
     Lab14:
         title: review
         due: 2019-04-25
-        open: 2019-04-07
+        open: 2019-04-25
 
 
     PA01:
