@@ -9,7 +9,7 @@
 ,"Lab02":
   {"title":"counting"
   ,"due":"2019-01-24 23:59"
-  ,"open":"2019-01-14 00:00"
+  ,"open":"2019-01-24 00:00"
   ,"weight":0
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
@@ -17,9 +17,8 @@
 ,"Lab03":
   {"title":"turtle"
   ,"due":"2019-01-31 23:59"
-  ,"open":"2019-01-14 00:00"
+  ,"open":"2019-01-31 00:00"
   ,"files":["*.py","*.ps","*.png","*.PNG"]
-  ,"late-policy":[1,1]
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
@@ -49,7 +48,7 @@
   {"title":"madlib"
   ,"files":"madlib.py"
   ,"due":"2019-02-07 23:59"
-  ,"open":"2019-01-14 00:00"
+  ,"open":"2019-02-07 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
@@ -141,7 +140,7 @@
   {"title":"strings"
   ,"files":["str_funcs.py","changing_str.py"]
   ,"due":"2019-02-21 23:59"
-  ,"open":"2019-02-20 00:00"
+  ,"open":"2019-02-21 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
@@ -156,14 +155,14 @@
   {"title":"hangman"
   ,"files":["hangman_if.py","hangman_while.py"]
   ,"due":"2019-02-28 23:59"
-  ,"open":"2019-02-22 00:00"
+  ,"open":"2019-02-28 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
 ,"PA10":
   {"files":"calculator.py"
   ,"open":"2019-02-20 00:00"
-  ,"due":"2019-03-01 10:00"
+  ,"due":"2019-03-04 09:00"
   ,"group":"PA"
   ,"tester":"test_calculator.py"
   ,"late-policy":[0.75,0.75]
@@ -171,10 +170,18 @@
   ,"total":10
   ,"title":"calculator"
   }
+,"Lab08":
+  {"title":"crypto"
+  ,"files":"crypto.py"
+  ,"due":"2019-03-07 23:59"
+  ,"open":"2019-03-07 00:00"
+  ,"group":"Lab"
+  ,"rubric":{"kind":"percentage"}
+  }
 ,"PA11":
   {"files":"higher_lower.py"
   ,"open":"2019-02-20 00:00"
-  ,"due":"2019-03-06 10:00"
+  ,"due":"2019-03-08 10:00"
   ,"group":"PA"
   ,"tester":"test_higher_lower.py"
   ,"late-policy":[0.75,0.75]
@@ -182,18 +189,10 @@
   ,"total":10
   ,"title":"higher_lower"
   }
-,"Lab08":
-  {"title":"crypto"
-  ,"files":"crypto.py"
-  ,"due":"2019-03-07 23:59"
-  ,"open":"2019-02-22 00:00"
-  ,"group":"Lab"
-  ,"rubric":{"kind":"percentage"}
-  }
 ,"PA12":
   {"files":"higher_lower_player.py"
   ,"open":"2019-02-20 00:00"
-  ,"due":"2019-03-08 10:00"
+  ,"due":"2019-03-20 10:00"
   ,"group":"PA"
   ,"tester":"test_higher_lower_player.py"
   ,"late-policy":[0.75,0.75]
@@ -204,7 +203,7 @@
 ,"PA13":
   {"files":"str_redux.py"
   ,"open":"2019-02-20 00:00"
-  ,"due":"2019-03-18 10:00"
+  ,"due":"2019-03-20 10:00"
   ,"group":"PA"
   ,"tester":"test_str_redux.py"
   ,"late-policy":[0.75,0.75]
@@ -216,14 +215,14 @@
   {"title":"debug"
   ,"files":"debug_task.py"
   ,"due":"2019-03-21 23:59"
-  ,"open":"2019-02-22 00:00"
+  ,"open":"2019-03-21 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
 ,"PA14":
   {"files":"map_reduce.py"
   ,"open":"2019-02-20 00:00"
-  ,"due":"2019-03-22 10:00"
+  ,"due":"2019-03-25 10:00"
   ,"group":"PA"
   ,"tester":"test_map_reduce.py"
   ,"late-policy":[0.75,0.75]
@@ -234,7 +233,7 @@
 ,"PA15":
   {"files":"credit_card.py"
   ,"open":"2019-02-20 00:00"
-  ,"due":"2019-03-25 10:00"
+  ,"due":"2019-03-27 10:00"
   ,"group":"PA"
   ,"tester":"test_credit_card.py"
   ,"late-policy":[0.75,0.75]
@@ -242,24 +241,24 @@
   ,"total":10
   ,"title":"credit_card"
   }
+,"Lab10":
+  {"title":"poi"
+  ,"files":"poi.py"
+  ,"due":"2019-03-28 23:59"
+  ,"open":"2019-03-28 00:00"
+  ,"group":"Lab"
+  ,"rubric":{"kind":"percentage"}
+  }
 ,"PA16":
   {"files":"gradebook.py"
   ,"open":"2019-02-20 00:00"
-  ,"due":"2019-03-27 10:00"
+  ,"due":"2019-03-29 10:00"
   ,"group":"PA"
   ,"tester":"test_gradebook.py"
   ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"gradebook"
-  }
-,"Lab10":
-  {"title":"poi"
-  ,"files":"poi.py"
-  ,"due":"2019-03-28 23:59"
-  ,"open":"2019-02-22 00:00"
-  ,"group":"Lab"
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Exam 2":
   {"group":"Exam"
@@ -272,7 +271,7 @@
   {"title":"rooms"
   ,"files":"rooms.py"
   ,"due":"2019-04-04 23:59"
-  ,"open":"2019-03-28 00:00"
+  ,"open":"2019-04-04 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
@@ -302,7 +301,7 @@
   {"title":"pong"
   ,"files":"pong.py"
   ,"due":"2019-04-11 23:59"
-  ,"open":"2019-04-07 00:00"
+  ,"open":"2019-04-11 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
@@ -340,7 +339,7 @@
   {"title":"email"
   ,"files":"emailhunt.py"
   ,"due":"2019-04-18 23:59"
-  ,"open":"2019-02-22 00:00"
+  ,"open":"2019-02-18 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
@@ -376,7 +375,7 @@
 ,"Lab14":
   {"title":"review"
   ,"due":"2019-04-25 23:59"
-  ,"open":"2019-04-07 00:00"
+  ,"open":"2019-04-25 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }

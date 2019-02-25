@@ -22,10 +22,6 @@ Remind the students that
 2.	The directions give hints
 3.	PyCharm has a find-replace tool (demonstrate it for them) they are likely to find useful
 
-# Spot Check
-
-Because of the exam and reading days, there were no assignments due since last lab, so no spot-check this week.  It will resume next week.
-
 
 # Example solution
 
