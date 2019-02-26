@@ -4,22 +4,25 @@ title: "PA 11: higher_lower.py"
 
 # Task
 
-Write a file named `higher_lower.py` that plays a simple guessing game with you.
+Write a file named `higher_lower.py` that plays a simple guessing game with the user. 
 
-The computer will pick a number between 1 and 100, then give you a given number of guesses.
-If you guess right, it will say "You win!".
-If you guess higher or lower than correct, it will say "The number is higher than that." (or lower). 
-If after the given number of guesses they still don't know the number, print "You lose; the number was *x*." where *x* was the number you were to guess.
+
+
+The number to guess is either selected by the user or a randomly generated number between 1 and 100. The number of guesses is chosen by the user. On each turn, the program accepts one guess from the user. If the user guesses right, it will say “You win!”. If the user’s guess is higher or lower than the correct answer, the program will say “The number is higher than that.” (or “The number if lower than that.”).  If after the given number of guesses the user still hasn’t guessed right, print “You lose; the number was x.”, where x is the answer (the number the user was to guess).
+
+
 
 Before the game begins,
 
-1.  Ask what number to pick. If they say "−1", pick randomly; otherwise, use their number even if it is outside the 1–100 range.
-2.  Ask how many guesses they should have.  You may assume they respond with a positive integer.
+1. Ask what number to pick. If they say “−1”, pick randomly; otherwise, use their number even if it is outside the 1–100 range.
+2. Ask how many guesses they should have. You may assume they respond with a positive integer.
+
 
 In addition to functional correctness, some points will be reserved for
 
-1.  having good variable names
-1.  having meaningful docstrings for any functions you write (note: functions are not required for this assignment, but might make sense).
+1. having good variable names
+2. having meaningful docstrings for any functions you write (note: functions are not required for this assignment, but might make sense).
+
 
 # Example Invocations
 
