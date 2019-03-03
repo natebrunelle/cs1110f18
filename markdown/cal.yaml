@@ -223,7 +223,7 @@ assignments:
     PA10:
         files: calculator.py
         open: 2019-02-20
-        due: 2019-03-04 09:00:00
+        due: 2019-03-06 09:00:00
         #late-policy: [0.75,0.75,0.75,0.75]
     PA11:
         files: higher_lower.py
