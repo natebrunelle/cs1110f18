@@ -57,7 +57,7 @@ Comments: I read email once each work day if it contains 1110 in the subject lin
 
 Office: Rice 206
 
-Office hours: Wednesday 3:30--4:30pm; Friday 11am-1pm.
+Office hours: Wednesday 3:30--4:30pm; Friday 11am--1pm.
 
 Email: up3f@virginia.edu 
 
