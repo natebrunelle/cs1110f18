@@ -235,7 +235,8 @@ assignments:
         due: 2019-03-20 10:00:00
     PA13:
         title: No longer required
-        due: 2019-03-25 10:00:00
+        due: 2019-03-20 10:00:00
+        weight: 0
     PA14:
         files: map_reduce.py
         open: 2019-02-20
