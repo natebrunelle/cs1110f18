@@ -234,9 +234,8 @@ assignments:
         open: 2019-02-20
         due: 2019-03-20 10:00:00
     PA13:
-        files: str_redux.py
-        open: 2019-02-20
-        due: 2019-03-20 10:00:00
+        title: No longer required
+        due: 2019-03-25 10:00:00
     PA14:
         files: map_reduce.py
         open: 2019-02-20
