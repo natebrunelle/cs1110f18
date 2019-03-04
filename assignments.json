@@ -200,6 +200,15 @@
   ,"total":10
   ,"title":"higher_lower_player"
   }
+,"PA13":
+  {"title":"No longer required"
+  ,"due":"2019-03-20 10:00"
+  ,"weight":0
+  ,"group":"PA"
+  ,"late-policy":[0.75,0.75]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  }
 ,"Lab09":
   {"title":"debug"
   ,"files":"debug_task.py"
@@ -207,14 +216,6 @@
   ,"open":"2019-03-21 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
-  }
-,"PA13":
-  {"title":"No longer required"
-  ,"due":"2019-03-25 10:00"
-  ,"group":"PA"
-  ,"late-policy":[0.75,0.75]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
   }
 ,"PA14":
   {"files":"map_reduce.py"
