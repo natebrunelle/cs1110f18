@@ -81,3 +81,8 @@
     files/s19-003/20190222-mutability_1.py, files/s19-003/20190222-range_rules.py,
     files/s19-003/20190222-str_rules2.py, files/s19-003/20190222-str_rules.py, files/s19-003/20190222-tuple_rules.py]
   video: /screencasts/2019-02-22-003.webm
+2019-03-04:
+  audio: /screencasts/2019-03-04-003.mp3
+  files: [files/s19-003/20190304-slides.pdf, files/s19-003/20190304-for_examples.py,
+    files/s19-003/20190304-hangman_bug.py]
+  video: /screencasts/2019-03-04-003.webm
