@@ -6,7 +6,7 @@ title: "Lab 8: Cryptography"
 # Overview
 
 Cryptography is the art of hiding the meaning of a message in a way that the intended recipient can understand, but not anyone else.
-Fully secure cryptography requires a a lot of detail-oriented nuance of implementation and some abstract algebra, but we can get some casual-level cryptography using what we know so far.
+Fully secure cryptography requires a lot of detail-oriented nuance of implementation and some abstract algebra, but we can get some casual-level cryptography using what we know so far.
 
 You'll write several functions in `crypto.py` that are suitable for casual encryption.
 Feel free to use them to make messages harder for people who don't know the encryption to figure out,
@@ -40,7 +40,7 @@ The TAs will explain how this structure works for an example cipher at the begin
 
 # Ciphers to Implement
 
-Code up at least two of the following ciphers.
+Code up the two of the following ciphers and give some others a try if you'd like.
 Each should have two methods: one to encrypt, one to decrypt.
 For example, if you do the shift cipher, write both `encrypt_shift` and `decrypt_shift`.
 
@@ -126,7 +126,9 @@ Suggestions:
         -   This is much easier if you loop in a way that knows the indices of letters (e.g., `for i in range(...):`{.python}) because that index can be used *both* for the text *and* for the key
         -   Wrapping indices is easily accomplished using the `%` operator: `key[i % len(key)]`{.python}.
 
+# Additional ciphers to try
 
+If you get both [shift cipher] and [Vigenère cipher] working, feel free to try these as well.
 
 ## Autokey Cipher
 
@@ -239,7 +241,7 @@ Once you have a working encryption method or two, try communicating with someone
 
 # Code Breaking
 
-If you have extra time, try writing code to break encryption without knowing the key.
+If you have even more extra time, try writing code to break encryption without knowing the key.
 
 For `ceasar`, you might try a simple loop over possible keys and print them all; you can likely pick out the correct one pretty easily.  You can also use the observation that English texts generally have about 16% spaces and 13% `e`s to filter out some highly-unlikely keys that do not result in enough of these characters.
 
