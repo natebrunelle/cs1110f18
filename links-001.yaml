@@ -75,4 +75,19 @@
 2019-02-18:
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=561b6a25-8883-4e85-b4df-a9f801394c4c
     files: [/files/s19-001/print_return.py]
+    
+2019-02-22:
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=adb0d90b-44f7-4c34-ad22-a9fc01392fce
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/repetition.pptx
+    Slides pdf: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/repetition.pdf
+    files: [/files/s19-001/str_rules.py, /files/s19-001/list_rules.py, /files/s19-001/range_rules.py, /files/s19-001/tuple_rules.py]
+    
+2019-02-27:
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4deeec0-c9aa-42e5-a184-aa010139fe1a
+    
+2019-03-01:
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9b59e11-15e4-4214-8932-aa030139332a
+    Slides pptx: http://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L16_forLoops.pptx
+    files: [/files/s19-001/for_while.py, /files/s19-001/functions_loops.py, /files/s19-001/while_example.py, /files/s19-001/list_example.py]
+
 
