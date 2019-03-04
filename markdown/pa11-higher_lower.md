@@ -8,7 +8,7 @@ Write a file named `higher_lower.py` that plays a simple guessing game with the 
 
 
 
-The number to guess is either selected by the user or a randomly generated number between 1 and 100. The number of guesses is chosen by the user. On each turn, the program accepts one guess from the user. If the user guesses right, it will say “You win!”. If the user’s guess is higher or lower than the correct answer, the program will say “The number is higher than that.” (or “The number if lower than that.”).  If after the given number of guesses the user still hasn’t guessed right, print “You lose; the number was x.”, where x is the answer (the number the user was to guess).
+The number to guess is either selected by the user or a randomly generated number between 1 and 100. The number of guesses is chosen by the user. On each turn, the program accepts one guess from the user. If the user guesses right, it will say “You win!”. If the user’s guess is higher or lower than the correct answer, the program will say “The number is higher than that.” (or “The number is lower than that.”).  If after the given number of guesses the user still hasn’t guessed right, print “You lose; the number was x.”, where x is the answer (the number the user was to guess).
 
 
 
