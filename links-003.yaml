@@ -86,3 +86,8 @@
   files: [files/s19-003/20190304-slides.pdf, files/s19-003/20190304-for_examples.py,
     files/s19-003/20190304-hangman_bug.py]
   video: /screencasts/2019-03-04-003.webm
+2019-03-06:
+  audio: /screencasts/2019-03-06-003.mp3
+  files: [files/s19-003/20190306-slides.pdf, files/s19-003/20190306-list_functions.py,
+    files/s19-003/20190306-style_bad.py, files/s19-003/20190306-style_good.py]
+  video: /screencasts/2019-03-06-003.webm
