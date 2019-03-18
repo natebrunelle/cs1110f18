@@ -4,9 +4,11 @@ title: "Lab 9: Debugging - TA Guide"
 
 # Running the Lab
 
-Encourage them to work in teams.  More than 2 is OK for this lab.
+Have students select new partners.
 
 Review the debugging guide on the student site. Note: some instructors went over some of this in lecture, others did not, so their reaction to the review might vary.
+
+Start by doing a couple of example Nim games on the chalk/white board: one with a poor strategy, one with the strategy described in lab.
 
 Review the game strategy example on that site. Take questions to make sure they understand how to win at Nim.
 
