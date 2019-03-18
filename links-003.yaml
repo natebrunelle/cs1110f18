@@ -91,3 +91,9 @@
   files: [files/s19-003/20190306-slides.pdf, files/s19-003/20190306-list_functions.py,
     files/s19-003/20190306-style_bad.py, files/s19-003/20190306-style_good.py]
   video: /screencasts/2019-03-06-003.webm
+2019-03-08: {video: 'https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=24bdc933-18b4-42d7-82d7-aa0a00e72688'}
+2019-03-18:
+  audio: /screencasts/2019-03-18-003.mp3
+  files: [files/s19-003/20190318-slides.pdf, files/s19-003/20190318-loop_quiz.py,
+    files/s19-003/20190318-simple_guess.py]
+  video: /screencasts/2019-03-18-003.webm
