@@ -2,6 +2,10 @@
 title: Office Hours
 ...
 
+<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Get TA Help](https://kytos.cs.virginia.edu/ohq/?c=cs1110)</div>
+
+<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Meet your TAs](https://cs1110.cs.virginia.edu/tas.html)</div>
+
 Instructor office hours are held in their respective offices; see [the syllabus](syllabus.html) for times and places.
 
 TA office hours are held in "Stacks", the large room on the second floor of Thorton A-wing,
@@ -17,6 +21,4 @@ Unless otherwise announced, there are no office hours (TA or faculty) held on
 
 Office hours sometimes get busy; to request a TA, use [the TA office hour help request tool](https://kytos.cs.virginia.edu/ohq/?c=cs1110).
 
-<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Get TA Help](https://kytos.cs.virginia.edu/ohq/?c=cs1110)</div>
 
-<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Meet your TAs](https://cs1110.cs.virginia.edu/tas.html)</div>
