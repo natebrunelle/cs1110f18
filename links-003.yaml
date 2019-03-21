@@ -97,3 +97,8 @@
   files: [files/s19-003/20190318-slides.pdf, files/s19-003/20190318-loop_quiz.py,
     files/s19-003/20190318-simple_guess.py]
   video: /screencasts/2019-03-18-003.webm
+2019-03-20:
+  audio: /screencasts/2019-03-20-003.mp3
+  files: [files/s19-003/20190320-slides.pdf, files/s19-003/20190320-func_func.py,
+    files/s19-003/20190320-is_correct.py, testing.html]
+  video: /screencasts/2019-03-20-003.webm
