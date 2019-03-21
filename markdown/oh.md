@@ -21,4 +21,21 @@ Unless otherwise announced, there are no office hours (TA or faculty) held on
 
 Office hours sometimes get busy; to request a TA, use [the TA office hour help request tool](https://kytos.cs.virginia.edu/ohq/?c=cs1110).
 
+Here's what you should and should not expect during office hours
+
+You can Expect:
+- A brief interaction with a TA
+- OH to take place in Thornton Stacks
+- Assistance from TAs on programming assignments and understanding class material
+- TAs utilize an office hours queue to determine which student to work with
+
+Please Do NOT Expect:
+- To obtain solutions from TAs
+- Instead TAs may help you work through a problem or direct you to more resources
+- Immediate assistance upon arrival to Thornton Stacks
+- Due to student demand it might take a few minutes before a TA can work with you
+- TAs to work through an entire course section or assignments
+- Out of consideration for other students be prepared to get assistance on 1 topic or question at a time
+
+
 
