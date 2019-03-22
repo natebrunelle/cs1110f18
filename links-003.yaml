@@ -102,3 +102,10 @@
   files: [files/s19-003/20190320-slides.pdf, files/s19-003/20190320-func_func.py,
     files/s19-003/20190320-is_correct.py, testing.html]
   video: /screencasts/2019-03-20-003.webm
+2019-03-22:
+  audio: /screencasts/2019-03-22-003.mp3
+  files: [files/s19-003/20190322-slides.pdf, files/s19-003/20190322-dict_dict.py,
+    files/s19-003/20190322-dict_intro.py, files/s19-003/20190322-dict_like_list.py,
+    files/s19-003/20190322-dict_like_variable.py, files/s19-003/20190322-facebook_knows.py,
+    files/s19-003/20190322-spending_log.py, files/s19-003/20190322-try_me.py]
+  video: /screencasts/2019-03-22-003.webm
