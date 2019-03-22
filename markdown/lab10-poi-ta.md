@@ -2,6 +2,10 @@
 title: "Lab 10: Point of Interest - TA Guide"
 ...
 
+# Collaboration tips
+
+I will be putting some slides here for tips on collaborating with your project partners.
+
 # Exam Reminder
 
 Remind them that we have an exam next week, with [study topics and last semester's exam](review.html) linked from the schedule for the review day.
