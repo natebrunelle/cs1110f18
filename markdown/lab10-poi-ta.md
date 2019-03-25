@@ -19,6 +19,8 @@ Help them remember
 -   to split on commas
 -   use the provided distance code (it can be used as-is; not work to do on it)
 
+These [Slides](https://docs.google.com/presentation/d/1tWXdQNqalgMM0DGnrLrhE1AFU-XM-aU4IDt2zCF54hQ/edit#slide=id.p) may help.
+
 # On your feet
 
 As a mid-semester reminder, recall the following from the Lab 3 writeup:
