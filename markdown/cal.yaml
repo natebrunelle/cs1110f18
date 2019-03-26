@@ -232,8 +232,6 @@ assignments:
         files: higher_lower_player.py
         open: 2019-02-20
         due: 2019-03-20 10:00:00
-        late-days: 3
-        # late period extended due to multiple kytos offline events
     PA13:
         title: No longer required
         due: 2019-03-20 10:00:00
