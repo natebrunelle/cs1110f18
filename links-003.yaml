@@ -114,3 +114,11 @@
   files: [files/s19-003/20190325-slides.pdf, files/s19-003/20190325-election1.py,
     files/s19-003/20190325-election2.py, files/s19-003/20190325-enrollment.csv, files/s19-003/20190325-parse_csv.py]
   video: /screencasts/2019-03-25-003.webm
+2019-03-27:
+  audio: /screencasts/2019-03-27-003.mp3
+  files: [files/s19-003/20190327-slides.pdf, files/s19-003/20190327-enrollment.csv,
+    files/s19-003/20190327-on_reading.py, files/s19-003/20190327-parse_csv_from_file2.py,
+    files/s19-003/20190327-parse_csv_from_file.py]
+  video: /screencasts/2019-03-27-003.webm
+2019-03-29:
+  files: [files/vastats.csv]
