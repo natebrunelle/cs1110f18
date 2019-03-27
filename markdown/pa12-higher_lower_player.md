@@ -5,7 +5,7 @@ title: "PA 12: higher_lower_player.py"
 # Task
 
 Write a file named `higher_lower_player.py` that plays a simple guessing game with you.
-The game is the same as [the previous assignment](pa11-higher-lower.html),
+The game is the same as [the previous assignment](pa11-higher_lower.html),
 but the roles are reversed: you think of the number, the computer guesses.
 
 Before the game begins, the computer should ask how many guesses it gets.
