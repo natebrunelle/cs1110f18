@@ -4,7 +4,7 @@ title: "Lab 10: Point of Interest - TA Guide"
 
 # Collaboration tips
 
-I will be putting some slides here for tips on collaborating with your project partners.
+Here is a slide with a collaboration tip. Past semesters' students have expressed a desire for some of these tips for better communication/conflict resolution while working on their project. Please show [this slide](https://docs.google.com/presentation/d/1DEVzxsmpNAoCHJzpz8MmNNMLQ3VMoRvHw15XYyhE56o/edit#slide=id.g4cc4072aa6_0_100) to the students
 
 # Exam Reminder
 
