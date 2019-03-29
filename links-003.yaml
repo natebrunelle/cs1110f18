@@ -122,3 +122,11 @@
   video: /screencasts/2019-03-27-003.webm
 2019-03-29:
   files: [files/vastats.csv]
+2019-03-29:
+    mp3: /tmp/2019-03-29-702_0458.mp3
+    webm: /tmp/20190329-1.webm
+    files:
+        - /tmp/20190329-slides.pdf
+        - /tmp/20190329-use_vastats2.py
+        - /tmp/20190329-use_vastats.py
+        - /tmp/20190329-vastats.csv
