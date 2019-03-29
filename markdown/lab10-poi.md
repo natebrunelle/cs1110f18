@@ -7,6 +7,7 @@ title: "Lab 10: Point of Interest"
 
 The TAs will begin with some instruction. Here are the materials they're using, so you can follow along:
 
+*  [collaboration tip](https://docs.google.com/presentation/d/1DEVzxsmpNAoCHJzpz8MmNNMLQ3VMoRvHw15XYyhE56o/edit#slide=id.g4cc4072aa6_0_100)
 *  [Slides](https://docs.google.com/presentation/d/1tWXdQNqalgMM0DGnrLrhE1AFU-XM-aU4IDt2zCF54hQ/edit#slide=id.p)
 *  [sometext.txt](/files/f18/sometext.txt)
 *  [numberofwords.py](/files/f18/numberofwords.py)
