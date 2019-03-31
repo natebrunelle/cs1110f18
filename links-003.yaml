@@ -121,4 +121,7 @@
     files/s19-003/20190327-parse_csv_from_file.py]
   video: /screencasts/2019-03-27-003.webm
 2019-03-29:
-  files: [files/vastats.csv]
+  audio: /screencasts/2019-03-29-003.mp3
+  files: [files/s19-003/20190329-slides.pdf, files/s19-003/20190329-use_vastats2.py,
+    files/s19-003/20190329-use_vastats.py, files/s19-003/20190329-vastats.csv]
+  video: /screencasts/2019-03-29-003.webm

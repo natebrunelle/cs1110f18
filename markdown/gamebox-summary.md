@@ -66,8 +66,8 @@ b4 = b2.copy_at(50, 100) # x, y
 You can move, rotate, mirror-image, and resize gameboxes and change their image or color:
 
 ````python
-b1.move(5, 6)         # move 5 pixels leftward and 6 pixels downward
-b1.x -= 5             # move 5 pixels rightward
+b1.move(5, 6)         # move 5 pixels rightward and 6 pixels downward
+b1.x -= 5             # move 5 pixels leftward
 b1.left = 20          # puts edge at particular place (right/top/bottom work too)
 b1.x = 20             # puts midline at particular place (y works too)
 b1.center = [50, 100] # centers box at particular location
