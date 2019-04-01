@@ -92,17 +92,36 @@
     
 2019-03-04:
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea57e821-5120-4cad-abf4-aa0601392d05
+    files: [/files/s19-001/hangman_bug.py, /files/s19-001/loop_variables.py, /files/s19-001/slicing_example.py]
     
 2019-03-06:
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c4000640-e57e-4cc4-b0ca-aa0a00f51b28
+    files: [/files/s19-001/style_bad.py, /files/s19-001/style_good.py, /files/s19-001/double_it.py]
     
 2019-03-08:
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fac811c1-c191-431f-a6df-aa0a0139489b
+    files: [/files/s19-001/several_accumulators.py]
     
 2019-03-18:
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6aa94075-1e18-4d81-be26-aa140128b789
+    files: [/files/s19-001/printing_things.py, /files/s19-001/times_table.py, /files/s19-001/number_guess.py, /files/s19-001/mystery_function.py]
     
 2019-03-20:
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20705a97-4d5d-4aaa-a352-aa160128bc1d
+    files: [/files/s19-001/set_intro.py]
 
-
+2019-03-22:
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4178b18f-661b-4ce4-b71a-aa180128c245
+    files: [/files/s19-001/dict_intro.py, /files/s19-001/expendatures.py, /files/s19-001/remember_stuff.py, /files/s19-001/piglatin_translator.py]
+    
+2019-03-25:
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a23344c5-be32-4b0a-b966-aa1b0128b93b
+    files: [/files/s19-001/dictionary_collections.py, /files/s19-001/lunch_selection.py]
+    
+2019-03-27:
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f8bffd2d-0be3-44cb-999d-aa1d0128be8f
+    files: [/files/s19-001/shakespeare26.txt, /files/s19-001/counting_word_lengths.py]
+    
+2019-03-29:
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c881617-bba5-401b-bca8-aa1f0128bada
+    files: [/files/s19-001/csv_intro.py, /files/s19-001/least_pop_town.py, /files/s19-001/cities_vs_counties.py]
