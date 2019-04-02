@@ -125,3 +125,7 @@
   files: [files/s19-003/20190329-slides.pdf, files/s19-003/20190329-use_vastats2.py,
     files/s19-003/20190329-use_vastats.py, files/s19-003/20190329-vastats.csv]
   video: /screencasts/2019-03-29-003.webm
+2019-04-01:
+  audio: /screencasts/2019-04-01-003.mp3
+  files: [files/s19-003/20190401-slides.pdf]
+  video: /screencasts/2019-04-01-003.webm
