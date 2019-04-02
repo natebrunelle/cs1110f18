@@ -2,8 +2,8 @@
 title: "Lab 11: Counting Rooms Again"
 ...
 
-#CS Courses
-The TAs will spend a few minutes discussing the follow-up courses to cs1110 (the second-semester programming course is cs2110). Feel free to ask them any questions you may have about their experiences in the computer science curriculum.
+# CS Courses
+The TAs will spend a few minutes discussing the follow-up courses to cs1110 (the second-semester programming course is cs2110; there's also a [pilot](//pilot.cs.virginia.edu) of a new set of courses you are eligible for if you want to be a CS major). Feel free to ask them any questions you may have about their experiences in the computer science curriculum.
 
 # Pairing
 
@@ -41,7 +41,7 @@ Also in that folder, create a file named `rooms.py` and put inside it the follow
 <table><tbody><tr><td width="30%">
 ````python
 import robot
-r = robot.Robot(4)
+r = robot.Robot(6)
 r.say("Ready!")
 if r.check_north():
     r.west()
@@ -67,7 +67,8 @@ You can give the robot the following instructions
 
 ### Creation
 
-A robot can be created with an integer parameter (1, 2, 3, or 4) corresponding to the 4 tasks we defined in [lab 2](lab02-counting.html).
+A robot can be created with an integer parameter (1, 2, 3, or 8) corresponding to the 4 tasks we defined in [lab 2](lab02-counting.html);
+there are also a few others of intermediate difficulty (4 through 7), as the last task can be a bit of a jump.
 It can also be created with a string representing the exact room layout.
 
 ````python
@@ -326,18 +327,59 @@ The `robot.Robot(3)` invocation will place the robot somewhere within a rectangu
 
 </div></div>
 
+## Diamonds
+
+Complete the following functions
+
+````python
+def diamond1():
+    r = robot.Robot(4)
+    ...
+````
+
+````python
+def diamond2():
+    r = robot.Robot(5)
+    ...
+````
+
+Both  should end with the robot `.say`ing the number of rooms in the grid.
+The `robot.Robot(4)` invocation will place the robot at the top of a diamond; `robot.Robot(5)` randomly within a diamond.
+
+
+## Spirals
+
+Complete the following functions
+
+````python
+def spiral1():
+    r = robot.Robot(6)
+    ...
+````
+
+````python
+def spiral2():
+    r = robot.Robot(7)
+    ...
+````
+
+Both  should end with the robot `.say`ing the number of rooms in the grid.
+The `robot.Robot(6)` invocation will place the robot in the center of a spiral corridor; `robot.Robot(7)` randomly within a spiral corridor.
+
+
+
 ## Random set of rooms (if you're ambitious)
 
 Complete the following function
 
 ````python
 def middle():
-    r = robot.Robot(4)
+    r = robot.Robot(8)
     ...
 ````
 
 It should end with the robot `.say`ing the number of rooms in the grid.
-The `robot.Robot(4)` invocation will place the robot somewhere within some set of connected rooms
+The `robot.Robot(8)` invocation will place the robot somewhere within some set of connected rooms
 
 Design and implement a solution to this problem; it's not simple, so don't be worried if you find it challenging.
 Some ideas to consider:
