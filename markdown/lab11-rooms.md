@@ -326,7 +326,7 @@ The `robot.Robot(3)` invocation will place the robot somewhere within a rectangu
 
 </div></div>
 
-## Random set of rooms
+## Random set of rooms (if you're ambitious)
 
 Complete the following function
 
