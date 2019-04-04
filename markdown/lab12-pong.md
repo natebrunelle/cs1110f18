@@ -10,6 +10,27 @@ There will be
 1.  Initial partner planning for game project
 1.  Working on filling in missing code of a Pong game.
 
+# Help us know what works
+
+We have a few studies ongoing trying to understand and improve this course.
+It helps if we have some of your feedback.
+Please take a few minutes to fill out the survey linked below:
+
+<div style="display:table;margin: 1em auto;font-size:150%; padding:1ex; border:thin solid #e3e3e3; border-radius:4px; background:#f5f5f5;-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);" id="survey-link"></div>
+
+If you are really interested in helping, there are <span id="survey-count">1</span> surveys in total; reload this page to see another option.
+
+<script type="text/javascript">
+var survey_links = Array(
+"<a href='survey.html'>Survey on TA help</a>",
+"<a href='https://virginia.az1.qualtrics.com/jfe/form/SV_73bhKpVT8VFIXSR'>Survey on automated feedback</a>",
+);
+document.getElementById("survey-link").innerHTML 
+= survey_links[(Math.random()*survey_links.length)|0];
+document.getElementById("survey-count").innerHTML = survey_links.length;
+</script>
+
+
 # Pairing
 
 It is time to get ready for your [game project](project.html).
