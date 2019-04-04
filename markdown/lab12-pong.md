@@ -10,7 +10,7 @@ There will be
 1.  Initial partner planning for game project
 1.  Working on filling in missing code of a Pong game.
 
-# Help us know what works
+# Help us improve
 
 We have a few studies ongoing trying to understand and improve this course.
 It helps if we have some of your feedback.
