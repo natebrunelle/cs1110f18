@@ -286,7 +286,7 @@
   }
 ,"PA18":
   {"files":"spellcheck.py"
-  ,"open":"2019-04-04 00:00"
+  ,"open":"2019-04-05 00:00"
   ,"due":"2019-04-10 10:00"
   ,"group":"PA"
   ,"tester":"test_spellcheck.py"
@@ -306,7 +306,7 @@
 ,"PA19":
   {"files":["flappybird.py","*.jpg","*.png"]
   ,"writeup":"pa19-flappy.html"
-  ,"open":"2019-04-04 00:00"
+  ,"open":"2019-04-05 00:00"
   ,"due":"2019-04-15 10:00"
   ,"group":"PA"
   ,"late-policy":[0.75,0.75]
@@ -343,7 +343,7 @@
   }
 ,"PA20":
   {"files":"regex.py"
-  ,"open":"2019-04-04 00:00"
+  ,"open":"2019-04-06 00:00"
   ,"due":"2019-04-22 10:00"
   ,"group":"PA"
   ,"tester":"test_regex.py"
@@ -379,7 +379,7 @@
   }
 ,"PA21":
   {"files":"salary.py"
-  ,"open":"2019-04-04 00:00"
+  ,"open":"2019-04-06 00:00"
   ,"due":"2019-04-26 10:00"
   ,"group":"PA"
   ,"tester":"test_salary.py"

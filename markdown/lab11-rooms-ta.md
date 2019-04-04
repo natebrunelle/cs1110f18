@@ -32,6 +32,9 @@ If not majoring, or not having enough space in the coming year, the next courses
 - CS 2110 Software Development Methods
 - CS 2102 Discrete Mathematics
 
+# Collaboration tip
+Here is [a second Collaboration tip](https://docs.google.com/presentation/d/1bSOkar2XgpsyYCjng4iChchQr6HRB9xTUC7tJ9LhaxM/edit?usp=sharing)
+
 # Paring
 
 Explain that the final project will be paired.
