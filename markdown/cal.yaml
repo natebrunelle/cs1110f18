@@ -258,20 +258,20 @@ assignments:
 
     PA18:
         files: spellcheck.py
-        open: 2019-04-04
+        open: 2019-04-05
         due: 2019-04-10 10:00:00
     PA19:
         files: ["flappybird.py", "*.jpg", "*.png"]
         writeup: pa19-flappy.html
-        open: 2019-04-04
+        open: 2019-04-05
         due: 2019-04-15 10:00:00
     PA20:
         files: regex.py
-        open: 2019-04-04
+        open: 2019-04-06
         due: 2019-04-22 10:00:00
     PA21:
         files: salary.py
-        open: 2019-04-04
+        open: 2019-04-06
         due: 2019-04-26 10:00:00
         
     Checkpoint 1:
