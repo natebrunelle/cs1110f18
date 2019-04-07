@@ -129,3 +129,9 @@
   audio: /screencasts/2019-04-01-003.mp3
   files: [files/s19-003/20190401-slides.pdf]
   video: /screencasts/2019-04-01-003.webm
+2019-04-05:
+  audio: /screencasts/2019-04-05-003.mp3
+  files: [files/s19-003/20190405-slides.pdf, files/s19-003/20190405-gamebox.py, files/s19-003/20190405-game_template.py,
+    files/s19-003/20190405-platformer1.py, files/s19-003/20190405-platformer2.py,
+    files/s19-003/20190405-platformer3.py, files/s19-003/20190405-python-logo.png]
+  video: /screencasts/2019-04-05-003.webm
