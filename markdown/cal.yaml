@@ -254,7 +254,7 @@ assignments:
     PA17:
         files: lous_list.py
         open: 2019-04-04
-        due: 2019-04-08 10:00:00
+        due: 2019-04-09 10:00:00
 
     PA18:
         files: spellcheck.py
