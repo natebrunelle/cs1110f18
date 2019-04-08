@@ -129,7 +129,6 @@
 2019-04-05:
     files: [/files/s19-001/basic_game.py, /files/s19-001/basic_gravity.py, /files/s19-001/basic_controls.py]
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2891b069-6294-4f4a-b6b3-aa26012aee38
-    slides: https://cs1110.cs.virginia.edu/files/s19-001/L29_gamebox.pptx
     
 2019-04-08:
     files:[/files/s19-001/swoosh.zip]
