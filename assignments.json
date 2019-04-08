@@ -276,24 +276,13 @@
 ,"PA17":
   {"files":"lous_list.py"
   ,"open":"2019-04-04 00:00"
-  ,"due":"2019-04-09 10:00"
+  ,"due":"2019-04-11 10:00"
   ,"group":"PA"
   ,"tester":"test_lous_list.py"
   ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   ,"title":"lous_list"
-  }
-,"PA18":
-  {"files":"spellcheck.py"
-  ,"open":"2019-04-05 00:00"
-  ,"due":"2019-04-10 10:00"
-  ,"group":"PA"
-  ,"tester":"test_spellcheck.py"
-  ,"late-policy":[0.75,0.75]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"spellcheck"
   }
 ,"Lab12":
   {"title":"pong"
@@ -302,6 +291,17 @@
   ,"open":"2019-04-11 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
+  }
+,"PA18":
+  {"files":"spellcheck.py"
+  ,"open":"2019-04-05 00:00"
+  ,"due":"2019-04-12 10:00"
+  ,"group":"PA"
+  ,"tester":"test_spellcheck.py"
+  ,"late-policy":[0.75,0.75]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"spellcheck"
   }
 ,"PA19":
   {"files":["flappybird.py","*.jpg","*.png"]
