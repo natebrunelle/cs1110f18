@@ -133,5 +133,12 @@
   audio: /screencasts/2019-04-05-003.mp3
   files: [files/s19-003/20190405-slides.pdf, files/s19-003/20190405-gamebox.py, files/s19-003/20190405-game_template.py,
     files/s19-003/20190405-platformer1.py, files/s19-003/20190405-platformer2.py,
-    files/s19-003/20190405-platformer3.py, files/s19-003/20190405-python-logo.png]
+    files/s19-003/20190405-platformer3.py]
   video: /screencasts/2019-04-05-003.webm
+2019-04-08:
+  audio: /screencasts/2019-04-08-003.mp3
+  files: [files/s19-003/20190408-slides.pdf, files/s19-003/20190408-gamebox.py, files/s19-003/20190408-platformer4.py,
+    files/s19-003/20190408-platformer5.py, files/s19-003/20190408-platformer6_infinite.py,
+    files/s19-003/20190408-space1.py, files/s19-003/20190408-space2.py, files/s19-003/20190408-space3.py,
+    files/s19-003/20190408-space4_strange.py, files/s19-003/20190408-space5.py]
+  video: /screencasts/2019-04-08-003.webm
