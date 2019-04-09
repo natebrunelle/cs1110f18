@@ -31,6 +31,7 @@ Your number was generated randomly and is not correlated in any way to your name
 **Using data beyond this study:** The data you provide in this study will be reported in aggregate with no identifying information. Specific data will be retained in a secure manner by the researcher for one year and then destroyed.
 
 **If you have questions about the study, contact: **
+
 **Rossi McCall**
 Computer Science  
 University of Virginia, Charlottesville, VA 22903.  
@@ -44,7 +45,8 @@ University of Virginia, Charlottesville, VA 22904.
 Telephone: 434-243-3789?  
 tychonievich@virginia.edu
 
-**To obtain more information about the study, ask questions about the research procedures, express concerns about your participation, or report illness, injury or other problems, please contact:**  
+**To obtain more information about the study, ask questions about the research procedures, express concerns about your participation, or report illness, injury or other problems, please contact:** 
+ 
 **Tonya R. Moon, Ph.D. **
 Chair, Institutional Review Board for the Social and Behavioral Sciences  
 One Morton Dr Suite 500  
