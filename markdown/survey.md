@@ -32,13 +32,13 @@ Your number was generated randomly and is not correlated in any way to your name
 
 **If you have questions about the study, contact: **
 
-**Rossi McCall**
+**Rossi McCall**    
 Computer Science  
 University of Virginia, Charlottesville, VA 22903.  
 Telephone: 757-404-0862  
 rem8aj@virginia.edu
 
-**Luther Tychonievich **
+**Luther Tychonievich**    
 Computer Science  
 85 Engineer's Way  
 University of Virginia, Charlottesville, VA 22904.  
@@ -47,7 +47,7 @@ tychonievich@virginia.edu
 
 **To obtain more information about the study, ask questions about the research procedures, express concerns about your participation, or report illness, injury or other problems, please contact:** 
  
-**Tonya R. Moon, Ph.D. **
+**Tonya R. Moon, Ph.D.**    
 Chair, Institutional Review Board for the Social and Behavioral Sciences  
 One Morton Dr Suite 500  
 University of Virginia, P.O. Box 800392  
