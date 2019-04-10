@@ -8,10 +8,13 @@ In a file named `flappybird.py`, implement a [FlappyBird](https://flappybird.me/
 
 <!--
 - Gravity causes continual downward acceleration, not downward speed or downward teleportation
+    - i.e., the longer we go without pressing flap, the faster the bird is moving downward each frame
 - A flap should be
     - accomplished by a single key press or mouse click
     - result in a sudden increase in upward velocity
     - not allow holding down the key or mouse to rocket upward
+        - either require distinct clicks/presses for each flap
+        - or have a held button/key only flap periodically
 - The screen should scroll sideways at a steady pace, with the bird not moving horizontally relative to the screen
 - The pillars should be
     - paired, with one coming from the top and another from the bottom at each point
