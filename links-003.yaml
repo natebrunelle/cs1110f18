@@ -142,3 +142,10 @@
     files/s19-003/20190408-space1.py, files/s19-003/20190408-space2.py, files/s19-003/20190408-space3.py,
     files/s19-003/20190408-space4_strange.py, files/s19-003/20190408-space5.py]
   video: /screencasts/2019-04-08-003.webm
+2019-04-10:
+  audio: /screencasts/2019-04-10-003.mp3
+  files: [files/s19-003/20190410-slides.pdf, files/s19-003/20190410-levels_etc.py,
+    files/s19-003/20190410-minimal_spritesheet.py, files/s19-003/20190410-platformer7_infinite.py,
+    files/s19-003/20190410-platformer8_infinite.py, files/s19-003/20190410-shooting.py,
+    files/s19-003/20190410-space6_chase.py, files/s19-003/20190410-use_mouse.py]
+  video: /screencasts/2019-04-10-003.webm
