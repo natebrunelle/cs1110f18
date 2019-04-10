@@ -6,6 +6,24 @@ title: "PA 19: flappybird.py"
 
 In a file named `flappybird.py`, implement a [FlappyBird](https://flappybird.me/)-like game using pygame.
 
+<!--
+- Gravity causes continual downward acceleration, not downward speed or downward teleportation
+- A flap should be
+    - accomplished by a single key press or mouse click
+    - result in a sudden increase in upward velocity
+    - not allow holding down the key or mouse to rocket upward
+- The screen should scroll sideways at a steady pace, with the bird not moving horizontally relative to the screen
+- The pillars should be
+    - paired, with one coming from the top and another from the bottom at each point
+    - with randomly-positioned openings, infinitely (not repeating or ending)
+    - spaced so that winning is possible, but not necessarily easy
+- Touching a pillar or the edge of the screen should end the game
+- Score is a function of how long you survive, how many pillars you pass, or the equivalent
+    - Score must be shown on-screen at the end of the game
+    - Score may be shown continually or not, at your preference
+- The window should be no more than 800×600 pixels, in order to fit on all TA's screens
+-->
+
 In particular,
 
 -   There should be one kind if user input, a vertical flap action triggered by either a mouse click or the space bar (your choice) 
