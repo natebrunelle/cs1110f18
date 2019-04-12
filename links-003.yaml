@@ -149,3 +149,7 @@
     files/s19-003/20190410-platformer8_infinite.py, files/s19-003/20190410-shooting.py,
     files/s19-003/20190410-space6_chase.py, files/s19-003/20190410-use_mouse.py]
   video: /screencasts/2019-04-10-003.webm
+2019-04-12:
+  audio: /screencasts/2019-04-12-003.mp3
+  files: [files/s19-003/20190412-slides.pdf]
+  video: /screencasts/2019-04-12-003.webm
