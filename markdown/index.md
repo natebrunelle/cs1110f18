@@ -23,13 +23,15 @@ The final exam will take place on Saturday, May 4, 7-10PM. The location is deter
 
 Section |Instructor            |Place
 --------|----------------------|-----------------------
-1110-001|Nathan Brunelle       |Clark 107 and Clark 108
+1110-001|Nathan Brunelle       |Clark 107 and Clark 108 (see below)
 1110-002|Craig Dill (12pm)     |Olsson 120
 1110-003|Luther Tychonievich   |Gilmer Hall 130
 1110-004|Craig Dill (1pm)      |Nau 101
 1111    |Upsorn Praphamontripong|Thornton E303
 
 If you have a direct conflict with our Final Exam, the make-up time will be Sunday, May 5, 9am-12pm in Rice 130. To get permission to take the exam at the make-up time fill out [this form](https://forms.gle/u7PcNZRaQAwkMTGT8) by 11:59pm April 19.
+
+Section 001 was given 2 rooms for the exam. To ensure that we have an equal number of students in each room, you have been assigned to a room based on your computing id. If the number in your computing id is even, you will take the exam in Clark 108. If it is odd, you will take the exam in Clark 107. For example, Prof. Brunelle's computing id is njb2b, so he would take the exam in Clark 108 since 2 is even.
 
 ## Lab Sections
 
