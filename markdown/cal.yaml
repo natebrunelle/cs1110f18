@@ -344,3 +344,25 @@ assignments:
                 - Code has some organization
                 - Code has some comments or documentation
                 - Game window size is within 800-by-600 limit
+
+    Exam2 Wrapper:
+        due: 2019-04-19 23:59:00
+        files: [exam2wrap.txt]
+        link: exam2.html
+        weight: 0.5
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - attempted a wrapper
+                - has reflection on study
+                - reflection is insightful
+                - has corrected answers
+                - all wrong answers corrected
+                - corrected answer have explanations
+                - some explanations are insightful
+                - all explanations are correct
+                - has plans for future
+                - plans seem likely to improve learning
