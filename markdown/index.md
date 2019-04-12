@@ -16,21 +16,21 @@ Section |Time             |Place                 |Instructor
 1110-004|MoWeFr 1–1:50PM  |Olsson Hall 120	     |Craig Dill
 1111    |MoWe 2–3:15PM    |Thornton Hall E303    |Upsorn Praphamontripong
 
-<!--
+
 ## Final Exam Times
 
-The final exam will take place on Tues, Dec 11, 7-10PM. The location is determined by which lecture section you are enrolled in. You must take the exam with your official lecture section.
+The final exam will take place on Saturday, May 4, 7-10PM. The location is determined by which lecture section you are enrolled in. You must take the exam with your official lecture section.
 
 Section |Instructor            |Place
 --------|----------------------|-----------------------
-1110-001|Nathan Brunelle       |Maury Hall 209
-1110-002|Craig Dill            |Gilmer Hall 130
-1110-003|Craig Dill            |Gilmer Hall 130
-1110-004|Panagiotis Apostollelis|Clark Hall 107
-1111    |Upsorn Praphamontripong|Clark Hall 108
+1110-001|Nathan Brunelle       |Clark 107 and Clark 108
+1110-002|Craig Dill            |Olsson 120
+1110-003|Luther Tychonievich   |Gilmer Hall 130
+1110-004|Craig Dill            |Nau 101
+1111    |Upsorn Praphamontripong|Thornton E303
 
-If you have a direct conflict with our Final Exam, the make-up time will be Thurs, Dec 13, 9am-12pm in Olsson 120. To get permission to take the exam at the make-up time fill out [this form](https://goo.gl/forms/J5NYLQX1DghwDu5J3) by 11:59pm Monday Dec 3.
--->
+If you have a direct conflict with our Final Exam, the make-up time will be Sunday, May 5, 9am-12pm in Rice 130. To get permission to take the exam at the make-up time fill out [this form](https://forms.gle/u7PcNZRaQAwkMTGT8) by 11:59pm April 19.
+
 ## Lab Sections
 
 |Section |Time            |Place       |
