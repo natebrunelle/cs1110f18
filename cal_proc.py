@@ -230,7 +230,7 @@ def calendar(data,l001={},l002={},l003={},l1111={}):
         noclass = any(a <= d <= b for a,b in breaks)
         if d in things or ((not noclass) and wd in ('Mon','Wed','Fri')):
             today = {'day':wd, 'date':d}
-            if any('xam' in _ for _ in things.get(d,[])):
+            if any('xam' in _ for _ in things.get(d,[]) if 'rapper' not in _):
                 today['1110'] = today['1111'] = 'exam'
             else:
                 if (not noclass) and wd in ('Mon','Wed'): 
