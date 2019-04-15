@@ -7,6 +7,15 @@ title: "Lab 13: Email Finder"
 For this and all subsequent labs, you will work in pairs.
 This need not be your game project partner, though it may be if you are in the same lab and wish to work together on this task too.
 
+# Help us improve
+
+We have a few studies ongoing trying to understand and improve this course.
+It helps if we have some of your feedback.
+Please take a few minutes to fill out the survey linked below:
+
+<div style="display:table;margin: 1em auto;font-size:150%; padding:1ex; border:thin solid #e3e3e3; border-radius:4px; background:#f5f5f5;-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);" id="survey-link"><a href="https://www.surveymonkey.com/r/LighthouseECSpring2019PostSurvey">Survey</a></div>
+
+
 # Activity
 
 Spammers sometimes search the web for email addresses.
