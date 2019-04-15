@@ -25,8 +25,8 @@ Section |Instructor            |Place
 --------|----------------------|-----------------------
 1110-001|Nathan Brunelle       |Clark 107 and Clark 108 (see below)
 1110-002|Craig Dill (12pm)     |Olsson 120
-1110-003|Luther Tychonievich   |Gilmer Hall 130
-1110-004|Craig Dill (1pm)      |Nau 101
+1110-003|Luther Tychonievich   |Nau 101
+1110-004|Craig Dill (1pm)      |Olsson 120
 1111    |Upsorn Praphamontripong|Thornton E303
 
 If you have a direct conflict with our Final Exam, the make-up time will be Sunday, May 5, 9am-12pm in Rice 130. To get permission to take the exam at the make-up time fill out [this form](https://forms.gle/u7PcNZRaQAwkMTGT8) by 11:59pm April 19.
