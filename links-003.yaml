@@ -153,3 +153,8 @@
   audio: /screencasts/2019-04-12-003.mp3
   files: [files/s19-003/20190412-slides.pdf]
   video: /screencasts/2019-04-12-003.webm
+2019-04-15:
+  audio: /screencasts/2019-04-15-003.mp3
+  files: [files/s19-003/20190415-slides.pdf, files/s19-003/20190415-first_regexes.py,
+    files/s19-003/20190415-re_split_replace.py]
+  video: /screencasts/2019-04-15-003.webm
