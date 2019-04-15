@@ -341,6 +341,31 @@
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
+,"Exam2 Wrapper":
+  {"due":"2019-04-19 23:59"
+  ,"files":["exam2wrap.txt"]
+  ,"writeup":"exam2.html"
+  ,"weight":0.5
+  ,"rubric":
+    {"kind":"hybrid"
+    ,"auto-weight":0
+    ,"auto-late-days":0
+    ,"late-penalty":1
+    ,"human":
+      ["attempted a wrapper"
+      ,"has reflection on study"
+      ,"reflection is insightful"
+      ,"has corrected answers"
+      ,"all wrong answers corrected"
+      ,"corrected answer have explanations"
+      ,"some explanations are insightful"
+      ,"all explanations are correct"
+      ,"has plans for future"
+      ,"plans seem likely to improve learning"
+      ]
+    }
+  ,"group":"Exam"
+  }
 ,"PA20":
   {"files":"regex.py"
   ,"open":"2019-04-06 00:00"

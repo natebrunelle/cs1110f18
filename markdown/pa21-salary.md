@@ -38,6 +38,8 @@ If given                    Create
 `161048349`                 `161048349`
 `Polanowska-Grabow, Renata` `renata-polanowska-grabow`
 
+Tip: Regexes are not required here.
+
 ## Find job title
 
 Job title, e.g. the `President University of Virginia`, which can be found in multiple locations in the website:

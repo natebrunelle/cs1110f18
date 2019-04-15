@@ -16,21 +16,23 @@ Section |Time             |Place                 |Instructor
 1110-004|MoWeFr 1–1:50PM  |Olsson Hall 120	     |Craig Dill
 1111    |MoWe 2–3:15PM    |Thornton Hall E303    |Upsorn Praphamontripong
 
-<!--
+
 ## Final Exam Times
 
-The final exam will take place on Tues, Dec 11, 7-10PM. The location is determined by which lecture section you are enrolled in. You must take the exam with your official lecture section.
+The final exam will take place on Saturday, May 4, 7-10PM. The location is determined by which lecture section you are enrolled in. You must take the exam with your official lecture section.
 
 Section |Instructor            |Place
 --------|----------------------|-----------------------
-1110-001|Nathan Brunelle       |Maury Hall 209
-1110-002|Craig Dill            |Gilmer Hall 130
-1110-003|Craig Dill            |Gilmer Hall 130
-1110-004|Panagiotis Apostollelis|Clark Hall 107
-1111    |Upsorn Praphamontripong|Clark Hall 108
+1110-001|Nathan Brunelle       |Clark 107 and Clark 108 (see below)
+1110-002|Craig Dill (12pm)     |Olsson 120
+1110-003|Luther Tychonievich   |Nau 101
+1110-004|Craig Dill (1pm)      |Olsson 120
+1111    |Upsorn Praphamontripong|Thornton E303
 
-If you have a direct conflict with our Final Exam, the make-up time will be Thurs, Dec 13, 9am-12pm in Olsson 120. To get permission to take the exam at the make-up time fill out [this form](https://goo.gl/forms/J5NYLQX1DghwDu5J3) by 11:59pm Monday Dec 3.
--->
+If you have a direct conflict with our Final Exam, the make-up time will be Sunday, May 5, 9am-12pm in Rice 130. To get permission to take the exam at the make-up time fill out [this form](https://forms.gle/u7PcNZRaQAwkMTGT8) by 11:59pm April 19.
+
+Section 001 was given 2 rooms for the exam. To ensure that we have an equal number of students in each room, you have been assigned to a room based on your computing id. If the number in your computing id is even, you will take the exam in Clark 108. If it is odd, you will take the exam in Clark 107. For example, Prof. Brunelle's computing id is njb2b, so he would take the exam in Clark 108 since 2 is even.
+
 ## Lab Sections
 
 |Section |Time            |Place       |
