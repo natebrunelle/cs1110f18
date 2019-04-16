@@ -19,7 +19,7 @@ Please take a few minutes to fill out the survey linked below:
 # Activity
 
 Spammers sometimes search the web for email addresses.
-People who want people to cantact them, but not spammers, sometimes post their addresses in an obfuscated form.
+People who want people to contact them, but not spammers, sometimes post their addresses in an obfuscated form.
 Spammers write programs to detect this obfuscation.
 People come up with new ones.
 Etc.
