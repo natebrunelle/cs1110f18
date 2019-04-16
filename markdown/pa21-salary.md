@@ -8,9 +8,9 @@ A lot of information is freely available on the web, but not a lot of it is in f
 A common use of regular expressions is to understand or **parse** data from a human-centric view like a webpage into a computer-centric view like CSV.
 
 One source of data is [the Richmond Times-Dispatch's summary of Virginia state salaries](http://data.richmond.com/salaries/)'s, obtained using the state's [Freedom of Information statute](http://foiacouncil.dls.virginia.gov/).
-To avoid overloading the newpaper's website with hundreds students testing their code, we have a mirror of the 2016--2017 UVA salary data you can have your code access on our servers for this assignment.
+To avoid overloading the newpaper's website with hundreds students testing their code, we have a mirror of the 2018--2019 UVA salary data you can have your code access on our servers for this assignment.
 
-> <http://cs1110.cs.virginia.edu/files/uva2016/>
+> <http://cs1110.cs.virginia.edu/files/uva2018/>
 
 When you visit a page, you see a rendering of the content, but under the hood most web pages are written in a language called HTML.
 Like Python, this is a text-based representation that describes what the computer is supposed to do.
@@ -22,21 +22,21 @@ The source is what `urllib.request` will retrieve, what your regular expressions
 
 # Task
 
-The following writeup describes elements of the task you are to do, mostly with examples taken from the "view source" of [Teresa Sullivan's page](https://cs1110.cs.virginia.edu/files/uva2016/teresa-sullivan).
+The following writeup describes elements of the task you are to do, mostly with examples taken from the "view source" of [Jim Ryan's page](https://cs1110.cs.virginia.edu/files/uva2018/james-e-ryan).
 Your job is to generalize the pattern and put it in a regular expression.
 Some information has multiple locations; you only need to find one of the options.
 
 ## Name normalization
 
-The URLs use full names, family name last, lower-case, with hyphens between name parts.
+The URLs use full names, family name last, lower-case, with hyphens between name parts and no other punctuation.
 
-If given                    Create
---------------------------- ------------------------------
-`Teresa Sullivan`           `teresa-sullivan`
-`Sullivan, Teresa`          `teresa-sullivan`
-`teresa-sullivan`           `teresa-sullivan`
-`161048349`                 `161048349`
-`Polanowska-Grabow, Renata` `renata-polanowska-grabow`
+If given                        Create
+-----------------------------   ------------------------------
+`James E. Ryan`                 `james-e-ryan`
+`Ryan, James E`                 `james-e-ryan`
+`james-e-ryan`                  `james-e-ryan`
+`161048349`                     `161048349`
+`Slaughter-Scott, Jacqueline`   `jacqueline-slaughter-scott`
 
 Tip: Regexes are not required here.
 
@@ -44,7 +44,7 @@ Tip: Regexes are not required here.
 
 Job title, e.g. the `President University of Virginia`, which can be found in multiple locations in the website:
 
-    <meta property="og:description" content="Job title: President University of Virginia<br /> 2016 total gross pay: $754,830" />
+    <meta property="og:description" content="Job title: President University of Virginia<br /> 2018 total gross pay: $750,000" />
 
 and
 
@@ -52,33 +52,34 @@ and
 
 (the `<title>` line also has a job title, but with the wrong case; use one of the two above)
 
-You'll need a regular expression that (a) finds one of those lines and (b) has a group (parentheses) around the portion that is the job title (`President - University of Virginia`).
+You'll need a regular expression that (a) finds one of those lines and (b) has a group (parentheses) around the portion that is the job title (`President University of Virginia`).
 
-After you get the group, if the job title contains `&amp;`, replace it with just `&`; likewise replace `&lt;` with `<` and `&gt;` with `>`.
+After you get the group, if the job title contains `&amp;`, replace it with just `&`; likewise replace `&#39;` with `'`. For example, employee `181009456` has the listed job title `Store &amp; Warehouse Spec III` which should be presented as just `Store & Warehouse Spec III`; `181016364` is another good employee to test.
+
 
 
 ## Find total compensation
 
 Total compensation appears in multiple locations:
 
-    <meta property="og:description" content="Job title: President University of Virginia<br /> 2016 total gross pay: $754,830" />
+    <meta property="og:description" content="Job title: President University of Virginia<br /> 2018 total gross pay: $750,000" />
 
 and
     
-    <h2 class="pay" id="paytotal">$754,830</h2>
+    <h2 class="pay" id="paytotal">$750,000</h2>
 
 and
     
-     <div style="margin:0; float:left; background:#337ab7; height:100%; width:<%= getPct(paytype.amount, 754830.00) %>%;"></div>
+    <div style="margin:0; float:left; background:#337ab7; height:100%; width:<%= getPct(paytype.amount, 750000) %>%;"></div>
      
-Make a regular expression that finds one of these lines and has a group for the salary, and convert it to a `float` (`754830.0`{.python} in this case).
+Make a regular expression that finds one of these lines and has a group for the salary, and convert it to a `float` (`750000.0`{.python} in this case).
 
 
 ## Find rank, if given
 
 Some (but not all) pages have a pay rank compared to other UVA employees; for example, the `1` in
 
-    <tr><td>University of Virginia rank</td><td>1 of 7,927</td></tr>
+    <tr><td>University of Virginia rank</td><td>1 of 8,582<!--not null --></td></tr>
 
 If it is present, you'll want to turn it into an `int`{.python}.
 If not, use the dummy-rank of `0`.
@@ -113,11 +114,11 @@ If in a separate file you write
 import salary
 
 for name in (
-        'Teresa Sullivan', 
-        'Sullivan, Teresa', 
-        '161048349', 
-        'Ali Reza Forghani Esfahani', 
-        'pamela-neff',
+        'James E. Ryan', 
+        'Ryan, James E', 
+        '181067633', 
+        'Hao Ran Laurenc Lin', 
+        '181016364',
         'Thomas Jefferson'
         ):
     job, money, rank = salary.report(name)
@@ -127,11 +128,11 @@ for name in (
 You should see
 
 ````
-Teresa Sullivan is a President University of Virginia and makes 754830.0 (rank 1)
-Sullivan, Teresa is a President University of Virginia and makes 754830.0 (rank 1)
-161048349 is a Multimedia Creative Technician and makes 33000.0 (rank 0)
-Ali Reza Forghani Esfahani is a Lab Specialist 3-LAB49 and makes 62745.0 (rank 4015)
-pamela-neff is a Laboratory & Research Spec II and makes 58496.0 (rank 4365)
+James E. Ryan is a President University of Virginia and makes 750000.0 (rank 1)
+Ryan, James E is a President University of Virginia and makes 750000.0 (rank 1)
+181067633 is a Hsekeep &/or Apparel Worker I and makes 23120.0 (rank 0)
+Hao Ran Laurenc Lin is a Research Associate and makes 56600.0 (rank 5253)
+181016364 is a WS Head Coach, Women's Basketb and makes 46000.0 (rank 0)
 Thomas Jefferson is a None and makes 0 (rank 0)
 ````
 
@@ -163,6 +164,7 @@ for example it might make sense to have a `name_to_URL(name)` function, etc.
 
 Incidentally, the `name_to_url` proceess does not need regular expressions; it is enough to 
 
+1.  remove periods
 1.  find a comma (using `in`{.python}) and reorder the text if there is one (move what was before the comma to be after it)
 2.  make it lower-case
 3.  change spaces to hyphens
