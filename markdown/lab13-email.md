@@ -2,10 +2,10 @@
 title: "Lab 13: Email Finder"
 ...
 
-# Pairing
+# Collaboration Tips for the day
 
-For this and all subsequent labs, you will work in pairs.
-This need not be your game project partner, though it may be if you are in the same lab and wish to work together on this task too.
+We hope this helps you to work well with your partner! [https://docs.google.com/presentation/d/1bSOkar2XgpsyYCjng4iChchQr6HRB9xTUC7tJ9LhaxM/edit?usp=sharing](collaboration tip 1) [https://docs.google.com/presentation/d/1LEuM9jxAlkbSZ0p6MnMH5cgqKEVyYuBN-Ltd2a5Qwxg/edit?usp=sharing](collaboration tip 2).
+
 
 # Help us improve
 
