@@ -158,3 +158,8 @@
   files: [files/s19-003/20190415-slides.pdf, files/s19-003/20190415-first_regexes.py,
     files/s19-003/20190415-re_split_replace.py]
   video: /screencasts/2019-04-15-003.webm
+2019-04-17:
+  audio: /screencasts/2019-04-17-003.mp3
+  files: [files/s19-003/20190417-slides.pdf, files/s19-003/20190417-favorite_words.py,
+    files/s19-003/20190417-re_bit_by_bit.py, files/s19-003/20190417-re_replace.py]
+  video: /screencasts/2019-04-17-003.webm
