@@ -4,7 +4,7 @@ title: "Lab 13: Email Finder"
 
 # Collaboration Tips for the day
 
-We hope this helps you to work well with your partner! [collaboration tip 1](https://docs.google.com/presentation/d/1bSOkar2XgpsyYCjng4iChchQr6HRB9xTUC7tJ9LhaxM/edit?usp=sharing) [collaboration tip 2](https://docs.google.com/presentation/d/1LEuM9jxAlkbSZ0p6MnMH5cgqKEVyYuBN-Ltd2a5Qwxg/edit?usp=sharing).
+We hope this helps you to work well with your partner! [collaboration tip 1](https://docs.google.com/presentation/d/1bSOkar2XgpsyYCjng4iChchQr6HRB9xTUC7tJ9LhaxM/edit?usp=sharing), [collaboration tip 2](https://docs.google.com/presentation/d/1LEuM9jxAlkbSZ0p6MnMH5cgqKEVyYuBN-Ltd2a5Qwxg/edit?usp=sharing).
 
 
 # Help us improve
