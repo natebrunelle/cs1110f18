@@ -134,6 +134,16 @@
         
 2019-04-08:
     files: [/files/s19-001/swoosh.zip]
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba834a80-64ed-4e36-8e27-aa290128b02e
     
 2019-04-10:
     files: [/files/s19-001/complete_splat.zip]
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b92b952-4377-44de-97ba-aa2b0128b66d
+    
+2019-04-15:
+    files: [/files/s19-001/compid_filter.py]
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f389e1f0-48ee-4777-9beb-aa2d01291bd6
+    
+2019-04-17:
+    files: [/files/s19-001/regex_name.py, /files/s19-001/regex_phone.py]
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54fcd20a-4b64-412b-a7b5-aa300128ce9c 
