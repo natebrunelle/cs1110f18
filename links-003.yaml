@@ -169,8 +169,7 @@
   video: /screencasts/2019-04-19-003.webm
 2019-04-22:
   audio: /screencasts/2019-04-22-003.mp3
-  files: [files/s19-003/20190422-slides.pdf, files/s19-003/20190422-candy_name.txt,
-    files/s19-003/20190422-friendly.py, files/s19-003/20190422-more_friendly2.py,
-    files/s19-003/20190422-more_friendly3.py, files/s19-003/20190422-more_friendly.py,
-    files/s19-003/20190422-user_name.txt]
+  files: [files/s19-003/20190422-slides.pdf, 
+    files/s19-003/20190422-friendly.py, files/s19-003/20190422-more_friendly.py,
+    files/s19-003/20190422-more_friendly2.py, files/s19-003/20190422-more_friendly3.py]
   video: /screencasts/2019-04-22-003.webm
