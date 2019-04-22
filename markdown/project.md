@@ -78,9 +78,9 @@ Timer
 :   Have a countdown (or count up) timer for your game.
     For full points, this needs to make some kind of sense within the context of the game itself.
 
-Health meter
-:   Have a health meter that changes as you hit enemies/obstacles.
-    It's only a *health* meter if it getting to 0 results in loss of game (or re-spawning at a save point).
+Health Bar
+:   Have a health bar that changes as you hit enemies/obstacles. A bar must be graphical (not simply text), and lowering health should remove items from or shorten the bar.
+    It's only a *health* bar if it getting to 0 health results in loss of game (or re-spawning at a save point).
 
 Two players simultaneously
 :   Two players who are able to interact with one another within the game.
