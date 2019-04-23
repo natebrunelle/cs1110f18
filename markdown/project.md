@@ -188,7 +188,7 @@ This checkpoint is due at 5:00 AM Friday morning, and late submissions are *not*
 
 Should be the entire game.
 
-This submission is due at 11:59 PM Friday night, and per university policy late submissions are *not* accepted.
+This submission is due at 11:59 PM Monday night April 29, and per university policy late submissions are *not* accepted.
 
 ## Uploading files beyond `game.py`
 
