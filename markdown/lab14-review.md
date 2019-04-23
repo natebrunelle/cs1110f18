@@ -27,7 +27,9 @@ but it will let us review with a (hopefully) fun element of competition.
 One (1) member of each team should go to the proper link for your lab Building:
 
 > [Olsson 001](https://stardock.cs.virginia.edu/quiz/)
+>
 > [Olsson 009](https://stardock.cs.virginia.edu/olsquiz/)
+>
 > [MEC](https://stardock.cs.virginia.edu/mecquiz/)
 
 
