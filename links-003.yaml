@@ -178,3 +178,7 @@
     files/s19-003/20190424-friendly_try.py, files/s19-003/20190424-partial_lous_list.py,
     files/s19-003/20190424-raising_exception.py]
   video: /screencasts/2019-04-24-003.webm
+2019-04-26:
+  audio: /screencasts/2019-04-26-003.mp3
+  files: [files/s19-003/20190426-ama.py, files/s19-003/20190426-blow_minds.py]
+  video: /screencasts/2019-04-26-003.webm
