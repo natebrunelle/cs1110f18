@@ -119,7 +119,6 @@ Fall 2018 | [f2018e2.pdf](files/f2018e2.pdf) | [f2018e2key.html](https://docs.go
 -   `with open(...) as f:`{.python}
 -   `print(..., file=f)`{.python}
 -   `urllib.request`{.python}, (i.e. reading from the web)
--   debugging strategies
 
 See also the previous exams:
 
