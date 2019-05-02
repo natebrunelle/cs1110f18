@@ -147,22 +147,22 @@
 2019-04-17:
     files: [/files/s19-001/regex_name.py, /files/s19-001/regex_phone.py]
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54fcd20a-4b64-412b-a7b5-aa300128ce9c 
-    slides: www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L34_regex.pptx
+    slides: https://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L34_regex.pptx
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0180af5d-438f-440e-9f29-aa320128c542
     
 2019-04-19:
     files: [/files/s19-001/weather.py, /files/s19-001/lous_list.py]
-    slides: www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L34_regex.pptx
+    slides: https://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/L34_regex.pptx
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a725ec6-8a0f-4370-939c-aa340128c32b
     
 2019-04-22:
     files: [/files/s19-001/is_even.py, /files/s19-001/using_raise.py, /files/s19-001/where_to_handle.py, /files/s19-001/mandatory_except.py]
-    slides: www.cs.virginia.edu/~njb2b/cs1110/s19/slides/exceptions.pdf
+    slides: https://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/exceptions.pdf
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f9b359c-995d-4b3f-90d3-aa370128b5c4
 
 2019-04-24:
     files: [/files/s19-001/friendly_program.py, /files/s19-001/friendlier_program.py, /files/s19-001/even_friendlier.py, /files/s19-001/too_friendly.py]
-    slides: www.cs.virginia.edu/~njb2b/cs1110/s19/slides/file_writing.pdf
+    slides: https://www.cs.virginia.edu/~njb2b/cs1110/s19/slides/file_writing.pdf
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b28b982b-6e8c-4308-9eeb-aa390128daab
     
 2019-04-26:
