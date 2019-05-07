@@ -13,9 +13,7 @@ Special Dates:
   Snow break:
     start: 2019-02-20
     end: 2019-02-20
-  Exam 1: 2019-02-25
-  Exam 2: 2019-04-03
-  Exam 3: 2019-05-04
+
 
 classes:
     -   Welcome
@@ -112,14 +110,18 @@ assignments:
             .rationale: "exams 13% of grade each"
             rubric: {"kind":"percentage"}
             
+            
     Exam 1:
         weight: 12
+        due: 2019-02-25
     
     Exam 2:
         weight: 9
+        due: 2019-04-03
     
     Exam 3:
         weight: 15
+        due: 2019-05-04
 
     Lab01:
         title: installing

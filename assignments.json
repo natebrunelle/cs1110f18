@@ -144,13 +144,6 @@
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
-,"Exam 1":
-  {"group":"Exam"
-  ,"due":"2019-02-25 23:59"
-  ,"weight":1
-  ,"total":100
-  ,"rubric":{"kind":"percentage"}
-  }
 ,"Lab07":
   {"title":"hangman"
   ,"files":["hangman_if.py","hangman_while.py"]
@@ -258,13 +251,6 @@
   ,"total":10
   ,"title":"gradebook"
   }
-,"Exam 2":
-  {"group":"Exam"
-  ,"due":"2019-04-03 23:59"
-  ,"weight":1
-  ,"total":100
-  ,"rubric":{"kind":"percentage"}
-  }
 ,"Lab11":
   {"title":"rooms"
   ,"files":"rooms.py"
@@ -345,7 +331,7 @@
   {"due":"2019-04-19 23:59"
   ,"files":["exam2wrap.txt"]
   ,"writeup":"exam2.html"
-  ,"weight":0.5
+  ,"weight":3
   ,"rubric":
     {"kind":"hybrid"
     ,"auto-weight":0
@@ -456,11 +442,7 @@
   ,"files":["game.py","*.*"]
   ,"support":["gamebox.py"]
   }
-,"Exam 3":
-  {"group":"Exam"
-  ,"due":"2019-05-04 23:59"
-  ,"weight":1
-  ,"total":100
-  ,"rubric":{"kind":"percentage"}
-  }
+,"Exam 1":{"weight":12,"group":"Exam","rubric":{"kind":"percentage"}}
+,"Exam 2":{"weight":9,"group":"Exam","rubric":{"kind":"percentage"}}
+,"Exam 3":{"weight":15,"group":"Exam","rubric":{"kind":"percentage"}}
 }
