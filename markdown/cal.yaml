@@ -111,6 +111,15 @@ assignments:
             portion: "11+11+17"
             .rationale: "exams 13% of grade each"
             rubric: {"kind":"percentage"}
+            
+    Exam 1:
+        weight: 12
+    
+    Exam 2:
+        weight: 9
+    
+    Exam 3:
+        weight: 15
 
     Lab01:
         title: installing
@@ -349,7 +358,7 @@ assignments:
         due: 2019-04-19 23:59:00
         files: [exam2wrap.txt]
         writeup: exam2.html
-        weight: 0.5
+        weight: 3
         rubric: 
             kind: hybrid
             auto-weight: 0
