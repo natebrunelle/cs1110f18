@@ -53,7 +53,7 @@ Email: pm8fc@virginia.edu
 
 ## Ray Pettit
 
-Office: Rice 206
+Office: Rice 212
 
 Office hours: TBD
 
