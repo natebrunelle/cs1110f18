@@ -147,6 +147,7 @@
 ,"Exam 1":
   {"weight":12
   ,"due":"2019-02-25 23:59"
+  ,"files":["page*.jpg"]
   ,"group":"Exam"
   ,"rubric":{"kind":"percentage"}
   }
@@ -260,6 +261,7 @@
 ,"Exam 2":
   {"weight":9
   ,"due":"2019-04-03 23:59"
+  ,"files":["page*.jpg"]
   ,"group":"Exam"
   ,"rubric":{"kind":"percentage"}
   }
@@ -457,6 +459,7 @@
 ,"Exam 3":
   {"weight":15
   ,"due":"2019-05-04 23:59"
+  ,"files":["page*.jpg"]
   ,"group":"Exam"
   ,"rubric":{"kind":"percentage"}
   }
