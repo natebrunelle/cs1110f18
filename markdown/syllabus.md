@@ -227,6 +227,7 @@ It would probably go without saying if we didn't say it, but no assistance may b
 To receive full credit on you programming assignment, it must pass all automated tests prior to the submission deadline. After the submission deadline has passed you may still submit for 48 hours, however you may only earn 50% credit on all automated tests passed since the deadline. No penalty for a late submission will be taken on the human assessment portion of your grade. 
 
 For example (all cases assume 100% on the human assesment):
+
 - If you passed zero tests before the deadline, then pass all of the tests after, you would receive at most a 75% on your assignment.
 - If you passed half of the tests before the deadline, then pass all of the tests after, you would receive at most a 87.5% on your assignment.
 - If you passed half of the tests before the deadline, and pass no additional tests after, you would receive at most 75% on your assignment.
