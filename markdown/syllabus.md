@@ -27,7 +27,7 @@ Personal issues impacting coursework (labs, exams, etc...)    Your dean, and/or 
 
 Office: Rice 209
 
-Office hours: Friday 3pm-5pm
+Office hours: TBD
 If my door is open, you are welcome to come in even when it is not my scheduled office hours.
 
 Email: njb2b@virginia.edu
@@ -38,30 +38,26 @@ Comments: I get a lot of email, please include CS1110 or CS1111 in the subject l
 
 Office: Rice 514
 
-Office hours: Monday/Wednesday 2pm-3pm
+Office hours: TBD
 
 Email: cd9au@virginia.edu 
 
-## Luther Tychonievich
+## Will McBurney
 
-Office: Rice 208
+Office: Rice 404
 
-Office hours: Thursday 1--2pm and 5--6pm; Friday 11am--12.
-If my door is open, you are welcome to come in even when it is not my scheduled office hours.
+Office hours: TBD
 
-Email: lat7h@virginia.edu
+Email: pm8fc@virginia.edu
 
-Comments: I read email once each work day if it contains 1110 in the subject line. I get so much email that email without 1110 in the subject line often goes unread.
-
-## Upsorn Praphamontripong
+## Ray Pettit
 
 Office: Rice 206
 
-Office hours: Wednesday 3:30--4:30pm; Friday 11am--1pm.
+Office hours: TBD
 
-Email: up3f@virginia.edu 
+Email: rp6zr@virginia.edu 
 
-Comments: I read email during work hours only. I get a lot of email, please include CS1111 in the subject line.
 
 
 ## Teaching Assistants
@@ -246,7 +242,7 @@ If the lack of cooperation is serious, the offending group member’s semester g
 - Attendance in lecture is vital to learning the material and making a good grade in this class.
 - We may or may not give graded assessments with or without notice in class; these cannot be made up if missed.
 - Even in sections that never check attendance, **attendance is strongly correlated with grade**. Skip at your own risk.
--CS 1111: In class excercises require your presence, so therefore attendance is de facto required.
+- CS 1111: In class excercises require your presence, so therefore attendance is de facto required.
 
 ## Exams
 
