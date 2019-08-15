@@ -17,21 +17,6 @@ Section |Time             |Place                 |Instructor
 1111    |MoWe 3:30–4:45PM |Olsson Hall 009       |Will McBurney
 
 
-## Final Exam Times
-
-The final exam will take place on Friday, December 13, 7-10PM. The location is determined by which lecture section you are enrolled in (TBD by the Engineering School). You must take the exam with your official lecture section.
-
-Section |Instructor            |Place
---------|----------------------|-----------------------
-1110-001|Ray Pettit            |TBD
-1110-002|Craig Dill            |TBD
-1110-003|Craig Dill            |TBD
-1110-004|Nathan Brunelle       |TBD
-1111    |Will McBurney         |TBD
-
-If you have a direct conflict with our Final Exam, the make-up time will be a  make-up exam time. Look here for updates on when/where/how to take the exam at this make-up time closer to the exam date.
-
-
 ## Lab Sections
 
 |Section |Time            |Place       |
@@ -54,6 +39,21 @@ If you have a direct conflict with our Final Exam, the make-up time will be a  m
 
 If you attempt to swap one section but not the other in SIS, expect to end up on the back of the waiting list for both sections
 See the [FAQ](faq.html) for suggestions on ways around this.
+
+
+## Final Exam Times
+
+The final exam will take place on Friday, December 13, 7-10PM. The location is determined by which lecture section you are enrolled in (TBD by the Engineering School). You must take the exam with your official lecture section.
+
+Section |Instructor            |Place
+--------|----------------------|-----------------------
+1110-001|Ray Pettit            |TBD
+1110-002|Craig Dill (12pm)     |TBD
+1110-003|Craig Dill (10am)     |TBD
+1110-004|Nathan Brunelle       |TBD
+1111    |Will McBurney         |TBD
+
+If you have a direct conflict with our Final Exam, the make-up time will be a  make-up exam time. Look here for updates on when/where/how to take the exam at this make-up time closer to the exam date.
 
 # Other *Introduction to Programming* Offerings
 
