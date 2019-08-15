@@ -156,6 +156,10 @@ F        otherwise     0.0
 
 **Pass/Fail/Audit:** A course average of 65.0% or higher with at least one passing exam grade is required for successful completion.
 
+## Programming Assignments
+
+Your grade on each programming assignment will be determined by two evaluations: automated tests and human assessment. The automated tests are intended to evaluate the correctness of a solution, and the grade earned is simply the proportion of our tests that were passed. The human assessment is designed to assess the solution in ways that are not suitable for automation, and to provide opportunity for partial credit on incorrect solutions. For most assignments, each will be comprise 50% of your grade.
+
 # Class Management
 
 ## General
@@ -214,10 +218,21 @@ It would probably go without saying if we didn't say it, but no assistance may b
 ## Programming Assignments
 
 - Homework assignments will not be handed out in class. Everything will be available online.
-- Be sure to include your name and computing id in all assignments.
+- Be sure to include your name and computing id in all assignments. This acts as your "honor pledge"
 - You should [cite](#acknowledge-your-sources) any ideas you discuss with other students or outside resources, as well as any code assistance you receive from any source.
 - See [the submission system](https://kytos.cs.virginia.edu/cs1110/) for more information.
-- Late policy: Programming assignments can be submitted up to 2 days (48 hours) late, with a 25% penalty. Assignments are not accepted after 2 days past the deadline.
+
+### Late Policy
+
+To receive full credit on you programming assignment, it must pass all automated tests prior to the submission deadline. After the submission deadline has passed you may still submit for 48 hours, however you may only earn 50% credit on all automated tests passed since the deadline. No penalty for a late submission will be taken on the human assessment portion of your grade. 
+
+For example (all cases assume 100% on the human assesment):
+- If you passed zero tests before the deadline, then pass all of the tests after, you would receive at most a 75% on your assignment.
+- If you passed half of the tests before the deadline, then pass all of the tests after, you would receive at most a 87.5% on your assignment.
+- If you passed half of the tests before the deadline, and pass no additional tests after, you would receive at most 75% on your assignment.
+
+Note that the maximum penalty for late submissions is 25%, and that your grade cannot decrease due to additional submissions after the deadline.
+
 
 ## Generality of Solutions
 
