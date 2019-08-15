@@ -28,6 +28,7 @@ Personal issues impacting coursework (labs, exams, etc...)    Your dean, and/or 
 Office: Rice 209
 
 Office hours: TBD
+
 If my door is open, you are welcome to come in even when it is not my scheduled office hours.
 
 Email: njb2b@virginia.edu
