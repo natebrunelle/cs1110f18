@@ -222,7 +222,9 @@ It would probably go without saying if we didn't say it, but no assistance may b
 - You should [cite](#acknowledge-your-sources) any ideas you discuss with other students or outside resources, as well as any code assistance you receive from any source.
 - See [the submission system](https://kytos.cs.virginia.edu/cs1110/) for more information.
 
-### Late Policy
+### Late Submissions
+
+Our late policy is designed to allow extra assistance for students who require it. Assignments may be submitted up to 48 hours after the deadline with penalty. Within this 48 hour window, to provide you with more assistance on where your solution may have gone wrong, you will be able to see any automated test cases which your submission has failed.
 
 To receive full credit on you programming assignment, it must pass all automated tests prior to the submission deadline. After the submission deadline has passed you may still submit for 48 hours, however you may only earn 50% credit on all automated tests passed since the deadline. No penalty for a late submission will be taken on the human assessment portion of your grade. 
 
