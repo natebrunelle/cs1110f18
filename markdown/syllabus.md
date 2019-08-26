@@ -158,7 +158,7 @@ F        otherwise     0.0
 
 ## Programming Assignments
 
-Your grade on each programming assignment will be determined by two evaluations: automated tests and human assessment. The automated tests are intended to evaluate the correctness of a solution, and the grade earned is simply the proportion of our tests that were passed. The human assessment is designed to assess the solution in ways that are not suitable for automation, and to provide opportunity for partial credit on incorrect solutions. For most assignments, each will be comprise 50% of your grade.
+Your grade on each programming assignment will be determined by two evaluations: automated tests and human assessment. The automated tests are intended to evaluate the correctness of a solution, and the grade earned is simply the proportion of our tests that were passed. The human assessment is designed to assess the solution in ways that are not suitable for automation, and to provide opportunity for partial credit on incorrect solutions. For most assignments, each will comprise 50% of your grade.
 
 # Class Management
 
@@ -257,7 +257,7 @@ If the lack of cooperation is serious, the offending group member’s semester g
 
 ## Attendance
 
-- CS1110: Attendance in Lab in required for your participation grade
+- CS1110: Attendance in Lab is required for your participation grade
 - Attendance in lecture is vital to learning the material and making a good grade in this class.
 - We may or may not give graded assessments with or without notice in class; these cannot be made up if missed.
 - Even in sections that never check attendance, **attendance is strongly correlated with grade**. Skip at your own risk.
