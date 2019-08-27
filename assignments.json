@@ -1,31 +1,31 @@
 {"Lab01":
   {"title":"installing"
-  ,"due":"2019-01-17 23:59"
-  ,"open":"2019-01-14 00:00"
+  ,"due":"2019-08-29 23:59"
+  ,"open":"2019-08-27 00:00"
   ,"weight":0
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
 ,"Lab02":
   {"title":"counting"
-  ,"due":"2019-01-24 23:59"
-  ,"open":"2019-01-24 00:00"
+  ,"due":"2019-09-05 23:59"
+  ,"open":"2019-08-27 00:00"
   ,"weight":0
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
 ,"Lab03":
   {"title":"turtle"
-  ,"due":"2019-01-31 23:59"
-  ,"open":"2019-01-31 00:00"
+  ,"due":"2019-09-12 23:59"
+  ,"open":"2019-08-27 00:00"
   ,"files":["*.py","*.ps","*.png","*.PNG"]
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
 ,"PA01":
   {"files":"greeting.py"
-  ,"due":"2019-02-06 10:00"
-  ,"open":"2019-01-18 00:00"
+  ,"due":"2019-09-18 09:00"
+  ,"open":"2019-08-31 00:00"
   ,"group":"PA"
   ,"tester":"test_greeting.py"
   ,"late-policy":[0.75,0.75]
@@ -35,8 +35,8 @@
   }
 ,"PA02":
   {"files":"nonsense.py"
-  ,"due":"2019-02-06 10:00"
-  ,"open":"2019-01-18 00:00"
+  ,"due":"2019-09-18 09:00"
+  ,"open":"2019-08-31 00:00"
   ,"group":"PA"
   ,"tester":"test_nonsense.py"
   ,"late-policy":[0.75,0.75]
@@ -47,15 +47,15 @@
 ,"Lab04":
   {"title":"madlib"
   ,"files":"madlib.py"
-  ,"due":"2019-02-07 23:59"
-  ,"open":"2019-02-07 00:00"
+  ,"due":"2019-09-19 23:59"
+  ,"open":"2019-08-27 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
 ,"PA03":
   {"files":"dating.py"
-  ,"due":"2019-02-08 10:00"
-  ,"open":"2019-01-18 00:00"
+  ,"due":"2019-09-20 09:00"
+  ,"open":"2019-08-31 00:00"
   ,"group":"PA"
   ,"tester":"test_dating.py"
   ,"late-policy":[0.75,0.75]
@@ -65,8 +65,8 @@
   }
 ,"PA04":
   {"files":"c2f.py"
-  ,"due":"2019-02-08 10:00"
-  ,"open":"2019-01-18 00:00"
+  ,"due":"2019-09-20 09:00"
+  ,"open":"2019-08-31 00:00"
   ,"group":"PA"
   ,"tester":"test_c2f.py"
   ,"late-policy":[0.75,0.75]
@@ -76,8 +76,8 @@
   }
 ,"PA05":
   {"files":"maydate.py"
-  ,"due":"2019-02-11 10:00"
-  ,"open":"2019-01-18 00:00"
+  ,"due":"2019-09-23 09:00"
+  ,"open":"2019-08-31 00:00"
   ,"group":"PA"
   ,"tester":"test_maydate.py"
   ,"late-policy":[0.75,0.75]
@@ -87,8 +87,8 @@
   }
 ,"PA06":
   {"files":"conversion.py"
-  ,"due":"2019-02-11 10:00"
-  ,"open":"2019-01-18 00:00"
+  ,"due":"2019-09-25 09:00"
+  ,"open":"2019-08-31 00:00"
   ,"group":"PA"
   ,"tester":"test_conversion.py"
   ,"late-policy":[0.75,0.75]
@@ -98,8 +98,8 @@
   }
 ,"PA07":
   {"files":"gpa.py"
-  ,"due":"2019-02-13 10:00"
-  ,"open":"2019-01-18 00:00"
+  ,"due":"2019-09-25 09:00"
+  ,"open":"2019-08-31 00:00"
   ,"group":"PA"
   ,"tester":"test_gpa.py"
   ,"late-policy":[0.75,0.75]
@@ -109,15 +109,15 @@
   }
 ,"Lab05":
   {"title":"paper"
-  ,"due":"2019-02-14 23:59"
-  ,"open":"2019-01-14 00:00"
+  ,"due":"2019-09-26 23:59"
+  ,"open":"2019-08-27 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
 ,"PA08":
   {"files":"bmr.py"
-  ,"due":"2019-02-15 10:00"
-  ,"open":"2019-01-18 00:00"
+  ,"due":"2019-09-27 09:00"
+  ,"open":"2019-08-31 00:00"
   ,"group":"PA"
   ,"tester":"test_bmr.py"
   ,"late-policy":[0.75,0.75]
@@ -127,8 +127,8 @@
   }
 ,"PA09":
   {"files":"averages.py"
-  ,"due":"2019-02-18 10:00"
-  ,"open":"2019-01-18 00:00"
+  ,"due":"2019-09-30 09:00"
+  ,"open":"2019-08-31 00:00"
   ,"group":"PA"
   ,"tester":"test_averages.py"
   ,"late-policy":[0.75,0.75]
@@ -139,14 +139,14 @@
 ,"Lab06":
   {"title":"strings"
   ,"files":["str_funcs.py","changing_str.py"]
-  ,"due":"2019-02-21 23:59"
-  ,"open":"2019-02-21 00:00"
+  ,"due":"2019-10-03 23:59"
+  ,"open":"2019-09-27 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
 ,"Exam 1":
   {"weight":12
-  ,"due":"2019-02-25 23:59"
+  ,"due":"2019-10-04 23:59"
   ,"files":["page*.jpg"]
   ,"group":"Exam"
   ,"rubric":{"kind":"percentage"}
@@ -154,15 +154,15 @@
 ,"Lab07":
   {"title":"hangman"
   ,"files":["hangman_if.py","hangman_while.py"]
-  ,"due":"2019-02-28 23:59"
-  ,"open":"2019-02-28 00:00"
+  ,"due":"2019-10-10 23:59"
+  ,"open":"2019-09-27 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
 ,"PA10":
   {"files":"calculator.py"
-  ,"open":"2019-02-20 00:00"
-  ,"due":"2019-03-06 09:00"
+  ,"open":"2019-10-02 00:00"
+  ,"due":"2019-10-16 09:00"
   ,"group":"PA"
   ,"tester":"test_calculator.py"
   ,"late-policy":[0.75,0.75]
@@ -173,15 +173,15 @@
 ,"Lab08":
   {"title":"crypto"
   ,"files":"crypto.py"
-  ,"due":"2019-03-07 23:59"
-  ,"open":"2019-03-07 00:00"
+  ,"due":"2019-10-17 23:59"
+  ,"open":"2019-09-27 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
 ,"PA11":
   {"files":"higher_lower.py"
-  ,"open":"2019-02-20 00:00"
-  ,"due":"2019-03-08 10:00"
+  ,"open":"2019-10-02 00:00"
+  ,"due":"2019-10-18 09:00"
   ,"group":"PA"
   ,"tester":"test_higher_lower.py"
   ,"late-policy":[0.75,0.75]
@@ -191,8 +191,8 @@
   }
 ,"PA12":
   {"files":"higher_lower_player.py"
-  ,"open":"2019-02-20 00:00"
-  ,"due":"2019-03-20 10:00"
+  ,"open":"2019-10-02 00:00"
+  ,"due":"2019-10-21 09:00"
   ,"group":"PA"
   ,"tester":"test_higher_lower_player.py"
   ,"late-policy":[0.75,0.75]
@@ -200,27 +200,18 @@
   ,"total":10
   ,"title":"higher_lower_player"
   }
-,"PA13":
-  {"title":"No longer required"
-  ,"due":"2019-03-20 10:00"
-  ,"weight":0
-  ,"group":"PA"
-  ,"late-policy":[0.75,0.75]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  }
 ,"Lab09":
   {"title":"debug"
   ,"files":"debug_task.py"
-  ,"due":"2019-03-21 23:59"
-  ,"open":"2019-03-21 00:00"
+  ,"due":"2019-10-24 23:59"
+  ,"open":"2019-09-28 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
-,"PA14":
+,"PA13":
   {"files":"map_reduce.py"
-  ,"open":"2019-02-20 00:00"
-  ,"due":"2019-03-25 10:00"
+  ,"open":"2019-10-02 00:00"
+  ,"due":"2019-10-25 09:00"
   ,"group":"PA"
   ,"tester":"test_map_reduce.py"
   ,"late-policy":[0.75,0.75]
@@ -228,10 +219,10 @@
   ,"total":10
   ,"title":"map_reduce"
   }
-,"PA15":
+,"PA14":
   {"files":"credit_card.py"
-  ,"open":"2019-02-20 00:00"
-  ,"due":"2019-03-27 10:00"
+  ,"open":"2019-10-02 00:00"
+  ,"due":"2019-10-28 09:00"
   ,"group":"PA"
   ,"tester":"test_credit_card.py"
   ,"late-policy":[0.75,0.75]
@@ -239,18 +230,10 @@
   ,"total":10
   ,"title":"credit_card"
   }
-,"Lab10":
-  {"title":"poi"
-  ,"files":"poi.py"
-  ,"due":"2019-03-28 23:59"
-  ,"open":"2019-03-28 00:00"
-  ,"group":"Lab"
-  ,"rubric":{"kind":"percentage"}
-  }
-,"PA16":
+,"PA15":
   {"files":"gradebook.py"
-  ,"open":"2019-02-20 00:00"
-  ,"due":"2019-03-29 10:00"
+  ,"open":"2019-10-02 00:00"
+  ,"due":"2019-10-30 09:00"
   ,"group":"PA"
   ,"tester":"test_gradebook.py"
   ,"late-policy":[0.75,0.75]
@@ -258,25 +241,33 @@
   ,"total":10
   ,"title":"gradebook"
   }
-,"Exam 2":
-  {"weight":9
-  ,"due":"2019-04-03 23:59"
-  ,"files":["page*.jpg"]
-  ,"group":"Exam"
+,"Lab10":
+  {"title":"poi"
+  ,"files":"poi.py"
+  ,"due":"2019-10-31 23:59"
+  ,"open":"2019-09-28 00:00"
+  ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
 ,"Lab11":
   {"title":"rooms"
   ,"files":"rooms.py"
-  ,"due":"2019-04-04 23:59"
-  ,"open":"2019-04-04 00:00"
+  ,"due":"2019-11-07 23:59"
+  ,"open":"2019-11-05 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
-,"PA17":
+,"Exam 2":
+  {"weight":9
+  ,"due":"2019-11-08 23:59"
+  ,"files":["page*.jpg"]
+  ,"group":"Exam"
+  ,"rubric":{"kind":"percentage"}
+  }
+,"PA16":
   {"files":"lous_list.py"
-  ,"open":"2019-04-04 00:00"
-  ,"due":"2019-04-11 10:00"
+  ,"open":"2019-11-07 00:00"
+  ,"due":"2019-11-13 09:00"
   ,"group":"PA"
   ,"tester":"test_lous_list.py"
   ,"late-policy":[0.75,0.75]
@@ -287,15 +278,15 @@
 ,"Lab12":
   {"title":"pong"
   ,"files":"pong.py"
-  ,"due":"2019-04-11 23:59"
-  ,"open":"2019-04-11 00:00"
+  ,"due":"2019-11-14 23:59"
+  ,"open":"2019-11-05 00:00"
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
-,"PA18":
+,"PA17":
   {"files":"spellcheck.py"
-  ,"open":"2019-04-05 00:00"
-  ,"due":"2019-04-12 10:00"
+  ,"open":"2019-11-07 00:00"
+  ,"due":"2019-11-15 09:00"
   ,"group":"PA"
   ,"tester":"test_spellcheck.py"
   ,"late-policy":[0.75,0.75]
@@ -303,19 +294,27 @@
   ,"total":10
   ,"title":"spellcheck"
   }
-,"PA19":
+,"PA18":
   {"files":["flappybird.py","*.jpg","*.png"]
   ,"writeup":"pa19-flappy.html"
-  ,"open":"2019-04-05 00:00"
-  ,"due":"2019-04-15 10:00"
+  ,"open":"2019-11-07 00:00"
+  ,"due":"2019-11-19 09:00"
   ,"group":"PA"
   ,"late-policy":[0.75,0.75]
   ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
   ,"total":10
   }
+,"Lab13":
+  {"title":"email"
+  ,"files":"emailhunt.py"
+  ,"due":"2019-11-21 23:59"
+  ,"open":"2019-11-05 00:00"
+  ,"group":"Lab"
+  ,"rubric":{"kind":"percentage"}
+  }
 ,"Checkpoint 1":
-  {"due":"2019-04-17 05:00"
-  ,"open":"2019-04-04 00:00"
+  {"due":"2019-11-26 05:00"
+  ,"open":"2019-11-07 00:00"
   ,"group":"Project"
   ,"weight":1
   ,"total":1
@@ -333,53 +332,9 @@
   ,"files":["game.py","*.*"]
   ,"support":["gamebox.py"]
   }
-,"Lab13":
-  {"title":"email"
-  ,"files":"emailhunt.py"
-  ,"due":"2019-04-18 23:59"
-  ,"open":"2019-02-18 00:00"
-  ,"group":"Lab"
-  ,"rubric":{"kind":"percentage"}
-  }
-,"Exam2 Wrapper":
-  {"due":"2019-04-19 23:59"
-  ,"files":["exam2wrap.txt"]
-  ,"writeup":"exam2.html"
-  ,"weight":3
-  ,"rubric":
-    {"kind":"hybrid"
-    ,"auto-weight":0
-    ,"auto-late-days":0
-    ,"late-penalty":1
-    ,"human":
-      ["attempted a wrapper"
-      ,"has reflection on study"
-      ,"reflection is insightful"
-      ,"has corrected answers"
-      ,"all wrong answers corrected"
-      ,"corrected answer have explanations"
-      ,"some explanations are insightful"
-      ,"all explanations are correct"
-      ,"has plans for future"
-      ,"plans seem likely to improve learning"
-      ]
-    }
-  ,"group":"Exam"
-  }
-,"PA20":
-  {"files":"regex.py"
-  ,"open":"2019-04-06 00:00"
-  ,"due":"2019-04-22 10:00"
-  ,"group":"PA"
-  ,"tester":"test_regex.py"
-  ,"late-policy":[0.75,0.75]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"regex"
-  }
 ,"Checkpoint 2":
-  {"due":"2019-04-24 05:00"
-  ,"open":"2019-04-17 05:00"
+  {"due":"2019-11-29 05:00"
+  ,"open":"2019-11-07 05:00"
   ,"group":"Project"
   ,"weight":1
   ,"total":1
@@ -395,17 +350,21 @@
   ,"files":["game.py","*.*"]
   ,"support":["gamebox.py"]
   }
-,"Lab14":
-  {"title":"review"
-  ,"due":"2019-04-25 23:59"
-  ,"open":"2019-04-25 00:00"
-  ,"group":"Lab"
-  ,"rubric":{"kind":"percentage"}
+,"PA19":
+  {"files":"regex.py"
+  ,"open":"2019-11-07 00:00"
+  ,"due":"2019-11-29 09:00"
+  ,"group":"PA"
+  ,"tester":"test_regex.py"
+  ,"late-policy":[0.75,0.75]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"regex"
   }
-,"PA21":
+,"PA20":
   {"files":"salary.py"
-  ,"open":"2019-04-06 00:00"
-  ,"due":"2019-04-26 10:00"
+  ,"open":"2019-11-07 00:00"
+  ,"due":"2019-12-02 09:00"
   ,"group":"PA"
   ,"tester":"test_salary.py"
   ,"late-policy":[0.75,0.75]
@@ -413,9 +372,16 @@
   ,"total":10
   ,"title":"salary"
   }
+,"Lab14":
+  {"title":"review"
+  ,"due":"2019-12-05 23:59"
+  ,"open":"2019-11-05 00:00"
+  ,"group":"Lab"
+  ,"rubric":{"kind":"percentage"}
+  }
 ,"Project":
-  {"due":"2019-04-29 23:59"
-  ,"open":"2019-04-24 05:00"
+  {"due":"2019-12-06 23:59"
+  ,"open":"2019-11-07 05:00"
   ,"group":"Project"
   ,"weight":48
   ,"total":48
@@ -451,6 +417,10 @@
       ,"Code has some organization"
       ,"Code has some comments or documentation"
       ,"Game window size is within 800-by-600 limit"
+      ,"some explanations are insightful"
+      ,"all explanations are correct"
+      ,"has plans for future"
+      ,"plans seem likely to improve learning"
       ]
     }
   ,"files":["game.py","*.*"]
@@ -458,7 +428,7 @@
   }
 ,"Exam 3":
   {"weight":15
-  ,"due":"2019-05-04 23:59"
+  ,"due":"2019-12-15 23:59"
   ,"files":["page*.jpg"]
   ,"group":"Exam"
   ,"rubric":{"kind":"percentage"}
