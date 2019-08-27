@@ -1,22 +1,19 @@
 Special Dates:
-  Courses begin: 2019-01-14
-  Courses end: 2019-04-30
-  Add deadline: 2019-01-28
-  Drop deadline: 2019-02-25
-  Withdraw deadline: 2019-03-18
-  Spring break:
-    start: 2019-03-09
-    end: 2019-03-17
-  MLK break:
-    start: 2019-01-21
-    end: 2019-01-21
-  Snow break:
-    start: 2019-02-20
-    end: 2019-02-20
+  Courses begin: 2019-08-27
+  Courses end: 2019-12-06
+  Add deadline: 2019-09-10
+  Drop deadline: 2019-10-15
+  Withdraw deadline: 2019-10-22
+  Thanksgiving break:
+    start: 2019-11-27
+    end: 2019-12-01
+  Fall break:
+    start: 2019-10-05
+    end: 2019-10-08
 
-  Exam 1: 2019-02-25
-  Exam 2: 2019-04-03
-  Exam 3: 2019-05-04
+  Exam 1: 2019-10-02
+  Exam 2: 2019-11-06
+  Exam 3: 2019-12-13
 
 
 classes:
@@ -117,184 +114,182 @@ assignments:
             
     Exam 1:
         weight: 12
-        due: 2019-02-25
+        due: 2019-10-04
         files: ['page*.jpg']
     
     Exam 2:
         weight: 9
-        due: 2019-04-03
+        due: 2019-11-08
         files: ['page*.jpg']
     
     Exam 3:
         weight: 15
-        due: 2019-05-04
+        due: 2019-12-15
         files: ['page*.jpg']
 
     Lab01:
         title: installing
-        due: 2019-01-17
-        open: 2019-01-14
+        due: 2019-08-29
+        open: 2019-08-27
         weight: 0
     Lab02:
         title: counting
-        due: 2019-01-24
-        open: 2019-01-24
+        due: 2019-09-05
+        open: 2019-08-27
         weight: 0
     Lab03:
         title: turtle
-        due: 2019-01-31
-        open: 2019-01-31
+        due: 2019-09-12
+        open: 2019-08-27
         files: ['*.py', '*.ps', '*.png', '*.PNG']
     Lab04:
         title: madlib
         files: 'madlib.py'
-        due: 2019-02-07
-        open: 2019-02-07
+        due: 2019-09-19
+        open: 2019-08-27
     Lab05:
         title: paper
-        due: 2019-02-14
-        open: 2019-01-14
+        due: 2019-09-26
+        open: 2019-08-27
     Lab06:
         title: strings
         files: ['str_funcs.py', 'changing_str.py']
-        due: 2019-02-21
-        open: 2019-02-21
+        due: 2019-10-03
+        open: 2019-09-27
     Lab07:
         title: hangman
         files: ['hangman_if.py', 'hangman_while.py']
-        due: 2019-02-28
-        open: 2019-02-28
+        due: 2019-10-10
+        open: 2019-09-27
     Lab08:
         title: crypto
         files: 'crypto.py'
-        due: 2019-03-07
-        open: 2019-03-07
+        due: 2019-10-17
+        open: 2019-09-27
     Lab09:
         title: debug
         files: 'debug_task.py'
-        due: 2019-03-21
-        open: 2019-03-21
+        due: 2019-10-24
+        open: 2019-09-28
     Lab10:
         title: poi
         files: 'poi.py'
-        due: 2019-03-28
-        open: 2019-03-28
+        due: 2019-10-31
+        open: 2019-09-28
     Lab11:
         title: rooms
         files: 'rooms.py'
-        due: 2019-04-04 
-        open: 2019-04-04 
+        due: 2019-11-07 
+        open: 2019-11-05 
     Lab12:
         title: pong
         files: 'pong.py'
-        due: 2019-04-11
-        open: 2019-04-11
+        due: 2019-11-14
+        open: 2019-11-05
     Lab13:
         title: email
         files: 'emailhunt.py'
-        due: 2019-04-18
-        open: 2019-02-18
+        due: 2019-11-21
+        open: 2019-11-05
     Lab14:
         title: review
-        due: 2019-04-25
-        open: 2019-04-25
+        due: 2019-12-05
+        open: 2019-11-05
 
 
     PA01:
         files: greeting.py
-        due: 2019-02-06 10:00:00
-        open: 2019-01-18
+        due: 2019-09-18 09:00:00
+        open: 2019-08-31
         
     PA02:
         files: nonsense.py
-        due: 2019-02-06 10:00:00
-        open: 2019-01-18
+        due: 2019-09-18 09:00:00
+        open: 2019-08-31
     PA03:
         files: dating.py
-        due: 2019-02-08 10:00:00
-        open: 2019-01-18
+        due: 2019-09-20 09:00:00
+        open: 2019-08-31
     PA04:
         files: c2f.py
-        due: 2019-02-08 10:00:00
-        open: 2019-01-18
+        due: 2019-09-20 09:00:00
+        open: 2019-08-31
     PA05:
         files: maydate.py
-        due: 2019-02-11 10:00:00
-        open: 2019-01-18
+        due: 2019-09-23 09:00:00
+        open: 2019-08-31
     PA06:
         files: conversion.py
-        due: 2019-02-11 10:00:00
-        open: 2019-01-18
+        due: 2019-09-25 09:00:00
+        open: 2019-08-31
     PA07:
         files: gpa.py
-        due: 2019-02-13 10:00:00
-        open: 2019-01-18
+        due: 2019-09-25 09:00:00
+        open: 2019-08-31
     PA08:
         files: bmr.py
-        due: 2019-02-15 10:00:00
-        open: 2019-01-18
+        due: 2019-09-27 09:00:00
+        open: 2019-08-31
     PA09:
         files: averages.py
-        due: 2019-02-18 10:00:00
-        open: 2019-01-18
+        due: 2019-09-30 09:00:00
+        open: 2019-08-31
+        
+        
     PA10:
         files: calculator.py
-        open: 2019-02-20
-        due: 2019-03-06 09:00:00
+        open: 2019-10-02
+        due: 2019-10-16 09:00:00
         #late-policy: [0.75,0.75,0.75,0.75]
     PA11:
         files: higher_lower.py
-        open: 2019-02-20
-        due: 2019-03-08 10:00:00
+        open: 2019-10-02
+        due: 2019-10-18 09:00:00
     PA12:
         files: higher_lower_player.py
-        open: 2019-02-20
-        due: 2019-03-20 10:00:00
+        open: 2019-10-02
+        due: 2019-10-21 09:00:00
     PA13:
-        title: No longer required
-        due: 2019-03-20 10:00:00
-        weight: 0
-    PA14:
         files: map_reduce.py
-        open: 2019-02-20
-        due: 2019-03-25 10:00:00
-    PA15:
+        open: 2019-10-02
+        due: 2019-10-25 09:00:00
+    PA14:
         files: credit_card.py
-        open: 2019-02-20
-        due: 2019-03-27 10:00:00
-    PA16:
+        open: 2019-10-02
+        due: 2019-10-28 09:00:00
+    PA15:
         files: gradebook.py
-        open: 2019-02-20
-        due: 2019-03-29 10:00:00
+        open: 2019-10-02
+        due: 2019-10-30 09:00:00
 
 
         
-    PA17:
+    PA16:
         files: lous_list.py
-        open: 2019-04-04
-        due: 2019-04-11 10:00:00
+        open: 2019-11-07
+        due: 2019-11-13 09:00:00
 
-    PA18:
+    PA17:
         files: spellcheck.py
-        open: 2019-04-05
-        due: 2019-04-12 10:00:00
-    PA19:
+        open: 2019-11-07
+        due: 2019-11-15 09:00:00
+    PA18:
         files: ["flappybird.py", "*.jpg", "*.png"]
         writeup: pa19-flappy.html
-        open: 2019-04-05
-        due: 2019-04-15 10:00:00
-    PA20:
+        open: 2019-11-07
+        due: 2019-11-19 09:00:00
+    PA19:
         files: regex.py
-        open: 2019-04-06
-        due: 2019-04-22 10:00:00
-    PA21:
+        open: 2019-11-07
+        due: 2019-11-29 09:00:00
+    PA20:
         files: salary.py
-        open: 2019-04-06
-        due: 2019-04-26 10:00:00
+        open: 2019-11-07
+        due: 2019-12-02 09:00:00
         
     Checkpoint 1:
-        due: 2019-04-17 05:00:00
-        open: 2019-04-04
+        due: 2019-11-26 05:00:00
+        open: 2019-11-07
         group: Project
         weight: 1
         total: 1
@@ -309,8 +304,8 @@ assignments:
                 - Identifies which optional components will be attempted
             
     Checkpoint 2:
-        due: 2019-04-24 05:00:00
-        open: 2019-04-17 05:00:00
+        due: 2019-11-29 05:00:00
+        open: 2019-11-07 05:00:00
         group: Project
         weight: 1
         total: 1
@@ -325,8 +320,8 @@ assignments:
                 - Has non-trivial game code
 
     Project:
-        due: 2019-04-29 23:59:59
-        open: 2019-04-24 05:00:00
+        due: 2019-12-06 23:59:59
+        open: 2019-11-07 05:00:00
         group: Project
         weight: 48
         total: 48
@@ -363,23 +358,23 @@ assignments:
                 - Code has some comments or documentation
                 - Game window size is within 800-by-600 limit
 
-    Exam2 Wrapper:
-        due: 2019-04-19 23:59:00
-        files: [exam2wrap.txt]
-        writeup: exam2.html
-        weight: 3
-        rubric: 
-            kind: hybrid
-            auto-weight: 0
-            auto-late-days: 0
-            late-penalty: 1
-            human:
-                - attempted a wrapper
-                - has reflection on study
-                - reflection is insightful
-                - has corrected answers
-                - all wrong answers corrected
-                - corrected answer have explanations
+    #Exam2 Wrapper:
+    #    due: 2019-04-19 23:59:00
+    #    files: [exam2wrap.txt]
+    #    writeup: exam2.html
+    #    weight: 3
+    #    rubric: 
+    #        kind: hybrid
+    #        auto-weight: 0
+    #        auto-late-days: 0
+    #        late-penalty: 1
+    #        human:
+    #            - attempted a wrapper
+    #            - has reflection on study
+    #            - reflection is insightful
+    #            - has corrected answers
+    #            - all wrong answers corrected
+    #            - corrected answer have explanations
                 - some explanations are insightful
                 - all explanations are correct
                 - has plans for future
