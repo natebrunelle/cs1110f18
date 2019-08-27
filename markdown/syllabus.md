@@ -49,7 +49,11 @@ Office: Rice 404
 
 Office hours: TBD
 
+If my door is open, you are welcome to come in even when it is not my scheduled office hours.
+
 Email: pm8fc@virginia.edu
+
+Comments: I get a lot of email, please include CS1110 or CS1111 in the subject line.
 
 ## Ray Pettit
 
