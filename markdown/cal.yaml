@@ -91,8 +91,8 @@ assignments:
     ".groups":
         PA:
             .tester-prefix: test_
-            portion: "2*21"
-            .rationale: "21 PAs at 2% of grade each"
+            portion: "2*20"
+            .rationale: "20 PAs at 2% of grade each"
             late-policy: [0.75, 0.75]
             support: ["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
             total: 10
@@ -102,13 +102,13 @@ assignments:
             files: ["game.py", "*.*"]
             support: ["gamebox.py"]
         Lab:
-            portion: 9
-            .rationale: "12 graded labs at 0.75% of grade each"
+            portion: 10
+            .rationale: "12 graded labs at 0.83% of grade each"
             drop: 1
             rubric: {"kind":"percentage"}
         Exam:
-            portion: "11+11+17"
-            .rationale: "exams 13% of grade each"
+            portion: "12+12+16"
+            .rationale: "midterm exams 12% of grade each, final is 16%"
             rubric: {"kind":"percentage"}
             
             
@@ -118,12 +118,12 @@ assignments:
         files: ['page*.jpg']
     
     Exam 2:
-        weight: 9
+        weight: 12
         due: 2019-11-08
         files: ['page*.jpg']
     
     Exam 3:
-        weight: 15
+        weight: 16
         due: 2019-12-15
         files: ['page*.jpg']
 
