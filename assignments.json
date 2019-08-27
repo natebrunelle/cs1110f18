@@ -258,7 +258,7 @@
   ,"rubric":{"kind":"percentage"}
   }
 ,"Exam 2":
-  {"weight":9
+  {"weight":12
   ,"due":"2019-11-08 23:59"
   ,"files":["page*.jpg"]
   ,"group":"Exam"
@@ -427,7 +427,7 @@
   ,"support":["gamebox.py"]
   }
 ,"Exam 3":
-  {"weight":15
+  {"weight":16
   ,"due":"2019-12-15 23:59"
   ,"files":["page*.jpg"]
   ,"group":"Exam"
