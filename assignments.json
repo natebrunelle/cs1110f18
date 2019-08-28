@@ -136,19 +136,19 @@
   ,"total":10
   ,"title":"averages"
   }
+,"Exam 1":
+  {"weight":12
+  ,"due":"2019-10-02 23:59"
+  ,"files":["page*.jpg"]
+  ,"group":"Exam"
+  ,"rubric":{"kind":"percentage"}
+  }
 ,"Lab06":
   {"title":"strings"
   ,"files":["str_funcs.py","changing_str.py"]
   ,"due":"2019-10-03 23:59"
   ,"open":"2019-09-27 00:00"
   ,"group":"Lab"
-  ,"rubric":{"kind":"percentage"}
-  }
-,"Exam 1":
-  {"weight":12
-  ,"due":"2019-10-04 23:59"
-  ,"files":["page*.jpg"]
-  ,"group":"Exam"
   ,"rubric":{"kind":"percentage"}
   }
 ,"Lab07":
@@ -249,19 +249,19 @@
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
+,"Exam 2":
+  {"weight":12
+  ,"due":"2019-11-06 23:59"
+  ,"files":["page*.jpg"]
+  ,"group":"Exam"
+  ,"rubric":{"kind":"percentage"}
+  }
 ,"Lab11":
   {"title":"rooms"
   ,"files":"rooms.py"
   ,"due":"2019-11-07 23:59"
   ,"open":"2019-11-05 00:00"
   ,"group":"Lab"
-  ,"rubric":{"kind":"percentage"}
-  }
-,"Exam 2":
-  {"weight":12
-  ,"due":"2019-11-08 23:59"
-  ,"files":["page*.jpg"]
-  ,"group":"Exam"
   ,"rubric":{"kind":"percentage"}
   }
 ,"PA16":
@@ -428,7 +428,7 @@
   }
 ,"Exam 3":
   {"weight":16
-  ,"due":"2019-12-15 23:59"
+  ,"due":"2019-12-13 23:59"
   ,"files":["page*.jpg"]
   ,"group":"Exam"
   ,"rubric":{"kind":"percentage"}
