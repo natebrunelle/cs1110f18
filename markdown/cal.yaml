@@ -114,17 +114,17 @@ assignments:
             
     Exam 1:
         weight: 12
-        due: 2019-10-04
+        due: 2019-10-02
         files: ['page*.jpg']
     
     Exam 2:
         weight: 12
-        due: 2019-11-08
+        due: 2019-11-06
         files: ['page*.jpg']
     
     Exam 3:
         weight: 16
-        due: 2019-12-15
+        due: 2019-12-13
         files: ['page*.jpg']
 
     Lab01:
