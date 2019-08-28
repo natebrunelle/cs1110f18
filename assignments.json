@@ -334,7 +334,7 @@
   }
 ,"Checkpoint 2":
   {"due":"2019-11-29 05:00"
-  ,"open":"2019-11-07 05:00"
+  ,"open":"2019-11-07 00:00"
   ,"group":"Project"
   ,"weight":1
   ,"total":1
@@ -381,7 +381,7 @@
   }
 ,"Project":
   {"due":"2019-12-06 23:59"
-  ,"open":"2019-11-07 05:00"
+  ,"open":"2019-11-07 00:00"
   ,"group":"Project"
   ,"weight":48
   ,"total":48
@@ -417,10 +417,6 @@
       ,"Code has some organization"
       ,"Code has some comments or documentation"
       ,"Game window size is within 800-by-600 limit"
-      ,"some explanations are insightful"
-      ,"all explanations are correct"
-      ,"has plans for future"
-      ,"plans seem likely to improve learning"
       ]
     }
   ,"files":["game.py","*.*"]
