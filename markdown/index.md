@@ -53,7 +53,7 @@ Section |Instructor            |Place
 1110-004|Nathan Brunelle       |TBD
 1111    |Will McBurney         |TBD
 
-If you have a direct conflict with our Final Exam, the make-up time will be a  make-up exam time. Look here for updates on when/where/how to take the exam at this make-up time closer to the exam date.
+If you have a direct conflict with our Final Exam, we will provide a  make-up exam time. Look here for details on when/where/how to take the exam at this make-up time approximately one month before the exam date.
 
 # Other *Introduction to Programming* Offerings
 
