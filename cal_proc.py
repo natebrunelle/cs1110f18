@@ -201,7 +201,7 @@ def coursegrade_json(data):
 
 weekdays = ('Mon','Tue','Wed','Thu','Fri','Sat','Sun')
 
-def calendar(data,l001={},l002={},l003={},l1111={}):
+def calendar(data,l001={},l002={},l003={},l004={},l1111={}):
     oneday = timedelta(1)
     things = {}
     breaks = [
@@ -251,7 +251,7 @@ def calendar(data,l001={},l002={},l003={},l1111={}):
                     r = data['reading'].get(d1, [])[:]
                     classidx += 1
                     today['1110'] = d1 + ('<span class="reading">' + ', '.join(r)+'</span>' if r else '')
-                    for dic,nam in (l001,'l001'), (l002,'l002'), (l003,'l003'):
+                    for dic,nam in (l001,'l001'), (l002,'l002'), (l003,'l003'), (l004,'l004'):
                         if d in dic:
                             links = []
                             for k,v in dic[d].items():
@@ -323,7 +323,7 @@ if __name__ == '__main__':
     with open('markdown/cal.yaml') as stream:
         data = load(stream, Loader=Loader)
 
-    l001, l002, l003, l1111 = {}, {}, {}, {}    
+    l001, l002, l003, l004, l1111 = {}, {}, {}, {}, {}    
     try:
         with open('links-001.yaml') as stream:
             l001 = load(stream, Loader=Loader)
@@ -339,12 +339,17 @@ if __name__ == '__main__':
             l003 = load(stream, Loader=Loader)
         if l003 is None: l003 = {}
     except: pass
+        try:
+        with open('links-004.yaml') as stream:
+            l004 = load(stream, Loader=Loader)
+        if l004 is None: l004 = {}
+    except: pass
     try:
         with open('links-1111.yaml') as stream:
             l1111 = load(stream, Loader=Loader)
         if l1111 is None: l1111 = {}
     except: pass
-    print(l001, l002, l003, l1111)
+    print(l001, l002, l003, l004, l1111)
     
         
     with open('assignments.json', 'w') as f:
@@ -389,6 +394,7 @@ if __name__ == '__main__':
     .l001:before { content: "001 files: "; font-size:70.7%; opacity: 0.707; }
     .l002:before { content: "002 files: "; font-size:70.7%; opacity: 0.707; }
     .l003:before { content: "003 files: "; font-size:70.7%; opacity: 0.707; }
+    .l004:before { content: "004 files: "; font-size:70.7%; opacity: 0.707; }
     .l1111:before { content: "1111 files: "; font-size:70.7%; opacity: 0.707; }
     .links:not(.hide) { display: block; }
 
@@ -425,7 +431,7 @@ if __name__ == '__main__':
 <input type="button" id="asAgenda" value="agenda view" onclick="document.getElementById('schedule').setAttribute('class','agenda');"/>
 <input type="button" id="asCalendar" value="calendar view" onclick="document.getElementById('schedule').setAttribute('class','calendar')"/>
 """)
-        f.write(divify(calendar(data, l001, l002, l003, l1111)))
+        f.write(divify(calendar(data, l001, l002, l003, l004, l1111)))
         f.write("""<script>//<!--
 var days = document.querySelectorAll('.day');
 for(var i=0; i<days.length; i+=1) {
