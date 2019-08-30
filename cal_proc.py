@@ -339,7 +339,7 @@ if __name__ == '__main__':
             l003 = load(stream, Loader=Loader)
         if l003 is None: l003 = {}
     except: pass
-        try:
+    try:
         with open('links-004.yaml') as stream:
             l004 = load(stream, Loader=Loader)
         if l004 is None: l004 = {}
