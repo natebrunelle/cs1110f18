@@ -312,6 +312,17 @@
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
+,"PA19":
+  {"files":"regex.py"
+  ,"open":"2019-11-07 00:00"
+  ,"due":"2019-11-25 09:00"
+  ,"group":"PA"
+  ,"tester":"test_regex.py"
+  ,"late-policy":[0.75,0.75]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"regex"
+  }
 ,"Checkpoint 1":
   {"due":"2019-11-26 05:00"
   ,"open":"2019-11-18 00:00"
@@ -349,17 +360,6 @@
     }
   ,"files":["game.py","*.*"]
   ,"support":["gamebox.py"]
-  }
-,"PA19":
-  {"files":"regex.py"
-  ,"open":"2019-11-07 00:00"
-  ,"due":"2019-11-29 09:00"
-  ,"group":"PA"
-  ,"tester":"test_regex.py"
-  ,"late-policy":[0.75,0.75]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"regex"
   }
 ,"PA20":
   {"files":"salary.py"

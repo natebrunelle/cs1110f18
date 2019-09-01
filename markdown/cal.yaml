@@ -282,8 +282,8 @@ assignments:
         due: 2019-12-02 09:00:00
         
     Checkpoint 1:
-        due: 2019-11-26 05:00:00
-        open: 2019-11-18
+        due: 2019-11-18 05:00:00
+        open: 2019-11-07
         group: Project
         weight: 1
         total: 1
@@ -298,8 +298,8 @@ assignments:
                 - Identifies which optional components will be attempted
             
     Checkpoint 2:
-        due: 2019-11-29 05:00:00
-        open: 2019-11-25
+        due: 2019-11-25 05:00:00
+        open: 2019-11-07
         group: Project
         weight: 1
         total: 1
