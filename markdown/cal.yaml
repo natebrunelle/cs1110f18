@@ -275,7 +275,7 @@ assignments:
     PA19:
         files: regex.py
         open: 2019-11-07
-        due: 2019-11-29 09:00:00
+        due: 2019-11-25 09:00:00
     PA20:
         files: salary.py
         open: 2019-11-07
