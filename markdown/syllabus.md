@@ -63,7 +63,7 @@ Office hours: Tuesday 9:00-10:30, Friday 10:00-11:30 (may change, changes will b
 
 Email: rp6zr@virginia.edu 
 
-Comments: Please include "CS1110" in the subject of all of you email correspondence
+Comments: Please include "CS1110" in the subject of all of your email correspondence
 
 
 
