@@ -294,6 +294,26 @@
   ,"total":10
   ,"title":"spellcheck"
   }
+,"Checkpoint 1":
+  {"due":"2019-11-18 05:00"
+  ,"open":"2019-11-07 00:00"
+  ,"group":"Project"
+  ,"weight":1
+  ,"total":1
+  ,"writeup":"project.html"
+  ,"rubric":
+    {"kind":"hybrid"
+    ,"auto-weight":0
+    ,"auto-late-days":0
+    ,"late-penalty":1
+    ,"human":
+      ["Contains some comments describing idea"
+      ,"Identifies which optional components will be attempted"
+      ]
+    }
+  ,"files":["game.py","*.*"]
+  ,"support":["gamebox.py"]
+  }
 ,"PA18":
   {"files":["flappybird.py","*.jpg","*.png"]
   ,"writeup":"pa19-flappy.html"
@@ -312,40 +332,9 @@
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
-,"PA19":
-  {"files":"regex.py"
-  ,"open":"2019-11-07 00:00"
-  ,"due":"2019-11-25 09:00"
-  ,"group":"PA"
-  ,"tester":"test_regex.py"
-  ,"late-policy":[0.75,0.75]
-  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
-  ,"total":10
-  ,"title":"regex"
-  }
-,"Checkpoint 1":
-  {"due":"2019-11-26 05:00"
-  ,"open":"2019-11-18 00:00"
-  ,"group":"Project"
-  ,"weight":1
-  ,"total":1
-  ,"writeup":"project.html"
-  ,"rubric":
-    {"kind":"hybrid"
-    ,"auto-weight":0
-    ,"auto-late-days":0
-    ,"late-penalty":1
-    ,"human":
-      ["Contains some comments describing idea"
-      ,"Identifies which optional components will be attempted"
-      ]
-    }
-  ,"files":["game.py","*.*"]
-  ,"support":["gamebox.py"]
-  }
 ,"Checkpoint 2":
-  {"due":"2019-11-29 05:00"
-  ,"open":"2019-11-25 00:00"
+  {"due":"2019-11-25 05:00"
+  ,"open":"2019-11-07 00:00"
   ,"group":"Project"
   ,"weight":1
   ,"total":1
@@ -360,6 +349,17 @@
     }
   ,"files":["game.py","*.*"]
   ,"support":["gamebox.py"]
+  }
+,"PA19":
+  {"files":"regex.py"
+  ,"open":"2019-11-07 00:00"
+  ,"due":"2019-11-25 09:00"
+  ,"group":"PA"
+  ,"tester":"test_regex.py"
+  ,"late-policy":[0.75,0.75]
+  ,"support":["gradetools.py","timeout.py","timeout2.py","cacheurls.py"]
+  ,"total":10
+  ,"title":"regex"
   }
 ,"PA20":
   {"files":"salary.py"
