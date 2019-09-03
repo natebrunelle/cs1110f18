@@ -24,11 +24,11 @@ you'd like us to know about you.
 
 # Example Output
 
-Prof. Tychonievich might submit a program that prints something like
+Prof. Brunelle might submit a program that prints something like
 
 ````
-Hi, I'm Prof. Tychonievich.
-I haven't had Internet access except at work since 2013.
+Hi, I'm Prof. Brunelle.
+I sometimes bake humongous batches of cookies (we're talking 500+ cookies)!
 answer 1
 answer 2
 answer 3
