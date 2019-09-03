@@ -47,7 +47,7 @@ Email: cd9au@virginia.edu
 
 Office: Rice 404
 
-Office hours: TBD
+Office hours: Tuesday 1-3pm, Thursday 11am-noon
 
 If my door is open, you are welcome to come in even when it is not my scheduled office hours.
 
