@@ -59,9 +59,11 @@ Comments: I get a lot of email, please include CS1110 or CS1111 in the subject l
 
 Office: Rice 212
 
-Office hours: TBD
+Office hours: Thursday 9:00-10:30, Friday 10:00-11:30 (may change, changes will be posted here) 
 
 Email: rp6zr@virginia.edu 
+
+Comments: Please include "CS1110" in the subject of all of your email correspondence
 
 
 
