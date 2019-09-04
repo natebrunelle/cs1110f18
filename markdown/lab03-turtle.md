@@ -12,7 +12,7 @@ Please support the TAs as they organize this and get to know you.
 As part of our ongoing effort to try to improve CS 1110, we have a group of researchers looking into how labs work and how they might work better. They have a survey they’d like you to fill out:
 
 
-<div style="display:table;margin: 1em auto;font-size:150%; padding:1ex; border:thin solid #e3e3e3; border-radius:4px; background:#f5f5f5;-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);">[Take the Survey](https://www.surveymonkey.com/r/LighthouseECSpring2019PreSurvey)</div>
+<div style="display:table;margin: 1em auto;font-size:150%; padding:1ex; border:thin solid #e3e3e3; border-radius:4px; background:#f5f5f5;-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);">[Take the Survey]https://www.surveymonkey.com/r/LHECPreSurveyFall2019</div>
 
 
 
