@@ -2,6 +2,10 @@
 title: "Lab 3: Art Contest - TA guide"
 ...
 
+# Getting students started
+
+First, show the students how to find information on turtle methods (do a web search for "python3 turtle"
+
 # Code Coaches
 
 Assign each student a code coach, one of the TAs in the room. Make these groups approximately equal size (probably about 12 students / TA).
