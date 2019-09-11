@@ -32,6 +32,5 @@ for i in range(60):  # move each turtle 60 times
 	for j in turtles:
 		j.forward(random.randint(1,5))  # since j is a turtle, we can call any turtle action on it
 		# we are using the randint function above, to generate a random number from 1-5
-		# right now all of the turtles end up on top of each other, we'll fix that in the future
 
 turtle.done()
