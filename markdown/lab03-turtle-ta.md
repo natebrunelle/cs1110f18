@@ -4,7 +4,9 @@ title: "Lab 3: Art Contest - TA guide"
 
 # Getting students started
 
-First, show the students how to find information on turtle methods (do a web search for "python3 turtle"
+1. Show the students how to find information on turtle methods (do a web search for "python3 turtle"
+1. Tell them that if they name their program turtle.py then it will not run
+1. tell them that the TAs will be selecting the best 3 images drawn, and those students will win a prize!
 
 # Code Coaches
 
