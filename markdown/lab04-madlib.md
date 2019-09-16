@@ -13,7 +13,7 @@ We've posted <a href="turtleart/" target="_blank">the turtle art submissions</a>
 
 # Pairing
 
-For this and all subsequent labs, you will work in pairs.:
+For this and all subsequent labs, you will work in pairs. It's generally beneficial if you work with several partners throughout the semester, especially if you work with a diversity of partners. For the reason, the TAs will guide you in an activity to randomize partnering.
 
 # Recitation
 
@@ -86,7 +86,7 @@ Make your code more readable with good variable names and insightful comments.
 
 ## Submission
 
-**Each partner** should submit one .py file named `madlib.py` to Archimedes (the submission system):
+**Each partner** should submit one .py file named `madlib.py` to Kytos (the submission system):
 [https://kytos.cs.virginia.edu/cs1110/](https://kytos.cs.virginia.edu/cs1110/).
 Please put **both partners' ids** in comments at the top of the file.
 
