@@ -71,11 +71,6 @@ Hi! I’m a second year from Purcellville, VA, pursuing a major in computer scie
 
 # Ibrahim Hamdy
 
-My name is Ibrahim, I’m a second year computer science and electrical engineering major. I’m also a prominent member of the swim team as well as several other clubs (SGD, augmented reality, etc.). I’ve been programming since I was in sixth grade probably, and I’ve loved it since. Fun fact about me: i help run a YouTube channel with my roommate, so if you ever want blackmail material check out Content Unknown!
-
-
-# Ibrahim Hamdy
-
 I am a second year computer science and electrical engineering major (maybe). I’m also apart of the swim team and several clubs involving game design including sgd and augmented reality. Fun fact about me: I’ve been programming longer than I’ve known how to ride a bike. Yes, I am a big nerd.
 
 
