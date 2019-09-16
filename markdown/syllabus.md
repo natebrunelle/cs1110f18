@@ -27,7 +27,7 @@ Personal issues impacting coursework (labs, exams, etc...)    Your dean, and/or 
 
 Office: Rice 209
 
-Office hours: Mondays 5-6pm, Thursdays 2-3pm
+Office hours: Wednesdays 5-6pm, Thursdays 2-3pm
 
 If my door is open, you are welcome to come in even when it is not my scheduled office hours.
 
