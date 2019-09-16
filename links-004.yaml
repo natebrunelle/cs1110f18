@@ -31,6 +31,8 @@
 2019-09-13:
     slides: https://docs.google.com/presentation/d/1pFRFok2Gek5Na-MC50oJf6yYilhlBV2wTGn-ABOZCJc/edit?usp=sharing
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6cc177c3-becf-47c0-99b3-aac700d66e5a
+    files: [files/cs1110_004f19/sept13/values_types.py]
     
 2019-09-16:
     slides: https://docs.google.com/presentation/d/1dtf6VnmgxXqYxpLbMG485PxzonFDXl9sIfx_Jvy6CRc/edit?usp=sharing
+    files: [files/cs1110_004f19/sept16/weird_numbers.py, files/cs1110_004f19/sept16/strange_strings.py, files/cs1110_004f19/sept16/double_your_money.py]
