@@ -16,6 +16,14 @@ Feel free to sort by coach to make this easier.
 Direct students to the [turtle art gallery](http://cs1110.cs.virginia.edu/turtleart/).
 Award turtles to the best team(s) in your lab.
 
+# Office hours
+
+remind students OH have started, tell them where to go, when, and how to join the queue
+
+# Piazza
+
+remind students of piazza etiquettes, in particular, don't post your code publicly
+
 # Pre-exercise presentation
 
 ## Background
@@ -52,6 +60,8 @@ Summarize the task for this lab, which is to make a program that
 - has a template phrase
 - asks for user-supplied words
 - prints the phrase with the user-supplied words
+
+give and example of how the code should behave: TODO: link to an implementation.
 
 Ask them to think about how they might get the user-supplied words into a phrase.
 Prompt them with the following if they don't come up with them on their own:
