@@ -194,13 +194,13 @@ A fun fact about myself is that for the first 13 years of my life, I absolutely 
 # Karragan Harvell
 
 A few things about me:
--I'm from Chesterfield, VA
--I'm fluent in Spanish (but have a terrible accent)
--My major (still undeclared at the moment) is CS
--I honestly love and enjoy teaching/tutoring
--I am a second-year student
--Regular expressions are my favorite part of CS 1110 and Gamebox is my least favorite part
--I love bodybuilding and working out but, surprisingly, dislike sports
+- I'm from Chesterfield, VA
+- I'm fluent in Spanish (but have a terrible accent)
+- My major (still undeclared at the moment) is CS
+- I honestly love and enjoy teaching/tutoring
+- I am a second-year student
+- Regular expressions are my favorite part of CS 1110 and Gamebox is my least favorite part
+- I love bodybuilding and working out but, surprisingly, dislike sports
 
 I am always happy to help with anything any of you need help with, please don't ever hesitate to ask for help if you need it!
 
