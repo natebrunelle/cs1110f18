@@ -18,6 +18,14 @@ Talk to me about CS, math, and EE classes, running (or any other sport), and you
 Hey everyone! I'm a 3rd year CS and Music student in the College. In my free time, I enjoy composing songs and destroying my friends in Smash Bros.
 
 
+# Andrew Leon
+
+<img src=ta_images/f19/andrewleon.jpg height="400" >
+
+
+Hi I am a fourth year Computer Science major with a Statistics minor. I had zero programming experience before CS1110, but it made me become a CS major and I couldn't be happier. In my free time I am on the Team Handball Club here on grounds and love to watch the Hoos play any sport. Fun fact about me is my birthday is Valentine's Day. Hope you all enjoy this class as much as I did! 
+
+
 # Anna Morse
 
 <img src=ta_images/f19/annamorse.jpg height="400" >
@@ -40,6 +48,16 @@ Hello! I am a current 2nd year BSCS Major from Norfolk Virginia! Back home I wor
 
 
 I'm a second year studying Computer Science in the College! This is my first semester as a TA for 1110 and I'm excited to work with everyone. In my free time I like to play Pokemon Go and write! A fun fact about me is that I really like cats. 
+
+
+# Catherine Zhao
+
+<img src=ta_images/f19/catherinezhao.jpg height="400" >
+
+
+Hi there! I'm a second year from Centreville, VA majoring in biomedical engineering. CS 1110 was my favorite class that I took my first year and it's what led me to pursue CS minor. This is my first semester TAing for 1110. 
+
+Outside of school, I'm involved in the Cavalier Marching Band (yay clarinets!), A.O.E. (the engineering sorority), SWE (the Society of Women Engineers), and XA (Chi Alpha Christian Fellowship). Fun(?) fact about me is that I am double jointed in my fingers. 
 
 
 # Clara Na
@@ -173,12 +191,37 @@ Hi everyone! I love cooking, playing board games, and amusement parks! Born and 
 A fun fact about myself is that for the first 13 years of my life, I absolutely refused to use a fork.
 
 
+# Karragan Harvell
+
+A few things about me:
+-I'm from Chesterfield, VA
+-I'm fluent in Spanish (but have a terrible accent)
+-My major (still undeclared at the moment) is CS
+-I honestly love and enjoy teaching/tutoring
+-I am a second-year student
+-Regular expressions are my favorite part of CS 1110 and Gamebox is my least favorite part
+-I love bodybuilding and working out but, surprisingly, dislike sports
+
+I am always happy to help with anything any of you need help with, please don't ever hesitate to ask for help if you need it!
+
+I look forward to working with you all this semester,
+Karragan
+
+
 # Maria Parnell
 
 <img src=ta_images/f19/mariaparnell.jpg height="400" >
 
 
 Hey guys! My name is Maria Parnell, and I'm a second year computer engineering major from Roanoke, Virginia. I play trumpet in the Cavalier Marching Band, used to dance and read a lot but generally don't have time anymore, and can't handle spicy foods. This is my second semester TAing for this class, and I'm really excited for the upcoming semester! They asked for a fun fact, so here goes: I have two bottles of shark's teeth that I've collected sitting on my desk at home.
+
+
+# Megan Reddy
+
+<img src=ta_images/f19/meganreddy.jpg height="400" >
+
+
+Hi! I’m a third year Computer Science major in the engineering school. This is my first semester as a TA for 1110. Outside of school, I play the violin and am currently in the Cavalier Symphony Orchestra. I studied abroad in Valencia, Spain this past summer as well. A fun fact is that I do a lot of digital art and animation, so feel free to ask me about those or CS in general!
 
 
 # Megan Van Rafelghem
