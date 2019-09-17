@@ -194,6 +194,7 @@ A fun fact about myself is that for the first 13 years of my life, I absolutely 
 # Karragan Harvell
 
 A few things about me:
+
 - I'm from Chesterfield, VA
 - I'm fluent in Spanish (but have a terrible accent)
 - My major (still undeclared at the moment) is CS
