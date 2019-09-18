@@ -25,4 +25,6 @@
     files: [files/cs1111_19fa/in_class_09_16.py, files/cs1111_19fa/in_class_09_16_solution.py]
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1a76000-d8b2-4248-b912-aaca01424da5
     
-
+2019-09-18:
+    slides: http://www.cs.virginia.edu/~pm8fc/fa19/cs1111/slides/09_16_Functions_II.pdf
+    files: [files/cs1111_19fa/tracing_practice.py, files/cs1111_19fa/global_variable_example.py]
