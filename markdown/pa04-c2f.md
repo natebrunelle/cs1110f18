@@ -47,11 +47,4 @@ Looking for more practice?  Feel free to try (but not submit) the following:
     Your wall loses heat at about 563 watts
     ````
 
-# Troubleshooting
-
-Recall that $9 \times (C + 40) = 5 \times (F + 40)$.
-A bit of algebra yields $C = (5 \times (F + 40) \div 9) - 40$
-and $F = (9 \times (C + 40) \div 5) - 40$.
-Other formulations of this also exist.
-
 
