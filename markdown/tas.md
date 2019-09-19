@@ -42,6 +42,14 @@ Hi! I'm a third year double majoring in Computer Science and Philosophy. In my f
 Hello! I am a current 2nd year BSCS Major from Norfolk Virginia! Back home I work as a Lifeguard and Water Safety Instructor. On the side I am a Super Smash Bros. Ultimate competitor and very big on gaming. Fun fact about me, I am currently writing a book known as The Caerestra Chronicles which can be found on Wattpad!  
 
 
+# Caroline Britt 
+
+<img src=ta_images/f19/carolinebritt.jpg height="400" >
+
+
+Hi guys, my name is Caroline Britt! I am a 2nd year intending on applying to McIntire and minoring in computer science. I took CS 1110 in the Spring of my first year and loved it so I decided to become a TA! This is my first semester TAing CS 1110. Outside of school, I enjoy photography, rooting on the Washington Capitals, eating good food on the Corner, and watching UVA sports. A fun fact about me is that my 2 sisters and Dad all went to Virginia Tech (Go Hoos!!!) 
+
+
 # Caroline Chen
 
 <img src=ta_images/f19/carolinechen.jpg height="400" >
@@ -131,6 +139,14 @@ Hi! I’m a second year from Purcellville, VA, pursuing a major in computer scie
 I am a second year computer science and electrical engineering major (maybe). I’m also apart of the swim team and several clubs involving game design including sgd and augmented reality. Fun fact about me: I’ve been programming longer than I’ve known how to ride a bike. Yes, I am a big nerd.
 
 
+# Jared Tewodros
+
+<img src=ta_images/f19/jaredtewodros.jpg height="400" >
+
+
+Hey guys, I'm Jared! I'm a 2nd year CS major from Great Falls, VA. Taking CS1110 probably saved my (and honestly a bunch of others') life because it took my off the pre-med track, so I hope you enjoy it as much as I did. Outside of class, I'm an avid (and desperately hopeful) Redskins fan and spend an unhealthy amount of time looking for new music on Spotify. If you ever see me around Grounds, feel free to say hi.
+
+
 # Jason Jabbour
 
 <img src=ta_images/f19/jasonjabbour.jpg height="400" >
@@ -207,6 +223,14 @@ I am always happy to help with anything any of you need help with, please don't 
 
 I look forward to working with you all this semester,
 Karragan
+
+
+# Kevin Moccia
+
+<img src=ta_images/f19/kevinmoccia.jpg height="400" >
+
+
+Hey! I'm a second year studying Aerospace Engineering and pursuing a minor in Engineering Business. I am originally from Trumbull, Connecticut, and in my free time around grounds I enjoy playing IM sports and hanging out with friends. A fun fact about me is that I have a Betta Fish named Timmy who I brought home with me on a 9 hour train ride, but unfortunately now he's back in CT being watched after by a friend.
 
 
 # Maria Parnell
