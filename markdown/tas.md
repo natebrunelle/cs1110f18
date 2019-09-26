@@ -18,6 +18,14 @@ Talk to me about CS, math, and EE classes, running (or any other sport), and you
 Hey everyone! I'm a 3rd year CS and Music student in the College. In my free time, I enjoy composing songs and destroying my friends in Smash Bros.
 
 
+# Alexander Zummo
+
+<img src=ta_images/f19/alexanderzummo.jpg height="400" >
+
+
+I'm Alex Zummo. I'm a third year BS in Computer Science major. At UVA I'm a member of the Society of Hispanic Professional Engineers, a code coach for CS 1110, and a brother of Psi chapter of Phi Sigma Kappa. When I'm not on grounds, you can find me in my hammock, out with my friends, playing tennis, or trying out a new recipe -Follow my cooking Instagram @zummos_kitchen to see what I'm cooking up today. A fun fact about me is that  I own and can play over 20 musical instruments.
+
+
 # Andrew Leon
 
 <img src=ta_images/f19/andrewleon.jpg height="400" >
