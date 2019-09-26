@@ -224,7 +224,7 @@ It would probably go without saying if we didn't say it, but no assistance may b
 ## Programming Assignments
 
 - Homework assignments will not be handed out in class. Everything will be available online.
-- Be sure to include your name and computing id in all assignments. This acts as your "honor pledge"
+- Be sure to include your name and computing id in all assignments. This acts as your "honor pledge", and signifies that all of the work submitted in that file is your own.
 - You should [cite](#acknowledge-your-sources) any ideas you discuss with other students or outside resources, as well as any code assistance you receive from any source.
 - See [the submission system](https://kytos.cs.virginia.edu/cs1110/) for more information.
 
