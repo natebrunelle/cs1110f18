@@ -32,3 +32,8 @@
 2019-09-23:
     slides: http://www.cs.virginia.edu/~pm8fc/fa19/cs1111/slides/09_23_Functions_III.pdf
     files: [files/cs1111_19fa/global_variable_example.py, files/cs1111_19fa/spending_tracker.py, files/cs1111_19fa/named_parameters.py, files/cs1111_19fa/import_example.py]
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1931a98-0f9e-4d88-ae22-aad101423e14
+
+2019-09-23:
+    slides: http://www.cs.virginia.edu/~pm8fc/fa19/cs1111/slides/09_25_Conditionals.pdf
+    files: [files/cs1111_19fa/date_checker.py, files/cs1111_19fa/date_checker.py]
