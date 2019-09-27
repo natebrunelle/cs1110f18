@@ -125,7 +125,7 @@ assignments:
         weight: 16
         due: 2019-12-13
         files: ['page*.jpg']
-        .hide: true
+        ".hide": true
 
     Lab01:
         title: installing
