@@ -116,49 +116,49 @@ assignments:
         due: 2019-10-02
         files: ['page*.jpg']
     
-    E1P1:
+    Exam1P1:
         weight: 0
         due: 2019-10-02
         files: ['page*.jpg']
         hide: true
         
-    E1P2:
+    Exam1P2:
         weight: 0
         due: 2019-10-02
         files: ['page*.jpg']
         hide: true
         
-    E1P3:
+    Exam1P3:
         weight: 0
         due: 2019-10-02
         files: ['page*.jpg']
         hide: true
         
-    E1P4:
+    Exam1P4:
         weight: 0
         due: 2019-10-02
         files: ['page*.jpg']
         hide: true
     
-    E1P5:
+    Exam1P5:
         weight: 0
         due: 2019-10-02
         files: ['page*.jpg']
         hide: true
         
-    E1P6:
+    Exam1P6:
         weight: 0
         due: 2019-10-02
         files: ['page*.jpg']
         hide: true
         
-    E1P7:
+    Exam1P7:
         weight: 0
         due: 2019-10-02
         files: ['page*.jpg']
         hide: true
         
-    E1P8:
+    Exam1P8:
         weight: 0
         due: 2019-10-02
         files: ['page*.jpg']
