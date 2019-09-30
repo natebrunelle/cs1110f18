@@ -33,7 +33,7 @@ We'll then proceed as follows:
 
 1.  ask them a letter
 2.  adjust the string, replacing letter-blank pairs with letter-letter pairs
-3.  display every other letter of the word so they see only the blanks and letters they guessed
+3.  display **every other** letter of the word so they see only the blanks and letters they guessed
 
 We'll write that code, copy-and-paste it a bunch of times, and we'll have basic Hangman.
 
