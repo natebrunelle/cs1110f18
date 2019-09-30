@@ -22,6 +22,12 @@ Remind the students that
 2.	The directions give hints
 3.	PyCharm has a find-replace tool (demonstrate it for them) they are likely to find useful
 
+# To get them started
+
+First describe how the game of hangman works. After this show that each blank will have a letter labelling what belongs there. On a board we might put this label beneath the blank and hide it from the player. In the program, we just move that label to the left of the blank, and display only ever alternate character.
+
+**Tell them "Try using a function before asking someone else what it does"**
+
 
 # Example solution
 
