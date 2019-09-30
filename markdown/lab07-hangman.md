@@ -72,7 +72,7 @@ we start at index 2: "th`ings are getting strange`";
 end before the third to last: "th`ings are getting stra`nge";
 and include every third character: "th`i`ng`s` a`r`e `g`et`t`in`g` s`t`range" → `isrgtgt`.
 
-How can you use the extended slice to, given `word = "j_eel_l_i_eedd"`, display `_e___ed`?
+How can you use the extended slice to, given `word = "j_eel_l_i_eedd"`, display `_e___ed`? (**Hint**: those represent every other character)
 
 ### Example
 
