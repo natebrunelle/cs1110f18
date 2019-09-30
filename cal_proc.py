@@ -217,6 +217,7 @@ def calendar(data,l001={},l002={},l003={},l004={},l1111={}):
     for k,v in data['assignments'].items():
         if k.startswith('.'): continue
         if v is None or 'due' not in v: continue
+        if 'hide' in v and v['hide'] == True: continue
         d = v['due']
         if isinstance(d, datetime): d = d.date()
         things.setdefault(d, []).append(k)
