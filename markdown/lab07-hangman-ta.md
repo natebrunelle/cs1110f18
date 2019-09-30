@@ -2,6 +2,11 @@
 title: "Lab 7: Hangman"
 ...
 
+# Drop deadline
+
+Find a tactful way of mentioning they can still drop the course:
+"If you were considering dropping the course, be aware that after Oct 15 it will show up as a withdrawal on your transcript. This is an E-school course, so we follow the E-school deadlines, regardless of which school you are in. In other words, even if you are in the college you can still drop up until Oct 15"
+
 
 # Purpose of this lab
 
