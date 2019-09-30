@@ -136,18 +136,74 @@
   ,"total":10
   ,"title":"averages"
   }
-,"E1P1":{"weight":0,"due":"2019-10-02 23:59","files":["page*.jpg"],"hide":true}
-,"E1P2":{"weight":0,"due":"2019-10-02 23:59","files":["page*.jpg"],"hide":true}
-,"E1P3":{"weight":0,"due":"2019-10-02 23:59","files":["page*.jpg"],"hide":true}
-,"E1P4":{"weight":0,"due":"2019-10-02 23:59","files":["page*.jpg"],"hide":true}
-,"E1P5":{"weight":0,"due":"2019-10-02 23:59","files":["page*.jpg"],"hide":true}
-,"E1P6":{"weight":0,"due":"2019-10-02 23:59","files":["page*.jpg"],"hide":true}
-,"E1P7":{"weight":0,"due":"2019-10-02 23:59","files":["page*.jpg"],"hide":true}
-,"E1P8":{"weight":0,"due":"2019-10-02 23:59","files":["page*.jpg"],"hide":true}
 ,"Exam 1":
   {"weight":12
   ,"due":"2019-10-02 23:59"
   ,"files":["page*.jpg"]
+  ,"group":"Exam"
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Exam1P1":
+  {"weight":0
+  ,"due":"2019-10-02 23:59"
+  ,"files":["page*.jpg"]
+  ,"hide":true
+  ,"group":"Exam"
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Exam1P2":
+  {"weight":0
+  ,"due":"2019-10-02 23:59"
+  ,"files":["page*.jpg"]
+  ,"hide":true
+  ,"group":"Exam"
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Exam1P3":
+  {"weight":0
+  ,"due":"2019-10-02 23:59"
+  ,"files":["page*.jpg"]
+  ,"hide":true
+  ,"group":"Exam"
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Exam1P4":
+  {"weight":0
+  ,"due":"2019-10-02 23:59"
+  ,"files":["page*.jpg"]
+  ,"hide":true
+  ,"group":"Exam"
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Exam1P5":
+  {"weight":0
+  ,"due":"2019-10-02 23:59"
+  ,"files":["page*.jpg"]
+  ,"hide":true
+  ,"group":"Exam"
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Exam1P6":
+  {"weight":0
+  ,"due":"2019-10-02 23:59"
+  ,"files":["page*.jpg"]
+  ,"hide":true
+  ,"group":"Exam"
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Exam1P7":
+  {"weight":0
+  ,"due":"2019-10-02 23:59"
+  ,"files":["page*.jpg"]
+  ,"hide":true
+  ,"group":"Exam"
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Exam1P8":
+  {"weight":0
+  ,"due":"2019-10-02 23:59"
+  ,"files":["page*.jpg"]
+  ,"hide":true
   ,"group":"Exam"
   ,"rubric":{"kind":"percentage"}
   }
