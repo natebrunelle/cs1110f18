@@ -118,56 +118,49 @@ assignments:
     
     exam1p1:
         weight: 0
-        due: 2019-10-02
+        due: 2019-10-01
         files: ['exam*.pdf']
         hide: true
-        rubric:
-            kind: hybrid
-            auto-weight: 0
-            auto-late-days: 0
-            late-penalty: 0
-            human:
-                - Code submitted
-                - stuff
+
     Exam1P2:
         weight: 0
-        due: 2019-10-02
+        due: 2019-10-01
         files: ['page*.jpg']
         hide: true
         
     Exam1P3:
         weight: 0
-        due: 2019-10-02
+        due: 2019-10-01
         files: ['page*.jpg']
         hide: true
         
     Exam1P4:
         weight: 0
-        due: 2019-10-02
+        due: 2019-10-01
         files: ['page*.jpg']
         hide: true
     
     Exam1P5:
         weight: 0
-        due: 2019-10-02
+        due: 2019-10-01
         files: ['page*.jpg']
         hide: true
         
     Exam1P6:
         weight: 0
-        due: 2019-10-02
+        due: 2019-10-01
         files: ['page*.jpg']
         hide: true
         
     Exam1P7:
         weight: 0
-        due: 2019-10-02
+        due: 2019-10-01
         files: ['page*.jpg']
         hide: true
         
     Exam1P8:
         weight: 0
-        due: 2019-10-02
+        due: 2019-10-01
         files: ['page*.jpg']
         hide: true
     

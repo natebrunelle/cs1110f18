@@ -143,14 +143,6 @@
   ,"group":"Exam"
   ,"rubric":{"kind":"percentage"}
   }
-,"Exam1P1":
-  {"weight":0
-  ,"due":"2019-10-02 23:59"
-  ,"files":["page*.jpg"]
-  ,"hide":true
-  ,"group":"Exam"
-  ,"rubric":{"kind":"percentage"}
-  }
 ,"Exam1P2":
   {"weight":0
   ,"due":"2019-10-02 23:59"
@@ -206,6 +198,19 @@
   ,"hide":true
   ,"group":"Exam"
   ,"rubric":{"kind":"percentage"}
+  }
+,"exam1p1":
+  {"weight":0
+  ,"due":"2019-10-02 23:59"
+  ,"files":["exam*.pdf"]
+  ,"hide":true
+  ,"rubric":
+    {"kind":"hybrid"
+    ,"auto-weight":0
+    ,"auto-late-days":0
+    ,"late-penalty":0
+    ,"human":["Code submitted","stuff"]
+    }
   }
 ,"Lab06":
   {"title":"strings"
