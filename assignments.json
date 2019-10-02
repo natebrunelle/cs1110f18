@@ -136,15 +136,9 @@
   ,"total":10
   ,"title":"averages"
   }
-,"exam1p1":
-  {"weight":0
-  ,"open":"2019-10-01 00:00"
-  ,"due":"2019-10-01 00:00"
-  ,"files":["exam*.png"]
-  ,"hide":true
-  }
 ,"Exam1P3":
   {"weight":0
+  ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
@@ -153,6 +147,7 @@
   }
 ,"Exam1P4":
   {"weight":0
+  ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
@@ -161,6 +156,7 @@
   }
 ,"Exam1P5":
   {"weight":0
+  ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
@@ -169,6 +165,7 @@
   }
 ,"Exam1P6":
   {"weight":0
+  ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
@@ -177,6 +174,7 @@
   }
 ,"Exam1P7":
   {"weight":0
+  ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
@@ -185,14 +183,23 @@
   }
 ,"Exam1P8":
   {"weight":0
+  ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
   ,"group":"Exam"
   ,"rubric":{"kind":"percentage"}
   }
+,"exam1p1":
+  {"weight":0
+  ,"open":"2019-10-01 00:00"
+  ,"due":"2019-10-01 23:59"
+  ,"files":["exam*.png"]
+  ,"hide":true
+  }
 ,"exam1p2":
   {"weight":0
+  ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
