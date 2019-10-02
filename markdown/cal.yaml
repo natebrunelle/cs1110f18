@@ -114,54 +114,55 @@ assignments:
     Exam 1:
         weight: 12
         due: 2019-10-02
-        files: ['page*.jpg']
+        files: ['exam*.png']
     
     exam1p1:
         weight: 0
-        due: 2019-10-01
-        files: ['exam*.pdf']
+        open: 2019-10-01 00:00
+        due: 2019-10-01 00:00
+        files: ['exam*.png']
         hide: true
 
-    Exam1P2:
+    exam1p2:
         weight: 0
         due: 2019-10-01
-        files: ['page*.jpg']
+        files: ['exam*.png']
         hide: true
         
     Exam1P3:
         weight: 0
         due: 2019-10-01
-        files: ['page*.jpg']
+        files: ['exam*.png']
         hide: true
         
     Exam1P4:
         weight: 0
         due: 2019-10-01
-        files: ['page*.jpg']
+        files: ['exam*.png']
         hide: true
     
     Exam1P5:
         weight: 0
         due: 2019-10-01
-        files: ['page*.jpg']
+        files: ['exam*.png']
         hide: true
         
     Exam1P6:
         weight: 0
         due: 2019-10-01
-        files: ['page*.jpg']
+        files: ['exam*.png']
         hide: true
         
     Exam1P7:
         weight: 0
         due: 2019-10-01
-        files: ['page*.jpg']
+        files: ['exam*.png']
         hide: true
         
     Exam1P8:
         weight: 0
         due: 2019-10-01
-        files: ['page*.jpg']
+        files: ['exam*.png']
         hide: true
     
     Exam 2:
