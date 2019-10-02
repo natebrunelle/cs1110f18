@@ -116,12 +116,19 @@ assignments:
         due: 2019-10-02
         files: ['page*.jpg']
     
-    Exam1P1:
+    exam1p1:
         weight: 0
         due: 2019-10-02
-        files: ['page*.jpg']
+        files: ['exam*.pdf']
         hide: true
-        
+        rubric:
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 0
+            human:
+                - Code submitted
+                - stuff
     Exam1P2:
         weight: 0
         due: 2019-10-02
