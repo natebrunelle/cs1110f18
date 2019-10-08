@@ -11,9 +11,9 @@ Special Dates:
     start: 2019-10-05
     end: 2019-10-08
 
-  Exam1: 2019-10-02
-  Exam2: 2019-11-06
-  Exam3: 2019-12-13
+  Exam 1: 2019-10-02
+  Exam 2: 2019-11-06
+  Exam 3: 2019-12-13
 
 classes:
     -   Welcome
@@ -111,7 +111,7 @@ assignments:
             rubric: {"kind":"percentage"}
 
 
-    Exam1:
+    Exam 1:
         weight: 12
         due: 2019-10-02
         files: ['exam*.png']
@@ -173,12 +173,12 @@ assignments:
         files: ['exam*.png']
         hide: true
     
-    Exam2:
+    Exam 2:
         weight: 12
         due: 2019-11-06
         files: ['page*.jpg']
     
-    Exam3:
+    Exam 3:
         weight: 16
         due: 2019-12-13
         files: ['page*.jpg']

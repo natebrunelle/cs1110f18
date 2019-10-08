@@ -306,18 +306,11 @@
   ,"group":"Lab"
   ,"rubric":{"kind":"percentage"}
   }
-,"Exam 2":
+,"Exam2":
   {"weight":12
   ,"due":"2019-11-06 23:59"
   ,"files":["page*.jpg"]
   ,"group":"Exam"
-  ,"rubric":{"kind":"percentage"}
-  }
-,"Exam2":
-  {"group":"Exam"
-  ,"due":"2019-11-06 23:59"
-  ,"weight":1
-  ,"total":100
   ,"rubric":{"kind":"percentage"}
   }
 ,"Lab11":
@@ -486,18 +479,11 @@
   ,"files":["game.py","*.*"]
   ,"support":["gamebox.py"]
   }
-,"Exam 3":
+,"Exam3":
   {"weight":16
   ,"due":"2019-12-13 23:59"
   ,"files":["page*.jpg"]
   ,"group":"Exam"
-  ,"rubric":{"kind":"percentage"}
-  }
-,"Exam3":
-  {"group":"Exam"
-  ,"due":"2019-12-13 23:59"
-  ,"weight":1
-  ,"total":100
   ,"rubric":{"kind":"percentage"}
   }
 }
