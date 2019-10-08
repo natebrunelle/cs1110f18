@@ -196,7 +196,6 @@
   {"weight":12
   ,"due":"2019-10-02 23:59"
   ,"files":["exam*.png"]
-  ,"hide":true
   ,"group":"Exam"
   ,"rubric":{"kind":"percentage"}
   }
