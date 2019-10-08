@@ -137,56 +137,56 @@
   ,"title":"averages"
   }
 ,"exam1p1":
-  {"weight":0
+  {"weight":0.48
   ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
   }
 ,"exam1p2":
-  {"weight":0
+  {"weight":1.44
   ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
   }
 ,"exam1p3":
-  {"weight":0
+  {"weight":1.6
   ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
   }
 ,"exam1p4":
-  {"weight":0
+  {"weight":1.12
   ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
   }
 ,"exam1p5":
-  {"weight":0
+  {"weight":1.6
   ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
   }
 ,"exam1p6":
-  {"weight":0
+  {"weight":1.92
   ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
   }
 ,"exam1p7":
-  {"weight":0
+  {"weight":1.92
   ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
   }
 ,"exam1p8":
-  {"weight":0
+  {"weight":1.92
   ,"open":"2019-10-01 00:00"
   ,"due":"2019-10-01 23:59"
   ,"files":["exam*.png"]

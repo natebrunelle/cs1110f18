@@ -111,7 +111,7 @@ assignments:
             rubric: {"kind":"percentage"}
 
 
-    Exam 1:
+    Exam1:
         weight: 12
         due: 2019-10-02
         files: ['exam*.png']
