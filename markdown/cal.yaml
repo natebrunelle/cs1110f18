@@ -11,9 +11,9 @@ Special Dates:
     start: 2019-10-05
     end: 2019-10-08
 
-  Exam 1: 2019-10-02
-  Exam 2: 2019-11-06
-  Exam 3: 2019-12-13
+  Exam1: 2019-10-02
+  Exam2: 2019-11-06
+  Exam3: 2019-12-13
 
 classes:
     -   Welcome
@@ -115,6 +115,7 @@ assignments:
         weight: 12
         due: 2019-10-02
         files: ['exam*.png']
+        hide: true
     
     exam1p1:
         weight: 0.48

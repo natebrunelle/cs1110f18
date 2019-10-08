@@ -193,6 +193,13 @@
   ,"hide":true
   }
 ,"Exam 1":
+  {"group":"Exam"
+  ,"due":"2019-10-02 23:59"
+  ,"weight":1
+  ,"total":100
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Exam1":
   {"weight":12
   ,"due":"2019-10-02 23:59"
   ,"files":["exam*.png"]
