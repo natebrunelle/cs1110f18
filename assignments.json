@@ -192,17 +192,11 @@
   ,"files":["exam*.png"]
   ,"hide":true
   }
-,"Exam 1":
-  {"group":"Exam"
-  ,"due":"2019-10-02 23:59"
-  ,"weight":1
-  ,"total":100
-  ,"rubric":{"kind":"percentage"}
-  }
 ,"Exam1":
   {"weight":12
   ,"due":"2019-10-02 23:59"
   ,"files":["exam*.png"]
+  ,"hide":true
   ,"group":"Exam"
   ,"rubric":{"kind":"percentage"}
   }
@@ -317,6 +311,13 @@
   ,"due":"2019-11-06 23:59"
   ,"files":["page*.jpg"]
   ,"group":"Exam"
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Exam2":
+  {"group":"Exam"
+  ,"due":"2019-11-06 23:59"
+  ,"weight":1
+  ,"total":100
   ,"rubric":{"kind":"percentage"}
   }
 ,"Lab11":
@@ -490,6 +491,13 @@
   ,"due":"2019-12-13 23:59"
   ,"files":["page*.jpg"]
   ,"group":"Exam"
+  ,"rubric":{"kind":"percentage"}
+  }
+,"Exam3":
+  {"group":"Exam"
+  ,"due":"2019-12-13 23:59"
+  ,"weight":1
+  ,"total":100
   ,"rubric":{"kind":"percentage"}
   }
 }

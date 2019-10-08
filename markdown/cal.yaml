@@ -173,12 +173,12 @@ assignments:
         files: ['exam*.png']
         hide: true
     
-    Exam 2:
+    Exam2:
         weight: 12
         due: 2019-11-06
         files: ['page*.jpg']
     
-    Exam 3:
+    Exam3:
         weight: 16
         due: 2019-12-13
         files: ['page*.jpg']
