@@ -116,56 +116,56 @@ assignments:
         files: ['exam*.png']
     
     exam1p1:
-        weight: 0.48
+        weight: 3
         open: 2019-10-01
         due: 2019-10-01
         files: ['exam*.png']
         hide: true
 
     exam1p2:
-        weight: 1.44
+        weight: 9
         open: 2019-10-01
         due: 2019-10-01
         files: ['exam*.png']
         hide: true
         
     exam1p3:
-        weight: 1.6
+        weight: 10
         open: 2019-10-01
         due: 2019-10-01
         files: ['exam*.png']
         hide: true
         
     exam1p4:
-        weight: 1.12
+        weight: 7
         open: 2019-10-01
         due: 2019-10-01
         files: ['exam*.png']
         hide: true
     
     exam1p5:
-        weight: 1.6
+        weight: 10
         open: 2019-10-01
         due: 2019-10-01
         files: ['exam*.png']
         hide: true
         
     exam1p6:
-        weight: 1.92
+        weight: 12
         open: 2019-10-01
         due: 2019-10-01
         files: ['exam*.png']
         hide: true
         
     exam1p7:
-        weight: 1.92
+        weight: 12
         open: 2019-10-01
         due: 2019-10-01
         files: ['exam*.png']
         hide: true
         
     exam1p8:
-        weight: 1.92
+        weight: 12
         open: 2019-10-01
         due: 2019-10-01
         files: ['exam*.png']

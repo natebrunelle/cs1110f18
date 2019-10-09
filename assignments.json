@@ -197,7 +197,6 @@
   ,"due":"2019-10-02 23:59"
   ,"files":["exam*.png"]
   ,"group":"Exam"
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Lab06":
   {"title":"strings"
@@ -310,7 +309,6 @@
   ,"due":"2019-11-06 23:59"
   ,"files":["page*.jpg"]
   ,"group":"Exam"
-  ,"rubric":{"kind":"percentage"}
   }
 ,"Lab11":
   {"title":"rooms"
@@ -483,6 +481,5 @@
   ,"due":"2019-12-13 23:59"
   ,"files":["page*.jpg"]
   ,"group":"Exam"
-  ,"rubric":{"kind":"percentage"}
   }
 }
