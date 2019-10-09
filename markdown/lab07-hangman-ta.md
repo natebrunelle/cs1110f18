@@ -2,6 +2,11 @@
 title: "Lab 7: Hangman"
 ...
 
+# Drop deadline
+
+Find a tactful way of mentioning they can still drop the course:
+"If you were considering dropping the course, be aware that after Oct 15 it will show up as a withdrawal on your transcript. This is an E-school course, so we follow the E-school deadlines, regardless of which school you are in. In other words, even if you are in the college you have until Oct 15 to make a decision on whether to remain."
+
 
 # Purpose of this lab
 
@@ -21,6 +26,12 @@ Remind the students that
 1.	They write two files; the first should *not* use loops
 2.	The directions give hints
 3.	PyCharm has a find-replace tool (demonstrate it for them) they are likely to find useful
+
+# To get them started
+
+First describe how the game of hangman works. After this show that each blank will have a letter labelling what belongs there. On a board we might put this label beneath the blank and hide it from the player. In the program, we just move that label to the left of the blank, and display only ever alternate character.
+
+**Tell them "Try using a function before asking someone else what it does"**
 
 
 # Example solution

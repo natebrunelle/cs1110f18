@@ -33,7 +33,7 @@ We'll then proceed as follows:
 
 1.  ask them a letter
 2.  adjust the string, replacing letter-blank pairs with letter-letter pairs
-3.  display every other letter of the word so they see only the blanks and letters they guessed
+3.  display **every other** letter of the word so they see only the blanks and letters they guessed
 
 We'll write that code, copy-and-paste it a bunch of times, and we'll have basic Hangman.
 
@@ -72,7 +72,7 @@ we start at index 2: "th`ings are getting strange`";
 end before the third to last: "th`ings are getting stra`nge";
 and include every third character: "th`i`ng`s` a`r`e `g`et`t`in`g` s`t`range" → `isrgtgt`.
 
-How can you use the extended slice to, given `word = "j_eel_l_i_eedd"`, display `_e___ed`?
+How can you use the extended slice to, given `word = "j_eel_l_i_eedd"`, display `_e___ed`? (**Hint**: those represent every other character)
 
 ### Example
 
