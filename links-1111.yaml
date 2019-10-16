@@ -45,3 +45,9 @@
 2019-10-09:
     slides: http://www.cs.virginia.edu/~pm8fc/fa19/cs1111/slides/10_09_Repetition.pdf
     files: [files/cs1111_19fa/in_class_practice_solutions.py]
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b7762ea-42e2-484a-b531-aae101417c9c
+
+2019-10-14:
+    slides: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-14B-string.pdf
+    files: [files/cs1111_19fa/loop_examples.py, files/cs1111_19fa/prime.py, files/cs1111_19fa/deck_of_cards.py, files/cs1111_19fa/closest_two_soln.py]
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=964d806a-3876-48bd-9dc8-aae601418e98
