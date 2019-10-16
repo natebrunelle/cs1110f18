@@ -89,3 +89,5 @@
 
 2019-10-16:
     slides: https://docs.google.com/presentation/d/1ZSvhAAH3blpfI9PtOdrh_z4sGJ0Jb_Kw5C8ypswmXtE/edit?usp=sharing
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=367c2304-08f9-47fe-ad24-aae800d68fe5
+    files: [files/cs1110_004f19/oct16/style_good.py, files/cs1110_004f19/oct16/mutating_things.py, files/cs1110_004f19/oct16/lists_vs_tuples.py, files/cs1110_004f19/oct16/force_quitting_loops.py]
