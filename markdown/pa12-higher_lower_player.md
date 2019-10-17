@@ -75,7 +75,9 @@ Another run might look like:
 ````
 Think of a number between 1 and 100 and I'll guess it.
 How many guesses do I get? `3`
-Is the number higher, lower, or the same as 50? `same`
+Is the number higher, lower, or the same as 50? `higher`
+Is the number higher, lower, or the same as 75? `higher`
+Is the number higher, lower, or the same as 88? `same`
 I won!
 ````
 
