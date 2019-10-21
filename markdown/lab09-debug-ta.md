@@ -2,6 +2,13 @@
 title: "Lab 9: Debugging - TA Guide"
 ...
 
+## If students want to continue in CS
+
+The next courses to take are
+
+- CS 2110 Software Development Methods
+- CS 2102 Discrete Mathematics
+
 # Running the Lab
 
 Have students select new partners.
