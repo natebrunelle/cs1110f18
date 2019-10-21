@@ -51,3 +51,8 @@
     slides: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-14B-string.pdf
     files: [files/cs1111_19fa/loop_examples.py, files/cs1111_19fa/prime.py, files/cs1111_19fa/deck_of_cards.py, files/cs1111_19fa/closest_two_soln.py]
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=964d806a-3876-48bd-9dc8-aae601418e98
+    
+2019-10-16:
+    slides: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-15-list.pdf
+    files: [https://storage.googleapis.com/cs1111/note/note-06mar2019.py]
+
