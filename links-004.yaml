@@ -94,3 +94,10 @@
 
 2019-10-18:
     slides: https://docs.google.com/presentation/d/1vHKUJZreecExxe2sbRlASKPWpE27SDPDOfzz_M6JrB8/edit?usp=sharing
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ece7a3e4-d573-4a55-9121-aaea00d697ba
+    files: [files/cs1110_004f19/oct16/adding_collections.py, files/cs1110_004f19/oct16/some_accumulators.py]
+    
+2019-10-21:
+    slides: https://docs.google.com/presentation/d/1BuGX0aoKS1Ss4BMz3lSr8jSrYloVTeJZ8Sm2C7ahxDI/edit?usp=sharing
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dbfedaa3-e949-47c9-860a-aaed00d66dc9
+    files: [files/cs1110_004f19/oct21/print_things.py, files/cs1110_004f19/oct21/times_table.py, files/cs1110_004f19/oct21/simple_guessing_game.py, files/cs1110_004f19/oct21/myster_function.py]
