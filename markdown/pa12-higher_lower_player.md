@@ -114,4 +114,6 @@ for example, if the answer is `same` *and* all guesses are used up, which messag
 
 You should ask what the answer is only if the number of guesses was exceeded.
 
+Do you disagree with the rounding in the example? Here's something to consider. If I guess that the number is 50, and you say `higher`, can the number be 50?
+
 
