@@ -56,3 +56,7 @@
     slides: http://www.cs.virginia.edu/~up3f/cs1111/slides/1111-15-list.pdf
     files: [https://storage.googleapis.com/cs1111/note/note-06mar2019.py]
 
+2019-10-21:
+    slides: http://www.cs.virginia.edu/~pm8fc/fa19/cs1111/slides/10_21_Testing_Debugging.pdf
+    files: [files/cs1111_19fa/max_function.py, files/cs1111_19fa/find_bugs.py]
+    
