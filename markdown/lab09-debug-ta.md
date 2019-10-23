@@ -11,7 +11,11 @@ The next courses to take are
 
 # Running the Lab
 
-Have students select new partners.
+
+
+Have students select new partners (if you didn't last week).
+
+Show them the nim game http://cs1110.cs.virginia.edu/files/nim.py
 
 Review the debugging guide on the student site. Note: some instructors went over some of this in lecture, others did not, so their reaction to the review might vary.
 
