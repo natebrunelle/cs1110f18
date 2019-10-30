@@ -104,3 +104,18 @@
     
 2019-10-23:
     slides: https://docs.google.com/presentation/d/17ZnlS_aAZ1sT3DT8S5VfD10fQyOBbQnp6f6FKxcHabU/edit?usp=sharing
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ece07d9-588b-4699-9ce1-aaef00d64fc3
+    files: [files/cs1110_004f19/oct23/mystery_function.py, files/cs1110_004f19/oct23/absolute_value.py, files/cs1110_004f19/oct23/set_examples.py]
+    
+2019-10-25:
+    slides: https://docs.google.com/presentation/d/1RTHMlrzvrzNJl8HwDWQQ23LEqPsn-oNdyOt-CFnqmDE/edit?usp=sharing
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f103f857-af6f-46ef-b369-aaf100d65e03
+    files: [files/cs1110_004f19/oct25/dict_intro.py, files/cs1110_004f19/oct25/shopping_cart.py, files/cs1110_004f19/oct25/looping_on_values.py, files/cs1110_004f19/oct25/thing_rememberer.py, files/cs1110_004f19/oct25/piglatin_translater.py]
+
+2019-10-28:
+    slides: https://docs.google.com/presentation/d/1y5xoMKkmHItgr6PrLlrZlqoIDsQh4hxMdMNvo86V6UA/edit?usp=sharing
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d14437bc-398c-434e-a6f1-aaf400d67ecd
+    files: [files/cs1110_004f19/oct28/lunch_voting.py, files/cs1110_004f19/oct28/lunch_voting_dict.py, files/cs1110_004f19/oct28/general_election.py]
+
+2019-10-30:
+    slides: https://docs.google.com/presentation/d/1vImKMmDfOBN8xxY6xeCYeFFGH8QVr7To0ubemCj9rSI/edit?usp=sharing
