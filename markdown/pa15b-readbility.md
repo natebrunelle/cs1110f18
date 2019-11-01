@@ -31,15 +31,15 @@ It defines a function, it does not run one.
 
 We have provided a few example files for you:
 
--   The [instructions for Exam 2](examinstructions.txt)
--   The [course syllabus](/files/syllabus.txt)
--   The entire text of Shakespeare's [Hamlet](/files/hamlet.txt)
--   The entire text of [War and Peace](/files/warandpeace.txt)
--   The entire text of [The Velveteen Rabbit]((/files/velveteenrabbit.txt)
--   [Rapunzel](/files/rapunzel.txt) by the Brothers Grimm
--   The [intro for A Tale of Two Cities](/files/totci.txt)
--   [Baa Baa Black Sheep](/files/baabaa.txt)
--   Lyrics to [Heartless](/files/heartless.txt) by Kanye West
+-   The [instructions for Exam 2](/files/readability/examinstructions.txt)
+-   The [course syllabus](/files/readability/syllabus.txt)
+-   The entire text of Shakespeare's [Hamlet](/files/readability/hamlet.txt)
+-   The entire text of [War and Peace](/files/readability/warandpeace.txt)
+-   The entire text of [The Velveteen Rabbit]((/files/readability/velveteenrabbit.txt)
+-   [Rapunzel](/files/readability/rapunzel.txt) by the Brothers Grimm
+-   The [intro for A Tale of Two Cities](/files/readability/totci.txt)
+-   [Baa Baa Black Sheep](/files/readability/baabaa.txt)
+-   Lyrics to [Heartless](/files/readability/heartless.txt) by Kanye West
 
 If you download each of the above files into your pycharm project folder, then in another file (which you do not submit) you write the following:
 
