@@ -11,7 +11,7 @@ For this assignment, write a file names `readability.py` that has a function `au
 -   Receives the name of a local file as input
 -   counts the number of words in the file
 -   counts the number of characters in the file (excluding numbers and punctuation, so only includes letter a-z, either upper or lower case)
--   counts the number of sentences in the file (assume always separated by a comma, but not necessarily by a newline)
+-   counts the number of sentences in the file (assume always separated by a period, exclamation point, or question mark, but not necessarily by a newline)
 -   returns the Automated Readbility Index of the text in the file (as an `int`)
 
 
@@ -31,7 +31,7 @@ It defines a function, it does not run one.
 
 We have provided a few example files for you:
 
--   The [instructions for Exam 2](/files/examinstructions.txt)
+-   The [instructions for Exam 2](examinstructions.txt)
 -   The [course syllabus](/files/syllabus.txt)
 -   The entire text of Shakespeare's [Hamlet](/files/hamlet.txt)
 -   The entire text of [War and Peace](/files/warandpeace.txt)
@@ -60,7 +60,15 @@ print(readbility.automated_index('heartless.txt'))
 you should get the following output:
 
 ````
-
+4
+8
+5
+6
+4
+8
+55
+3
+0
 ````
 
 # Troubleshooting
