@@ -2,18 +2,13 @@
 title: "Lab 11: Counting Rooms Again"
 ...
 
-# CS Courses
-The TAs will spend a few minutes discussing the follow-up courses to cs1110 (the second-semester programming course is cs2110; there's also a [pilot](//pilot.cs.virginia.edu) of a new set of courses you are eligible for if you want to be a CS major). Feel free to ask them any questions you may have about their experiences in the computer science curriculum.
-
-# Collaboration tip
-Here is [a second Collaboration tip](https://docs.google.com/presentation/d/1bSOkar2XgpsyYCjng4iChchQr6HRB9xTUC7tJ9LhaxM/edit?usp=sharing).
 
 # Pairing
 
 You'll (probably) be paired for your final game project in lab today.
 Some TAs might decide to do that the following week instead.
 
-# Lab 2 Flashbach
+# Lab 2 Flashback
 
 
 <style> 
