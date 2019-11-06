@@ -2,40 +2,8 @@
 title: "Lab 11: Counting Rooms Again - TA Notes"
 ...
 
-# Preview post-1110 courses
 
-Give a preview of subsequent CS courses.
-
-## Pilot
-
-If they want to major (BS or BA), and they have room in their schedule, they are encouraged to participate in the [Pilot](//pilot.cs.virginia.edu). This would mean they take all of
-
-- Fall
-    - CS 2501-100 (DSA1) with lab
-    - CS 2501-200 (COA1) with lab
-    - CS 2102 (Discrete Math)
-- Spring
-    - CS 2501-??? (DSA2)
-    - CS 2501-??? (COA2)
-
-This will waive all required courses for the majors except
-
-- CS 3102 Computational Theory (required of both BA and BS if take pilot)
-- CS 4414 Operating Systems (if BS)
-
-... and electives.
-
-## Non-pilot
-
-If not majoring, or not having enough space in the coming year, the next courses to take are
-
-- CS 2110 Software Development Methods
-- CS 2102 Discrete Mathematics
-
-# Collaboration tip
-Here is [a second Collaboration tip](https://docs.google.com/presentation/d/1bSOkar2XgpsyYCjng4iChchQr6HRB9xTUC7tJ9LhaxM/edit?usp=sharing)
-
-# Paring
+# Pairing
 
 Explain that the final project will be paired.
 You have full authority to pair students however you wish.
