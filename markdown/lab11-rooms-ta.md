@@ -14,8 +14,7 @@ We recommend
 - same code-coach pairs (possibly by changing coaches)
 - if you need a group of 3, pick 3 solid students and ask them to do more than other teams do. A trio including 1 or more struggling students tends to go very poorly
 
-Record parings on the [project partner site](https://kytos.cs.virginia.edu/cs1110/partners.php) on kytos.
-If needed, also adjust [code coaches](https://kytos.cs.virginia.edu/cs1110/codecoach.php) to give both partners the same code coach.
+
 
 # Review the Task
 
