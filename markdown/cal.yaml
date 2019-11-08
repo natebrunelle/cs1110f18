@@ -178,50 +178,43 @@ assignments:
 
     exam2p1:
         weight: 3
-        open: 2019-10-01
-        due: 2019-10-01
+        due: 2019-11-06
         files: ['exam*.png']
         hide: true
 
     exam2p2:
         weight: 8
-        open: 2019-10-01
-        due: 2019-10-01
+        due: 2019-11-06
         files: ['exam*.png']
         hide: true
         
     exam2p3:
         weight: 14
-        open: 2019-10-01
-        due: 2019-10-01
+        due: 2019-11-06
         files: ['exam*.png']
         hide: true
         
     exam2p4-5:
         weight: 14
-        open: 2019-10-01
-        due: 2019-10-01
+        due: 2019-11-06
         files: ['exam*.png']
         hide: true
         
     exam2p6:
         weight: 9
-        open: 2019-10-01
-        due: 2019-10-01
+        due: 2019-11-06
         files: ['exam*.png']
         hide: true
         
     exam2p7:
         weight: 8
-        open: 2019-10-01
-        due: 2019-10-01
+        due: 2019-11-06
         files: ['exam*.png']
         hide: true
         
     exam2p8:
         weight: 0
-        open: 2019-10-01
-        due: 2019-10-01
+        due: 2019-11-06
         files: ['exam*.png']
         hide: true
     
