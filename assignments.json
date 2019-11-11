@@ -411,8 +411,8 @@
   ,"support":["gamebox.py"]
   }
 ,"PA18":
-  {"files":["flappybird.py","*.jpg","*.png"]
-  ,"writeup":"pa19-flappy.html"
+  {"files":["dinojump.py","*.jpg","*.png"]
+  ,"writeup":"pa18-dinojump.html"
   ,"open":"2019-11-07 00:00"
   ,"due":"2019-11-19 09:00"
   ,"group":"PA"
