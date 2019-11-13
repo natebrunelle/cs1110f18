@@ -175,6 +175,7 @@ assignments:
         weight: 12
         due: 2019-11-06
         files: ['page*.jpg']
+        hide: true
 
     exam2p1:
         weight: 3
@@ -207,7 +208,7 @@ assignments:
         hide: true
         
     exam2p7:
-        weight: 8
+        weight: 12
         due: 2019-11-06
         files: ['exam*.png']
         hide: true
