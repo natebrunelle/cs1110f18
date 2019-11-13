@@ -308,6 +308,7 @@
   {"weight":12
   ,"due":"2019-11-06 23:59"
   ,"files":["page*.jpg"]
+  ,"hide":true
   ,"group":"Exam"
   }
 ,"exam2p1":
@@ -341,7 +342,7 @@
   ,"hide":true
   }
 ,"exam2p7":
-  {"weight":8
+  {"weight":12
   ,"due":"2019-11-06 23:59"
   ,"files":["exam*.png"]
   ,"hide":true
