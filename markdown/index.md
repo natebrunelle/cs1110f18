@@ -47,10 +47,10 @@ The final exam will take place on Friday, December 13, 7-10PM. The location is d
 
 Section |Instructor            |Place
 --------|----------------------|-----------------------
-1110-001|Ray Pettit            |TBD
-1110-002|Craig Dill (12pm)     |TBD
-1110-003|Craig Dill (10am)     |TBD
-1110-004|Nathan Brunelle       |TBD
+1110-001|Ray Pettit            |McLeod 1020
+1110-002|Craig Dill (12pm)     |Chemistry 402
+1110-003|Craig Dill (10am)     |Chemistry 402
+1110-004|Nathan Brunelle       |Chemistry 402
 1111    |Will McBurney         |TBD
 
 If you have a direct conflict with our Final Exam, we will provide a  make-up exam time. Look here for details on when/where/how to take the exam at this make-up time approximately one month before the exam date.
