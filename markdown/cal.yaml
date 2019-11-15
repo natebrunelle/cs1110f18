@@ -368,7 +368,7 @@ assignments:
         files: ["dinojump.py", "*.jpg", "*.png"]
         writeup: pa18-dinojump.html
         open: 2019-11-07
-        due: 2019-11-19 09:00:00
+        due: 2019-11-20 09:00:00
     PA19:
         files: regex.py
         open: 2019-11-07

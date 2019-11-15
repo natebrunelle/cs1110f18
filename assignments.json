@@ -308,7 +308,6 @@
   {"weight":12
   ,"due":"2019-11-06 23:59"
   ,"files":["page*.jpg"]
-  ,"hide":true
   ,"group":"Exam"
   }
 ,"exam2p1":
