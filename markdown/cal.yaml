@@ -175,7 +175,6 @@ assignments:
         weight: 12
         due: 2019-11-06
         files: ['page*.jpg']
-        hide: true
 
     exam2p1:
         weight: 3
