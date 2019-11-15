@@ -8,7 +8,7 @@ Your task is to use PyGame and gamebox to create in interesting game with a part
 Unlike other assignments,
 
 -   You should work with one (1) partner for the entirety of this assignment
-    -   These will be handled in lab on 8 or 15 November (or in an adjacent class for 1111)
+    -   These will be handled in lab on 6 or 13 November (or in an adjacent class for 1111)
 -   This assignment is worth more points (see [the syllabus](syllabus.html) for details)
 -   You are expected to define the details of this assignment yourselves
 -   We'll check your progress (based on checkpoint kytos submissions) several times; lack of progress will result reduced final grades.
@@ -17,9 +17,6 @@ Unlike other assignments,
 
 For logistical reasons, partners will generally be assigned within a single lab section by TAs with little input from students.
 Your partner, once entered by a TA, will show up near the bottom of the submission site under "Project".
-
-
-You can submit a partner evaluation using [this google form](https://goo.gl/forms/QlAB2D2DhCkWimIR2).
 
 
 ## Working together
@@ -176,19 +173,19 @@ We will also check your progress with two intermediate checkpoints, each due mid
 
 Should be a python file, named `game.py`, containing comments describing your game idea and how you will fill the optional requirements.  We also encourage starting the game code in that file as well.
 
-This checkpoint is due at 5:00 AM Monday morning, and late submissions are *not* accepted. If you miss the checkpoint and would still like feedback, contact your code coach in lab (or class for 1111).
+This checkpoint is due at 5:00 AM Wednesday November 20, and late submissions are *not* accepted. If you miss the checkpoint and would still like feedback, contact your code coach in lab (or class for 1111).
 
 ## Checkpoint 2
 
 Should be a the basics of a working game, in `game.py`, possibly with a few "it crashes if you do *X*"-type bugs or missing features.
 
-This checkpoint is due at 5:00 AM Friday morning, and late submissions are *not* accepted. If you miss the checkpoint and would still like feedback, contact your code coach in lab (or class for 1111).
+This checkpoint is due at 5:00 AM Monday November 25, and late submissions are *not* accepted. If you miss the checkpoint and would still like feedback, contact your code coach in lab (or class for 1111).
 
 ## Final Submission
 
 Should be the entire game.
 
-This submission is due at 11:59 PM Monday night April 29, and per university policy late submissions are *not* accepted.
+This submission is due at 11:59 PM Friday night December 6, and per university policy late submissions are *not* accepted.
 
 ## Uploading files beyond `game.py`
 
