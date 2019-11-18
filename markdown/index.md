@@ -51,7 +51,7 @@ Section |Instructor            |Place
 1110-002|Craig Dill (12pm)     |Chemistry 402
 1110-003|Craig Dill (10am)     |Chemistry 402
 1110-004|Nathan Brunelle       |Chemistry 402
-1111    |Will McBurney         |TBD
+1111    |Will McBurney         |Olsson 009
 
 If you have a direct conflict with our Final Exam, we will provide a  make-up exam time. Look here for details on when/where/how to take the exam at this make-up time approximately one month before the exam date.
 
