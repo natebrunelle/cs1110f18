@@ -26,6 +26,8 @@ Etc.
 
 In this lab, you'll practice regular expressions by harvesting email addresses from a website.
 
+To help you debug regexes, we recommend testing them with <http://pythex.org> (in particular, we recommend the "cheat sheet" on the page.
+
 ## Example page
 
 <http://cs1110.cs.virginia.edu/emails.html>
