@@ -249,6 +249,8 @@ There are some pretty strict policies surrounding final exams, and according to 
 
 The "if I have 3 exams within a 24-hour window then I may reschedule one" comes from an allowance (not a policy) provided for by the College of Arts and Sciences to alleviate congested exam schedules. The Engineering school provides no such allowance, and therefore we cannot reschedule your exam for that reason (even if you are a student in the college).
 
+If one of those 3 exams is a college course, you may have success in getting that one rescheduled.
+
 
 # My program handled all the example inputs correctly but still got a 0.  Why?
 
