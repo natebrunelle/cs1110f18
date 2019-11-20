@@ -43,7 +43,7 @@ See the [FAQ](faq.html) for suggestions on ways around this.
 
 ## Final Exam Times
 
-The final exam will take place on Friday, December 13, 7-10PM. The location is determined by which lecture section you are enrolled in (TBD by the Engineering School). You must take the exam with your official lecture section.
+The final exam will take place on Friday, December 13, 7-10PM. The location is determined by which lecture section you are enrolled in (see table below). You must take the exam with your official lecture section.
 
 Section |Instructor            |Place
 --------|----------------------|-----------------------
