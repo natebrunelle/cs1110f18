@@ -241,6 +241,14 @@ If you believe you are an exception, contact your dean; only deans may approve f
 
 Know in advance that "I already paid for airline tickets" is *not* a special case.
 
+# I have 3 final exams in 24-hours. Can I reschedule my CS1110 final?
+
+The short answer is "no".
+
+There are some pretty strict policies surrounding final exams, and according to these the course staff cannot allow students to take the final exam at any time besides the officially-scheduled time unless there is approval from the office of the dean of the school offering the course (for us, this is the Engineering School).
+
+The "if I have 3 exams within a 24-hour window then I may reschedule one" comes from an allowance (not a policy) provided for by the College of Arts and Sciences to alleviate congested exam schedules. The Engineering school provides no such allowance, and therefore we cannot reschedule your exam for that reason (even if you are a student in the college).
+
 
 # My program handled all the example inputs correctly but still got a 0.  Why?
 
