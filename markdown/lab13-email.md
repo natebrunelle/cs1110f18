@@ -2,9 +2,6 @@
 title: "Lab 13: Email Finder"
 ...
 
-# Collaboration Tips for the day
-
-We hope this helps you to work well with your partner! [collaboration tip 1](https://docs.google.com/presentation/d/1bSOkar2XgpsyYCjng4iChchQr6HRB9xTUC7tJ9LhaxM/edit?usp=sharing), [collaboration tip 2](https://docs.google.com/presentation/d/1LEuM9jxAlkbSZ0p6MnMH5cgqKEVyYuBN-Ltd2a5Qwxg/edit?usp=sharing).
 
 
 # Help us improve
@@ -13,7 +10,7 @@ We have a few studies ongoing trying to understand and improve this course.
 It helps if we have some of your feedback.
 Please take a few minutes to fill out the survey linked below:
 
-<div style="display:table;margin: 1em auto;font-size:150%; padding:1ex; border:thin solid #e3e3e3; border-radius:4px; background:#f5f5f5;-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);" id="survey-link"><a href="https://www.surveymonkey.com/r/LighthouseECSpring2019PostSurvey">Survey</a></div>
+<div style="display:table;margin: 1em auto;font-size:150%; padding:1ex; border:thin solid #e3e3e3; border-radius:4px; background:#f5f5f5;-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);" id="survey-link"><a href="https://www.surveymonkey.com/r/LighthouseECCS1110PostSurveyFall2019">Survey</a></div>
 
 
 # Activity
