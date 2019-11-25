@@ -460,7 +460,7 @@
 ,"PA20":
   {"files":"salary.py"
   ,"open":"2019-11-07 00:00"
-  ,"due":"2019-12-02 09:00"
+  ,"due":"2019-12-04 09:00"
   ,"group":"PA"
   ,"tester":"test_salary.py"
   ,"late-policy":[0.75,0.75]
