@@ -31,6 +31,7 @@ Fall 2017   | [f2017e1.pdf](files/f2017e1.pdf) | [f2017e1key.html](files/f2017e1
 Spring 2018   | [s2018e1.pdf](files/s2018e1.pdf) | [s2018e1key.html](files/s2018e1key.html)
 Fall 2018   | [f2018e1.pdf](files/f2018e1.pdf) | [f2018e1key.html](https://docs.google.com/presentation/d/1stl9TeDPJA0MEVhsdMp_8C9Y6bvTuGKLHOg_V_w0eTA/edit#slide=id.g43d6d2d9d2_0_0)
 Spring 2019 | [s2019e1.pdf](files/s2019e1.pdf) | [s2019e1key.pdf](files/s2019e1key.pdf) 
+Fall 2019 | [f2019e1.pdf](files/f2019e1.pdf) | [f2019e1key.pdf](files/f2019e1key.pdf) 
 
 # Exam 2
 
@@ -93,6 +94,7 @@ Fall 2017   | [f2017e2.pdf](files/f2017e2.pdf) | [f2017e2key.html](files/f2017e2
 Spring 2018 | [s2018e2.pdf](files/s2018e2.pdf) | [s2018e2key.html](files/s2018e2key.html)
 Fall 2018 | [f2018e2.pdf](files/f2018e2.pdf) | [f2018e2key.html](https://docs.google.com/presentation/d/1uGC0W5efFVIoSMu3DRr1qYHqMmDclfLajw_tlQdryIw)
 Spring 2019 | [s2019e2.pdf](files/s2019e2.pdf) | [s2019e2key.pdf](files/s2019e2key.pdf) 
+Fall 2019 | [f2019e2.pdf](files/f2019e2.pdf) | [f2019e2key.pdf](files/f2019e2key.pdf) 
 
 
 # Exam 3
@@ -126,9 +128,6 @@ See also the previous exams:
 
 Semester    | Exam                       | Key/Rubric
 ------------|----------------------------|-----------------------------------
-Spring 2016 non-coding Qs | (not available) | [CS111X-S16-Final-KEY.pdf](files/CS111X-S16-Final-KEY.pdf)
-Spring 2016 Coding Q | [CS111X-S16-Final-Coding.pdf](files/CS111X-S16-Final-Coding.pdf) | (not available)
-Fall 2016   | [CS111X-F16-Final.pdf](files/CS111X-F16-Final.pdf) | [CS111X-F16-Final-KEY.pdf](files/CS111X-F16-Final-KEY.pdf)
 Spring 2017 | [s2017e3.pdf](files/s2017e3.pdf) | [s2017e3key.txt](files/s2017e3key.txt)
 Fall 2017 | [f2017e3.pdf](files/f2017e3.pdf) | [f2017e3key.html](files/f2017e3key.html)
 Spring 2018 | [s2018e3.pdf](files/s2018e3.pdf) | [s2018e3key.html](files/s2018e3key.html)
