@@ -88,3 +88,11 @@
     slides: http://www.cs.virginia.edu/~pm8fc/fa19/cs1111/slides/11_18_Regex.pdf
     files: [files/cs1111_19fa/email_grabber.py, files/cs1111_19fa/simpsons_phone.py]
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ba46a1d-a694-4e0d-a482-ab090154441a
+    
+2019-11-20:
+    slides: https://cs1110.cs.virginia.edu/lab13-email.html
+    
+2019-12-02:
+    slides: http://www.cs.virginia.edu/~pm8fc/fa19/cs1111/slides/12_02_Exceptions.pdf
+    files: [files/cs1111_19fa/email_grabber.py, files/cs1111_19fa/exception_demo.py]
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38723af1-c126-4c2e-b02f-ab170151f239
