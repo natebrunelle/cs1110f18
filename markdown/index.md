@@ -58,7 +58,7 @@ Section |Instructor            |Place
 **If you have a *direct* conflict with our Final Exam**, you may sign up to take the exam during a make-up exam session. We have 3 dean-approved make-up exam times: 
 
 - December 13 2pm-5pm in Thornton E303, 
-- December 13 9am-12pm, and 
+- December 13 9am-12pm in Rice 204, and 
 - December 12 7pm-10pm in Olsson Hall Room 011. 
 
 Any student who cannot take the exam during the regular-scheduled time but can take the exam during the December 13 2pm-5pm slot must do so. You may only take the exam during the December 13 9am-12pm time slot if you have conflicts for BOTH of December 13 7pm-10pm and December 13 2pm-5pm. You may only take the exam during the December 12 7pm-10pm slot if you have conflicts with all three of the other slots. (Sorry for the elaborate process, but this is the best process we could find that was compliant with all relevant university policies.)
