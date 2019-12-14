@@ -222,7 +222,97 @@ assignments:
         weight: 16
         due: 2019-12-13
         files: ['page*.jpg']
+        
+    exam3p1:
+        weight: 6
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
+    
+    exam3p2-3:
+        weight: 10
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
+    
+    exam3p2-3:
+        weight: 10
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
+    
+    exam3p4:
+        weight: 10
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
+        
+    exam3p5:
+        weight: 10
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
 
+    exam3p6:
+        weight: 10
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
+
+    exam3p7:
+        weight: 10
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
+    
+    exam3p8:
+        weight: 10
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
+        
+    exam3p9:
+        weight: 12
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
+    
+    exam3p10:
+        weight: 12
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
+        
+        exam2p2_retake:
+        weight: 8
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
+        
+    exam2p3_retake:
+        weight: 14
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
+        
+    exam2p4-5_retake:
+        weight: 14
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
+        
+    exam2p6_retake:
+        weight: 9
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
+        
+    exam2p7_retake:
+        weight: 12
+        due: 2019-12-13
+        files: ['exam*.png']
+        hide: true
+        
     Lab01:
         title: installing
         due: 2019-08-29
