@@ -236,12 +236,6 @@ assignments:
         files: ['exam*.png']
         hide: true
     
-    exam3p2-3:
-        weight: 10
-        due: 2019-12-13
-        files: ['exam*.png']
-        hide: true
-    
     exam3p4:
         weight: 10
         due: 2019-12-13
@@ -284,7 +278,7 @@ assignments:
         files: ['exam*.png']
         hide: true
         
-        exam2p2_retake:
+    exam2p2_retake:
         weight: 8
         due: 2019-12-13
         files: ['exam*.png']
