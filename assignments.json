@@ -522,6 +522,7 @@
   {"weight":16
   ,"due":"2019-12-13 23:59"
   ,"files":["page*.jpg"]
+  ,"hide":true
   ,"group":"Exam"
   }
 ,"exam2p2_retake":
